@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+	margin-left: 3cm;
+	margin-right: 3cm;
+	margin-top: 1.5cm;
+	margin-bottom: 1.5cm;
+}
+p {
+	margin-bottom: 0.2cm;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12pt;
+	text-align: justify;
+	margin-left: -0.25cm;
+	text-indent: 0.25cm;
+}
+p:first-letter {
+	text-indent: 0.2cm;
+}
+p#titulo {
+	text-align: center;
+	font-size: 14pt;
+	font-weight: bold;
+	text-decoration: underline;
+}
+p#seccion {
+	text-align: left;
+	font-weight: bold;
+}
+div#figura {
+	text-align: center;
+}
+div#figura p {
+	text-align: center;
+	font-style:italic;
+}

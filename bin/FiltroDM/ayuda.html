@@ -1,0 +1,97 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="CONTENT-TYPE" content="text/html; charset=utf-8" />
+<title>Ayuda FiltroDM</title>
+<link href="ayuda.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body lang="es-ES" dir="ltr" xml:lang="es-ES">
+<p id="titulo">MANUAL DE USUARIO</p>
+<p id="seccion">FiltroDM</p>
+<p>La aplicación FiltroDM se encarga de procesar el conjunto de datos académicos de los
+  alumnos de la Universidad de Málaga contenidos en dos ficheros de texto plano. Con la herramienta se filtran dichos
+  archivos, según los parámetros indicados en las ventanas de filtrado y selección de atributos, de información innecesaria
+  para la extracción de conocimiento. Como salida se genera un fichero en formato .arff, que será tratado por Weka.</p>
+<p>Estos ficheros de entrada provienen de la base de datos de la Universidad de Málaga.
+  En el primer fichero se almacena la información relativa al alumno, identificado por un código único y confidencial. Este
+  código no está relacionado con el DNI ni el número de expediente del alumno por lo que se asegura la privacidad de los
+  datos. En el segundo fichero se almacena la información relativa al expediente académico (asignaturas cursadas).</p>
+<p>Nada más abrir el programa se carga por defecto una configuración estándar
+  almacenada en el fichero “<i>defecto.cfg</i>”. Una vez iniciado el programa se pueden cargar o guardar tantas configuraciones como se desee.</p>
+<p>En este fichero se encuentran los nombres de archivos de las tablas con la
+  información de los alumnos y asignaturas. Esta información se carga automáticamente en memoria.</p>
+<p>Además, en el fichero de configuración, están guardados los datos de filtrado y
+  selección de atributos que una vez abierto el programa, quedaran actualizados en la aplicación.</p>
+<p>La interfaz de usuario es bastante simple y fácil de usar. Dispone de tres pestañas
+  clasificadas por funcionalidad: Principal, Condiciones de filtrado y Selección de atributos.</p>
+<p id="seccion">Ventana principal</p>
+<p>La primera es la pestaña principal (<i>Figura A.1</i>) donde se manejan los ficheros de configuración. Se pueden cargar y almacenar todas los valores
+  introducidos en los cuadros del programa; de este modo se hace más cómodo conservar y recuperar configuraciones previas de
+  la aplicación. , de datos y las tablas; además se encuentran los botones de ayuda y comienzo del proceso de filtrado. El
+  nombre de fichero se introduce en el campo de texto o a través de las ventanas de diálogo.</p>
+<div id="figura">
+  <img src="ayuda_html_772e1b7c.png" alt="Figura 1"/>
+  <p>Figura A.1: Ventana principal de FiltroDM</p>
+</div>
+<p>El resto del manejo de ficheros también se realiza en la ventana principal. Los tres
+  cuadros siguientes son los dos archivos de entrada (uno con los datos de matriculación de los alumnos y otro con las
+  asignaturas cursadas) y el archivo de salida con los datos filtrados. Al igual que ocurría con el campo configuración, los
+  nombres de fichero se pueden introducir directamente en el cuadro de texto o mediante la ventana de diálogo que aparece al
+  pulsar el botón <i>Abrir</i> o <i>Guardar</i>.</p>
+<p>Los diez cuadros a dos columnas son los nombres de fichero donde se guardan las
+  tablas con los códigos y nombres de las asignaturas, adaptaciones, provincias, etc.</p>
+<div id="figura">
+  <img src="ayuda_html_6d4e23c8.png" alt="Figura 2" />
+  <p>Figura A.2: Ventana de progreso</p>
+</div>
+<p>El botón <i>COMENZAR</i> da inicio al proceso de filtrado. Mientras se realiza el proceso aparece una ventana de
+  progreso (<i>Figura A.2</i>). Esta ventana indica el porcentaje de la tarea que hasta el momento se ha realizado.
+  Sirve de guía de tiempo que se tarda en realizar la operación.</p>
+<p>Al finalizar el proceso aparece una ventana emergente (<i>Figura A.3</i>) con el número de experiencias analizadas y cuantas de ellas han sido almacenadas en el fichero de salida tras el filtrado.</p>
+<div id="figura">
+  <img src="ayuda_html_8384bc7.png" alt="Figura 3" />
+  <p>Figura A.3: Proceso terminado</p>
+</div>
+<p>En este punto es posible volver a realizar otra ejecución (cambiando los valores de
+  filtrado) o salir de la aplicación.</p>
+<p>El botón <i>?</i> lanza la ayuda del programa en formato HTML. Es necesario que la computadora tenga
+  asociado ese formato a un explorador de Internet.</p>
+<p id="seccion">Condiciones de filtrado</p>
+<p>La segunda pestaña (<i>Figura A.4</i>) contiene las condiciones de filtrado. Se pueden elegir las siguientes opciones de filtrado: por género, nacionalidad (español o extranjero), provincia, por vía de acceso, finalización de estudios (terminó la carrera o continúa estudiando) o asignatura (aprobada o cursada).</p>
+<div id="figura">
+  <img src="ayuda_html_69cd2604.png" alt="Figura 4" />
+  <p>Figura A.4: Ventana de opciones de filtrado de datos</p>
+</div>
+<p>Si se selecciona la opción <i>Todos</i>/<i>Todas</i> no se realiza ningún filtrado; no se realiza verificación del atributo y la experiencia no
+  se filtra.</p>
+<p>En el cuadro <i>Asignaturas</i> se puede elegir entre dos tipos de filtrado. En caso de seleccionar <i>Estudios cursados</i> se activa la lista y los cuadros de selección de datos académicos. Una vez seleccionada una
+  asignatura se puede incluir en la lista pulsando el botón <i>Insertar</i>. También se puede elegir un centro, una titulación o un plan de estudios, de modo que todas las asignaturas
+  pertenecientes al mismo estarían incluidas. Para eliminar un elemento de la lista basta con seleccionarlo y pulsar el botón <i>Eliminar</i>.</p>
+<p>La condición de filtrado de la lista de estudios cursados no es excluyente. Si
+  verifica una de las condiciones de la lista se almacena la experiencia en el fichero de salida. Para filtrar la experiencia
+  es necesario que no cumpla ninguna de las condiciones de la lista, es decir, que el alumno no haya cursado ninguna de las
+  asignaturas.</p>
+<p>La segunda opción de filtrado por asignaturas es <i>Asignatura aprobada</i>. Al igual que en el caso anterior se procede a rellenar los cuatro campos de los datos
+  académicos y posteriormente se pulsa el botón <i>Insertar</i>. Sólo que ahora no se añade a la lista, sino al cuadro</span> <i>Asignatura aprobada</i>. Para eliminarlo bastará pulsar el botón <i>Eliminar</i>.</p>
+<p id="seccion">Selección de atributos</p>
+<p>La tercera pestaña contiene la selección de atributos (<i>Figura A.5</i>). Aquí se eligen los atributos que van a formar parte del fichero de salida.
+  También se selecciona cuál de ellos será la clase, es decir, el atributo sobre el que queremos extraer el
+  conocimiento.</p>
+<p>En caso se seleccionar algún atributo de asignatura, se activan los cuadros de las
+  asignaturas situados en la parte derecha. En el menú desplegable se selecciona la titulación. Una vez elegida aparece en el
+  cuadro superior la lista de todas las asignaturas correspondientes a dicha titulación.</p>
+<p>Con los botón <i>Insertar</i> se añaden a la lista de asignaturas, en el cuadro inferior, aquellas asignaturas de la
+  titulación seleccionadas en el cuadro superior. Para eliminar de la lista de asignaturas basta con seleccionar la
+  asignatura que se quiere borrar y pulsar el botón <i>Eliminar</i>.</p>
+<p>Para cada combinación de atributo de asignatura y asignatura seleccionada en la
+  lista se añadirá un atributo a la lista de experiencias.</p>
+<div id="figura">
+  <img src="ayuda_html_m65bd5f89.png" alt="Figura 5" />
+  <p>Figura A.5: Ventana de opciones de selección de atributos</p>
+</div>
+<br />
+<br />
+</body>
+</html>

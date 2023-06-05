@@ -1,0 +1,3311 @@
+301  01  01  001  Teoría económica (introducción)
+301  01  01  002  Sociología
+301  01  01  003  Matemáticas I
+301  01  01  004  Contabilidad general
+301  01  01  005  Estadística descriptiva
+301  01  01  006  Derecho civil
+301  01  01  007  Teoría económica -microeconomía-
+301  01  01  008  Estructura e instituc. econ. mundiales
+301  01  01  009  Historia econ. mundial y de españa
+301  01  01  010  Matemáticas II
+301  01  01  011  Teoria del estado y de los s.p.c.
+301  01  01  012  Derecho mercantil
+301  01  01  013  Teoria economica -macroeconomia-
+301  01  01  014  Estructura e instituciones econ. de Esp.
+301  01  01  015  Política económica I
+301  01  01  016  Hacienda pública
+301  01  01  017  Sistemas fiscales
+301  01  01  018  Economía de la empresa (introducción)
+301  01  01  019  Estadística teórica
+301  01  01  020  Teoría económica IV
+301  01  01  021  Política económica II
+301  01  01  022  Econometría
+301  01  01  023  Ta. sup. de la hacienda publ. y pol. fiscal
+301  01  01  024  Economía regional I
+301  01  01  025  Historia del pensamiento económico
+301  01  01  026  Hacienda pública española
+301  01  01  027  Derecho administrativo económico
+301  01  01  028  Política económica III
+301  01  01  029  Economía regional II
+301  01  01  030  Planificación regional
+301  01  01  031  Dcho.adm.econ.con espec.ref.a las inst.reg.y local
+301  01  03  101  Elementos de contabilidad
+301  01  03  102  Estructura económica mundial
+301  01  03  103  Estadística I
+301  01  03  104  Introducción al derecho
+301  01  03  105  Introducción a la economía I
+301  01  03  106  Matemáticas para economistas I
+301  01  03  107  Estructura economica de España I
+301  01  03  108  Estadística II
+301  01  03  109  Historia económica mundial
+301  01  03  110  Matemáticas para economistas II
+301  01  03  111  Introducción a la economía II
+301  01  03  112  Contabilidad financiera
+301  01  03  201  Historia económica de España
+301  01  03  202  Microeconomía I
+301  01  03  203  Contabilidad de costes
+301  01  03  204  Estadística III
+301  01  03  205  Programación matemática
+301  01  03  206  Sociología
+301  01  03  207  Macroeconomía I
+301  01  03  208  Econometría I
+301  01  03  209  Análisis dinámico
+301  01  03  210  Técnicas de análisis económico
+301  01  03  211  Economía de la empresa I
+301  01  03  301  Econometría II
+301  01  03  302  Política económica I
+301  01  03  303  Hacienda pública I
+301  01  03  304  Microeconomía avanzada I
+301  01  03  305  Economía de la empresa II
+301  01  03  306  Econometría III
+301  01  03  307  Política económica II
+301  01  03  308  Macroeeconomia avanzada I
+301  01  03  309  Economía de la empresa III
+301  01  03  310  Sistemas fiscales
+301  01  03  401  Microeconomía avanzada II
+301  01  03  402  Hacienda pública II
+301  01  03  403  Sistema fiscal español I
+301  01  03  404  Economía y política de la C.E. I
+301  01  03  405  Sistema financiero I
+301  01  03  406  Sector público español
+301  01  03  407  Macroeconomía avanzada II
+301  01  03  408  Sistema fiscal español II
+301  01  03  409  Economía y política de la C.E. II
+301  01  03  410  Sistema financiero II
+301  01  03  701  Historia económica de España
+301  01  03  702  Historia económica de Andalucia (S. XVIII-XX)
+301  01  03  703  Macroeconomía I
+301  01  03  704  Microeconomía I
+301  01  03  705  Historia económica mundial y de España
+301  01  03  706  Historia económica de Andalucia (S. XVIII-XX)
+301  01  04  101  Introducción a la contabilidad
+301  01  04  102  Estructura económica mundial
+301  01  04  103  Estadística I
+301  01  04  104  Historia económica mundial
+301  01  04  105  Introducción al derecho
+301  01  04  106  Introducción a la economía I
+301  01  04  107  Introducción a la economía II
+301  01  04  108  Matemáticas para economistas I
+301  01  04  109  Matemáticas para economistas II
+301  01  04  110  Contabilidad financiera
+301  01  04  201  Contabilidad de costes
+301  01  04  202  Estructura económica de España I
+301  01  04  203  Estadística II
+301  01  04  204  Historia económica de España
+301  01  04  205  Microeconomía I
+301  01  04  206  Macroeconomía I
+301  01  04  207  Programación matemática
+301  01  04  208  Sociología
+301  01  04  209  Análisis dinámico
+301  01  04  210  Estructura económica de España II
+301  01  04  211  Estadística III
+301  01  04  301  Econometría II
+301  01  04  302  Política económica I
+301  01  04  303  Política económica II
+301  01  04  304  Economía de la empresa I
+301  01  04  305  Economía de la empresa II
+301  01  04  306  Hacienda pública I
+301  01  04  307  Microeconomía avanzada I
+301  01  04  308  Macroeconomía avanzada I
+301  01  04  309  Econometría I
+301  01  04  310  Hacienda pública II
+301  01  04  401  Econometría III
+301  01  04  402  Hacienda pública española I
+301  01  04  403  Microeconomía avanzada II
+301  01  04  404  Macroeconomía avanzada II
+301  01  04  405  Dirección comercial
+301  01  04  406  Economía y política de la Unión Europea
+301  01  04  407  Sistema financiero
+301  01  04  408  Hacienda pública española II
+301  01  04  701  Historia económica mundial y de España
+301  01  04  702  Historia económica de Andalucía (siglos XVIII-XX)
+301  01  04  703  Historia económica de España
+301  01  04  704  Historia económica de Andalucía (siglos XVIII-XX)
+301  01  04  705  Macroeconomía I
+301  01  04  706  Microeconomía I
+301  02  01  001  Teoría económica (introducción)
+301  02  01  002  Sociología de la empresa
+301  02  01  003  Matematicas I (ANALISIS)
+301  02  01  004  Contabilidad general
+301  02  01  005  Estadist.descriptiva (introd.estad.econ.)
+301  02  01  006  Derecho (Introducción)
+301  02  01  066  Teoría económica -microeconomía-
+301  02  01  067  Economía de la empresa (introducción)
+301  02  01  068  Contabilidad financiera y de sociedades
+301  02  01  069  Matemáticas empresariales
+301  02  01  070  Estructura económica
+301  02  01  071  Derecho mercantil
+301  02  01  072  Historia económica
+301  02  01  073  Teoría económica -macroeconomía-
+301  02  01  074  Política económica
+301  02  01  075  Estadística empresarial
+301  02  01  076  Economia de la empresa -org. y admon.-
+301  02  01  077  Contabilidad de costes
+301  02  01  078  Régimen fiscal de la empresa
+301  02  01  079  Derecho del trabajo
+301  02  01  080  Análisis contable
+301  02  01  081  Matemáticas financieras
+301  02  01  082  Técnicas cuantitativas de gestión
+301  02  01  083  Econometría de la empresa
+301  02  01  084  Control de gestión
+301  02  01  085  Informática y sistemas
+301  02  01  086  Comercialización internacional
+301  02  01  087  Política económica de la empresa
+301  02  01  088  Dirección y gestión de personal
+301  02  01  089  Política fiscal de la empresa
+301  02  01  090  Dirección financiera
+301  02  01  091  Gestión de stocks
+301  02  01  092  Investigación de mercados
+301  02  01  093  Marketing y publicidad
+301  02  03  101  Introducción a la contabilidad
+301  02  03  102  Derecho de la empresa
+301  02  03  103  Estadística I
+301  02  03  104  Introducción a la economía I
+301  02  03  105  Matemáticas empresariales I
+301  02  03  106  Historia económica mundial y de España
+301  02  03  107  Economía de la empresa I
+301  02  03  108  Estructura económica mundial
+301  02  03  109  Estadística II
+301  02  03  110  Introducción a la economía II
+301  02  03  111  Matemáticas empresariales II
+301  02  03  112  Teoría de la contabilidad
+301  02  03  201  Economía de la empresa II
+301  02  03  202  Estructura económica de España
+301  02  03  203  Microeconomía I
+301  02  03  204  Progrmacion matematica
+301  02  03  205  Contabilidad financiera
+301  02  03  206  Estadística III
+301  02  03  207  Macroeconomía I
+301  02  03  208  Contabilidad de gestión I
+301  02  03  209  Matemáticas de las operaciones financieras
+301  02  03  210  Econometría I
+301  02  03  211  Dirección de la producción y operaciones
+301  02  03  301  Dirección comercial I
+301  02  03  302  Econometría II
+301  02  03  303  Análisis y consolidación contable I
+301  02  03  304  Introducción a la política económica
+301  02  03  305  Contabilidad de gestión II
+301  02  03  306  Microeconomía II
+301  02  03  307  Dirección comercial II
+301  02  03  308  Econometría III
+301  02  03  309  Análisis y consolidación contable II
+301  02  03  310  Política económica
+301  02  03  311  Macroeconomía II
+301  02  03  312  Sistemas fiscales
+301  02  03  401  Dirección financiera I
+301  02  03  402  Dirección estratégica y política de empresa I
+301  02  03  403  Administración de recursos humanos
+301  02  03  404  Distribución comercial
+301  02  03  405  Régimen fiscal de la empresa I
+301  02  03  406  Dirección financiera II
+301  02  03  407  Dirección estratégica y política de empresa II
+301  02  03  408  Régimen fiscal de la empresa II
+301  02  03  409  Control de gestión
+301  02  03  701  Microeconomía I
+301  02  03  702  Macroeconomía I
+301  02  03  703  Economía de la empresa I
+301  02  03  704  Economía de la empresa II
+301  02  04  101  Contabilidad financiera y analítica
+301  02  04  102  Derecho de la empresa
+301  02  04  103  Economía de la empresa I
+301  02  04  104  Estructura económica mundial
+301  02  04  105  Introducción a la estadística empresarial
+301  02  04  106  Introducción a la economía I
+301  02  04  107  Introducción a la economía II
+301  02  04  108  Matemáticas empresariales I
+301  02  04  109  Matemáticas empresariales II
+301  02  04  110  Historia económica mundial y de España
+301  02  04  201  Economía de la empresa II
+301  02  04  202  Estructura económica de España
+301  02  04  203  Estadística aplicada a la empresa I
+301  02  04  204  Teoría económica I
+301  02  04  205  Teoría económica II
+301  02  04  206  Contabilidad financiera
+301  02  04  207  Dirección de la producción y operaciones
+301  02  04  208  Programación matemática
+301  02  04  209  Matemáticas de las operaciones financieras
+301  02  04  210  Contabilidad de costes
+301  02  04  211  Estadística aplicada a la empresa II
+301  02  04  301  Dirección comercial
+301  02  04  302  Dirección y distribución comercial
+301  02  04  303  Métodos econométricos aplicados a la empresa I
+301  02  04  304  Contabilidad general y analítica
+301  02  04  305  Contabilidad de gestión
+301  02  04  306  Sistemas fiscales
+301  02  04  307  Introducción a la econometría de la empresa
+301  02  04  308  Control de gestión
+301  02  04  309  Teoría económica III
+301  02  04  401  Dirección financiera
+301  02  04  402  Métodos econométricos aplicados a la empresa II
+301  02  04  403  Dirección estratégica y política de empresa I
+301  02  04  404  Dirección estratégica y política de la empresa II
+301  02  04  405  Introducción a la política económica
+301  02  04  406  Política económica
+301  02  04  407  Administración de recursos humanos
+301  02  04  408  Régimen fiscal de la empresa
+301  02  04  701  Teoría económica I
+301  02  04  702  Teoría económica II
+301  02  04  703  Economía de la empresa I
+301  02  04  704  Economía de la empresa II
+301  03  03  101  Introducción al derecho público
+301  03  03  102  Estadística administrativa I
+301  03  03  103  Introducción a la economía
+301  03  03  104  Sociología
+301  03  03  105  Introducción a la contabilidad general
+301  03  03  106  Estructuras políticas
+301  03  03  107  Derecho constitucional
+301  03  03  108  Estadística administrativa II
+301  03  03  109  Hacienda pública
+301  03  03  110  Sociología de las organizaciones
+301  03  03  111  Estructuras administrativas
+301  03  03  112  Informática básica
+301  03  03  201  Contabilidad de gestión
+301  03  03  202  Contabilidad pública
+301  03  03  203  Derecho administrativo I
+301  03  03  204  Derecho administrativo II
+301  03  03  205  Derecho e inst. internacionales y comunitarias
+301  03  03  206  Documentación administrativa
+301  03  03  207  Estructura económica de España
+301  03  03  208  Gestión administrativa
+301  03  03  209  Gestión de recursos humanos
+301  03  03  210  Gestión y administración de servicios públicos
+301  03  03  211  Informática de gestión
+301  03  03  301  Gestión presupuestaria y tributaria
+301  03  03  302  Derecho del trabajo y de la Seguridad Social
+301  03  03  303  Hacienda pública territorial
+301  03  04  101  Derecho constitucional I
+301  03  04  102  Derecho constitucional II
+301  03  04  103  Estadística administrativa I
+301  03  04  104  Estadística administrativa II
+301  03  04  105  Estructuras políticas
+301  03  04  106  Estructuras administrativas
+301  03  04  107  Introducción a la contabilidad
+301  03  04  108  Informática básica
+301  03  04  109  Introducción a la economía
+301  03  04  110  Sociología
+301  03  04  111  Sociología de las organizaciones
+301  03  04  112  Introducción al derecho civil
+301  03  04  201  Derecho administrativo I
+301  03  04  202  Derecho administrativo II
+301  03  04  203  Gestión de recursos humanos
+301  03  04  204  Contabilidad pública
+301  03  04  205  Documentación administrativa
+301  03  04  206  Informática de gestión
+301  03  04  207  Estructura económica de España
+301  03  04  208  Derecho e instituciones internacionales y comunitarias
+301  03  04  209  Contabilidad de gestión
+301  03  04  301  Gestión administrativa
+301  03  04  302  Gestión y administración de servicios públicos
+301  03  04  303  Gestión presupuestaria y tributaria
+301  03  04  304  Hacienda pública
+301  03  04  305  Derecho del trabajo y de la Seguridad Social
+301  03  04  306  Hacienda pública territorial
+301  04  03  101  Derecho del seguro, bancario y bursátil
+301  04  03  102  Economía y técnica de la Seguridad Social
+301  04  03  103  Estadística actuarial I
+301  04  03  104  Estadística actuarial II
+301  04  03  105  Gestión de empresas financieras
+301  04  03  106  Matemática actuarial I
+301  04  03  107  Matemática financiera I
+301  04  03  108  Matemática financiera II
+301  04  03  109  Análisis financiero
+301  04  03  110  Instrumentos y mercados financieros
+301  04  03  111  Teoría económica de las finanzas
+301  04  03  112  Teoría general del seguro
+301  04  03  201  Estadística actuarial III
+301  04  03  202  Matemática actuarial II
+301  04  03  203  Matemática actuarial III
+301  04  03  204  Matemática financiera III
+301  04  03  205  Econometría actuarial
+301  04  03  206  Planes privados de previsión
+301  04  03  207  Régimen fiscal de las empres. financ. y asegurador
+301  04  03  701  Contabilidad financiera
+301  04  03  702  Contabilidad de costes
+301  04  03  703  Economía de la empresa I
+301  04  03  704  Economía de la empresa II
+301  04  03  705  Estadística II
+301  04  03  706  Matemática empresarial II
+301  04  03  707  Matemáticas de las operaciones financieras
+301  04  03  708  Contabilidad financiera
+301  04  03  709  Contabilidad de costes
+301  04  03  710  Economía de la empresa I
+301  04  03  711  Economía de la empresa II
+301  04  03  712  Derecho de la empresa
+301  04  03  713  Derecho de sociedades mercantiles
+301  04  04  101  Derecho del seguro bancario y bursátil
+301  04  04  102  Economía y técnica de la Seguridad Social
+301  04  04  103  Estadística actuarial I
+301  04  04  104  Estadística actuarial II
+301  04  04  105  Gestión de empresas financieras
+301  04  04  106  Matemática actuarial I
+301  04  04  107  Matemática financiera I
+301  04  04  108  Matemática financiera II
+301  04  04  109  Teoría económica de las finanzas
+301  04  04  110  Teoría general del seguro
+301  04  04  111  Análisis financiero
+301  04  04  201  Estadística actuarial III
+301  04  04  202  Matemática actuarial II
+301  04  04  203  Matemática actuarial III
+301  04  04  204  Matemática financiera III
+301  04  04  205  Régimen fiscal de las empresas financieras y aseguradoras
+301  04  04  206  Econometría actuarial
+301  04  04  207  Instrumentos y mercados financieros
+301  04  04  208  Planes de previsión
+301  04  04  701  Contabilidad financiera y analítica
+301  04  04  702  Economía de la empresa I
+301  04  04  703  Economía de la empresa II
+301  04  04  704  Estadística aplicada a la empresa I
+301  04  04  705  Matemáticas empresariales I
+301  04  04  706  Matemáticas empresariales II
+301  04  04  707  Contabilidad financiera y analítica
+301  04  04  708  Economía de la empresa I
+301  04  04  709  Economía de la empresa II
+301  04  04  710  Derecho de la empresa
+301  04  04  711  Derecho de la contratación mercantil y de los titulos valores
+302  01  01  001  Anatomía humana I
+302  01  01  002  Bioquímica
+302  01  01  003  Biofísica
+302  01  01  004  Bioestadística
+302  01  01  005  Biología
+302  01  01  006  Anatomía humana II
+302  01  01  007  Fisiología humana
+302  01  01  008  Histología
+302  01  01  009  Psicología médica
+302  01  01  010  Farmacología general
+302  01  01  011  Anatomía patológica
+302  01  01  012  PATOLOGIA GENERAL Y PROPED.
+302  01  01  013  Microbiología y parasitología
+302  01  01  014  Patología médica I
+302  01  01  015  Patología quirúrgica I
+302  01  01  016  Otorrinolaringología
+302  01  01  017  Oftalmología
+302  01  01  018  Obstetricia y ginecología I
+302  01  01  019  Historia de la medicina
+302  01  01  020  Patología médica II
+302  01  01  021  Patología quirúrgica II
+302  01  01  022  Obstetricia y ginecología II
+302  01  01  023  Pediatría y puericultura
+302  01  01  024  Psiquiatría
+302  01  01  025  Patología médica III
+302  01  01  026  Patología quirúrgica III
+302  01  01  027  Medicina preventiva
+302  01  01  028  Dermatología y venereología
+302  01  01  029  Medicina legal
+302  01  01  030  Terapéutica y farmacología clínica
+302  01  01  031  Radiología y medicina física
+302  01  04  101  Anatomía funcional médico-deportiva I
+302  01  04  102  Fisiología médico-deportiva I
+302  01  04  103  Acondicionamiento físico
+302  01  04  104  Estructura y movimiento
+302  01  04  105  Clínica del deporte: Médica
+302  01  04  106  Deportes I
+302  01  04  107  Psicología y psicopatología médico-deportiva
+302  01  04  108  Organización y legislación
+302  01  04  109  Practicum
+302  01  04  201  Fisiología médico-deportiva II
+302  01  04  202  Anatomía funcional médico-deportiva II
+302  01  04  203  Biomecánica médico-deportiva I
+302  01  04  204  Sistemas de entrenamiento
+302  01  04  205  Cirugía
+302  01  04  206  Traumatología y ortopedia
+302  01  04  207  Deportes II
+302  01  04  213  Practicum
+302  01  04  301  Rehabilitación médico-deportiva
+302  01  04  302  Higiene y educ. médica para la salud. Medio escolar, universitar. y laboral
+302  01  04  303  Fisiología médico-deportiva III
+302  01  04  304  Biomecánica médico-deportiva II
+302  01  04  305  Deportes III
+302  01  04  306  Sociología
+302  01  04  307  Farmacología y toxicología médico-deportiva
+302  01  04  308  Daño corporal
+302  01  04  309  Instalaciones deportivas
+302  01  04  310  Practicum
+302  02  04  101  Bioquímica general y biología molecular
+302  02  04  102  Citología, embriología e histología general humanas
+302  02  04  103  Fisiología general
+302  02  04  104  Física médica
+302  02  04  105  Bioestadística
+302  02  04  106  Historia de la Medicina y documentación científica
+302  02  04  107  Anatomía humana I
+302  02  04  201  Anatomía humana II
+302  02  04  202  Histologia especial humana
+302  02  04  203  Fisiología humana
+302  02  04  204  Inmunología
+302  02  04  205  Genética médica
+302  02  04  206  Epidemiología general y demografía sanitaria
+302  02  04  207  Bases psicológicas de los estados de salud y enfermedad
+302  02  04  301  Patología general
+302  02  04  302  Anatomía patológica general
+302  02  04  303  Farmacología general
+302  02  04  304  Microbiología y parasitología médicas
+302  02  04  305  Radiología general
+302  02  04  306  Fundamentos de cirugía
+302  02  04  307  Anestesia, reanimación y medicina del dolor
+302  02  04  308  Protección radiológica
+302  02  04  401  Medicina interna I
+302  02  04  402  Cirugía I
+302  02  04  403  Otorrinolaringología
+302  02  04  404  Oftalmología
+302  02  04  405  Obstetricia
+302  02  04  406  Anatomía patológica especial
+302  02  04  407  Oncología
+302  02  04  501  Medicina interna II
+302  02  04  502  Cirugía II
+302  02  04  503  Dermatología y venereología
+302  02  04  504  Ginecología
+302  02  04  505  Pediatría
+302  02  04  506  Psiquiatría
+302  02  04  507  Rehabilitación y medicina física
+302  02  04  601  Medicina legal y toxicología. Deontología y legislación médica
+302  02  04  602  Medicina preventiva y salud pública y comunitaria
+302  02  04  603  Clínica médica
+302  02  04  604  Clínica quirúrgica
+302  02  04  605  Clínica radiológica
+302  02  04  606  Clínica pediátrica
+302  02  04  607  Farmacología clínica
+302  02  04  608  Medicina intensiva y urgencias médicas
+303  01  01  001  Matemáticas para biólogos
+303  01  01  002  Física para biólogos
+303  01  01  003  Química para biólogos
+303  01  01  004  Biología general
+303  01  01  005  Geología general
+303  01  01  006  Zoología general
+303  01  01  007  Botánica general
+303  01  01  008  Bioquímica
+303  01  01  009  Citología e histología
+303  01  01  010  Bioestadística
+303  01  01  011  Fisiología animal
+303  01  01  012  Fisiología vegetal
+303  01  01  013  Microbiología
+303  01  01  014  Genética
+303  01  01  015  Inglés
+303  01  01  016  Ecología general
+303  01  01  017  Bioquímica especial
+303  01  01  018  Genética especial
+303  01  01  019  Ecología general
+303  01  01  020  Paleontología
+303  01  01  021  Zoología (cordados)
+303  01  01  022  Ecología general
+303  01  01  023  Edafología
+303  01  01  024  Botánica (criptogamia)
+303  01  01  025  Teoría ecológica
+303  01  01  026  Microbiología especial
+303  01  01  027  Fisiología animal especial
+303  01  01  028  Zoologia (inv. no artropodos)
+303  01  01  029  Zoologia (inv. artropodos)
+303  01  01  030  Fisiología vegetal especial
+303  01  01  031  Botánica (fanerogamia)
+303  01  01  032  Geobotánica
+303  01  03  101  Citología e histología vegetal y animal
+303  01  03  102  Zoología
+303  01  03  103  Matemáticas
+303  01  03  104  Química
+303  01  03  105  Tendencias de la biología
+303  01  03  106  Organografía microscópica vegetal
+303  01  03  107  Sistemática y filogenia animal
+303  01  03  108  Botánica
+303  01  03  109  Física de los procesos biológicos
+303  01  03  110  Biomoléculas
+303  01  03  201  Bioquímica
+303  01  03  202  Microbiología
+303  01  03  203  Taxonomía y evolución vegetal
+303  01  03  204  Bioestadística
+303  01  03  205  Genética
+303  01  03  206  Fisiología animal
+303  01  03  207  Geología
+303  01  03  208  Bacteriología
+303  01  03  301  Fisiología vegetal
+303  01  03  302  Ecología general
+303  01  03  303  Teorías de la evolución
+303  01  03  304  Análisis genético
+303  01  03  305  Neurofisiología
+303  01  03  306  Fisiología vegetal especial
+303  01  03  307  Inmunología
+303  01  03  308  Teoría ecológica
+303  01  03  401  Biología experimental I
+303  01  03  402  Diseño experimental y análisis de datos
+303  01  03  403  Biología experimental II
+303  01  03  501  Biología experimental aplicada I
+303  01  03  502  Biología experimental aplicada II
+303  01  03  503  Proyectos y estudios en Biología
+303  01  04  101  Citología e histología vegetal y animal
+303  01  04  102  Zoología
+303  01  04  103  Matemáticas
+303  01  04  104  Química
+303  01  04  105  Biomoléculas
+303  01  04  106  Organografía microscópica vegetal
+303  01  04  107  Sistemática y filogenia animal
+303  01  04  108  Botánica
+303  01  04  109  Física de los procesos biológicos
+303  01  04  201  Bioquímica
+303  01  04  202  Microbiología
+303  01  04  203  Taxonomía y evolución vegetal
+303  01  04  204  Bioestadística
+303  01  04  205  Genética
+303  01  04  206  Fisiología animal
+303  01  04  207  Geología
+303  01  04  208  Bacteriología
+303  01  04  301  Fisiología vegetal
+303  01  04  302  Ecología
+303  01  04  303  Teorías de la evolución
+303  01  04  304  Análisis genético
+303  01  04  305  Neurofisiología animal
+303  01  04  306  Fisiología vegetal especial
+303  01  04  307  Inmunología
+303  01  04  308  Teoría ecológica
+303  01  04  401  Métodos y técnicas experimentales en biología animal
+303  01  04  402  Métodos y técnicas experimentales en bioquímica y biología molecular
+303  01  04  403  Métodos y técnicas experimentales en biología vegetal
+303  01  04  501  Métodos y técnicas experimentales en ecología
+303  01  04  502  Métodos y técnicas experimentales en genética
+303  01  04  503  Métodos y técnicas experimentales en microbiología
+303  01  04  504  Métodos y técnicas experimentales en biología celular
+303  02  01  061  Análisis matemático I
+303  02  01  062  Geometría I
+303  02  01  063  Álgebra I
+303  02  01  064  Calculo de prob. y estadistica I
+303  02  01  065  Análisis matemático II
+303  02  01  066  Geometría II
+303  02  01  067  Álgebra II
+303  02  01  068  Topología I
+303  02  01  069  Análisis matemático III
+303  02  01  070  Geometría III
+303  02  01  071  Calculo de prob. y estadistica II
+303  02  01  072  Cálculo numérico I
+303  02  01  073  Física general
+303  02  01  074  Inglés
+303  02  01  075  Análisis matemático IV
+303  02  01  076  Geometría diferencial
+303  02  01  078  Álgebra III
+303  02  01  079  Análisis matemático IV
+303  02  01  080  Teoria de la medida y prob.
+303  02  01  081  Teoría de la decisión
+303  02  01  082  Teoria de muestras y dis. exp.
+303  02  01  084  Análisis matemático V
+303  02  01  085  Topología diferencial
+303  02  01  086  Topología algebraica
+303  02  01  089  Analisis matematica V
+303  02  01  090  Procesos estocásticos
+303  02  01  091  Teoría de juegos
+303  02  03  101  Informática
+303  02  03  102  Introducción al análisis matemático
+303  02  03  103  Introducción al álgebra
+303  02  03  104  Álgebra y geometría
+303  02  03  105  Métodos numéricos I
+303  02  03  106  Estructuras algebraicas
+303  02  03  107  Geometría clásica
+303  02  03  201  Análisis matemático
+303  02  03  202  Probabilidad
+303  02  03  203  Geometría y topología básica
+303  02  03  204  Métodos numéricos II
+303  02  03  205  Ecuaciones diferenciales
+303  02  03  206  Topología
+303  02  03  207  Geometría afín y proyectiva
+303  02  03  301  Estadística
+303  02  03  302  Fundamentos de física teórica
+303  02  03  303  Medidas e integración
+303  02  03  304  Álgebra clásica
+303  02  03  305  Geometría diferencial básica
+303  02  03  401  Variable compleja y espacios normados
+303  02  03  402  Ecuaciones diferenciales II
+303  02  03  403  Álgebra superior
+303  02  03  404  Análisis numérico I
+303  02  03  405  Geometría y topología
+303  02  04  101  Informática
+303  02  04  102  Introducción al análisis matemático
+303  02  04  103  Introducción al álgebra
+303  02  04  104  Álgebra y geometría
+303  02  04  105  Métodos numéricos I
+303  02  04  106  Geometría clásica
+303  02  04  201  Análisis matemático
+303  02  04  202  Probabilidad y estadística
+303  02  04  203  Geometría y topología básica
+303  02  04  204  Métodos numéricos II
+303  02  04  205  Ecuaciones diferenciales I
+303  02  04  206  Topología
+303  02  04  207  Geometría afín y proyectiva
+303  02  04  301  Ampliación de estadística
+303  02  04  302  Fundamentos de física teórica
+303  02  04  303  Medida e integración
+303  02  04  304  Álgebra clásica
+303  02  04  305  Geometría diferencial básica
+303  02  04  401  Variable compleja y espacios normados
+303  02  04  402  Ecuaciones diferenciales II
+303  02  04  403  Álgebra superior
+303  02  04  404  Calculo numerico
+303  02  04  405  Geometría y topología
+303  03  01  095  Química general
+303  03  01  096  Física general
+303  03  01  097  Matemáticas I
+303  03  01  098  Geologia (c. y minerl)
+303  03  01  099  Biología general
+303  03  01  100  Química inorgánica
+303  03  01  101  Q. fisica (int. teo enl)
+303  03  01  102  Mecánica y termología
+303  03  01  103  Electricidad y óptica
+303  03  01  104  Matemáticas II
+303  03  01  105  Química analítica
+303  03  01  106  Química orgánica
+303  03  01  107  Química técnica
+303  03  01  108  Química física II
+303  03  01  109  Inglés
+303  03  01  110  Ampliación de química analítica
+303  03  01  111  Ampliación de química orgánica
+303  03  01  112  Estruc atomico mol. y espectrogr.
+303  03  01  116  Operaciones basicas de la quim. ind.
+303  03  01  117  Ingeniería de la reacción química
+303  03  01  118  Optimizacion de proc. y econ. ind.
+303  03  01  119  Física industrial
+303  03  01  120  Ampliación de química inorgánica
+303  03  01  121  Bioquímica
+303  03  01  127  Química industrial
+303  03  01  128  Desarrollo de proyectos
+303  03  01  129  Química analítica industrial
+303  03  03  101  Matemáticas
+303  03  03  102  Introducción a la experimentación química
+303  03  03  103  Introducción a la química física
+303  03  03  104  Introducción a la química analítica
+303  03  03  105  Mecánica y termología
+303  03  03  106  Experimentación química
+303  03  03  107  Cristalografía y mineralogía
+303  03  03  108  Principios de química inorgánica
+303  03  03  109  Introducción a la química orgánica
+303  03  03  110  Complementos de física
+303  03  03  201  Química física
+303  03  03  202  Experimentacion en sintesis quimica (inorganica)
+303  03  03  203  Enlace químico y estructura de la materia
+303  03  03  204  Química inorgánica
+303  03  03  205  Complementos de matemáticas
+303  03  03  206  Química orgánica
+303  03  03  207  Química analítica
+303  03  03  208  Electricidad y óptica
+303  03  03  301  Introducción a las técnicas instrumentales
+303  03  03  302  Experimentacion en sintesis quimica (organica)
+303  03  03  303  Complementos de química física
+303  03  03  304  Ampliación de química orgánica
+303  03  03  305  Bioquímica
+303  03  03  306  Complementos de química inorgánica
+303  03  03  307  Ingeniería química
+303  03  03  308  Complementos de bioquímica
+303  03  03  401  Química física avanzada
+303  03  03  402  Métodos analíticos de separación
+303  03  03  403  Determinación estructural
+303  03  03  404  Química inorgánica avanzada
+303  03  03  405  Ciencia de los materiales
+303  03  03  406  Química analítica avanzada
+303  03  03  407  Experimentación química (bloq.aplic.)
+303  03  03  408  Química orgánica avanzada
+303  03  03  501  Experimentacion quimica (quim.anal.aplic.)
+303  03  03  502  Espectroscopía molecular
+303  03  03  503  Ampliación de química orgánica avanzada
+303  03  03  504  Química organometálica
+303  03  03  505  Química inorgánica estructural
+303  03  04  101  Matemáticas
+303  03  04  102  Introducción a la química orgánica y a la experimentación química
+303  03  04  103  Introducción a la química física
+303  03  04  104  Introducción a la química inorgánica y a la experimentación química
+303  03  04  105  Mecánica y termología
+303  03  04  106  Complementos de física
+303  03  04  107  Cristalografía y mineralogía
+303  03  04  201  Química física
+303  03  04  202  Experimentación en síntesis química -inorgánica-
+303  03  04  203  Enlace químico y estructura de la materia
+303  03  04  204  Química inorgánica
+303  03  04  205  Complementos de matemáticas
+303  03  04  206  Química orgánica
+303  03  04  207  Química analítica
+303  03  04  208  Electricidad y óptica
+303  03  04  301  Introducción a las técnicas instrumentales
+303  03  04  302  Experimentación en síntesis química -orgánica-
+303  03  04  303  Complementos de química física
+303  03  04  304  Ampliación de química orgánica
+303  03  04  305  Bioquímica
+303  03  04  306  Complementos de química inorgánica
+303  03  04  307  Ingeniería química
+303  03  04  308  Complementos de bioquímica
+303  03  04  401  Química física avanzada
+303  03  04  402  Química orgánica avanzada
+303  03  04  403  Determinación estructural
+303  03  04  404  Química inorgánica avanzada
+303  03  04  405  Ciencia de los materiales
+303  03  04  406  Química analítica avanzada
+303  03  04  407  Experimentación química (bloq.aplic.)
+303  03  04  501  Experimentación química -química analítica aplicada-
+303  03  04  502  Espectroscopía molecular
+303  03  04  503  Ampliación de química orgánica avanzada
+303  03  04  504  Ampliación de química inorgánica
+303  04  03  101  Física I
+303  04  03  102  Algebra I
+303  04  03  103  Cálculo
+303  04  03  104  Química física
+303  04  03  105  Laboratorio de química física
+303  04  03  106  Fundamentos químicos de la ingeniería
+303  04  03  107  Fundamentos de computadores
+303  04  03  108  Física II
+303  04  03  109  Expresión gráfica
+303  04  03  110  Estadística
+303  04  03  111  Complementos de química física
+303  04  03  112  Química inorgánica
+303  04  03  113  Laboratorio de química inorgánica
+303  04  03  114  Cálculo vectorial y tensorial
+303  04  03  201  Fundamentos de las operaciones de transferencia
+303  04  03  202  Laboratorio de prop. termodinamicas y de transp.
+303  04  03  203  Química orgánica
+303  04  03  204  Química analítica
+303  04  03  205  Ecuaciones diferenciales
+303  04  03  206  Mecánica de fluidos
+303  04  03  207  Flujo de fluidos en operaciones de separación
+303  04  03  208  Laboratorio de flujo de fluidos
+303  04  03  209  Resistencia de materiales
+303  04  03  210  Laboratorio de química orgánica
+303  04  03  211  Operaciones básicas de transmisión de calor
+303  04  03  212  Laboratorio de transmisión de calor
+303  04  03  213  Laboratorio de análisis químico
+303  04  03  301  Fundamentos de la ingenieria de la reacc. quimica
+303  04  03  302  Electrotecnia
+303  04  03  303  Elementos mecánicos
+303  04  03  304  Laboratorio de ingenieria de la reacc. quimica
+303  04  03  305  Física de los procesos térmicos
+303  04  03  306  Materiales para la ingeniería química
+303  04  03  401  Control e instrumentación de procesos químicos
+303  04  03  402  Operaciones de separación I
+303  04  03  403  Reactores químicos I
+303  04  03  404  Evaluación del impacto ambiental
+303  04  03  405  Química analítica de procesos
+303  04  03  406  Laboratorio de reactores químicos
+303  04  03  407  Laboratorio de operaciones de separación
+303  04  03  408  Ingeniería ambiental
+303  04  03  409  Operaciones de separación II
+303  04  03  410  Reactores químicos II
+303  04  03  411  Bioquímica industrial
+303  04  03  501  Comportamiento de materiales
+303  04  03  502  Economía y organización industrial
+303  04  03  503  Simulación y optimización de procesos químicos
+303  04  03  504  Procedimientos químicos industriales
+303  04  03  505  Higiene y seguridad industrial
+303  04  03  506  Proyectos
+303  04  03  507  Laboratorio de química industrial
+303  04  03  508  Ingeniería de los sistemas catalíticos
+303  04  03  999  Proyecto fin de carrera
+303  04  04  101  Fundamentos físicos de la ingeniería
+303  04  04  102  Álgebra
+303  04  04  103  Cálculo
+303  04  04  104  Química física
+303  04  04  105  Estadística
+303  04  04  106  Fundamentos químicos de la ingeniería
+303  04  04  107  Fundamentos de los computadores
+303  04  04  108  Química inorgánica
+303  04  04  109  Expresión gráfica
+303  04  04  201  Fundamentos de las operaciones de transferencia
+303  04  04  202  Experimentación en química I
+303  04  04  203  Química orgánica
+303  04  04  204  Química analítica
+303  04  04  205  Ecuaciones diferenciales
+303  04  04  206  Mecánica de fluidos
+303  04  04  207  Flujo de fluidos en operaciones de separación
+303  04  04  208  Operaciones básicas de transmisión de calor
+303  04  04  209  Resistencia de materiales
+303  04  04  210  Experimentación en ingeniería química I
+303  04  04  301  Termodinámica y cinética química aplicada
+303  04  04  302  Electrotecnia
+303  04  04  303  Elementos mecánicos
+303  04  04  304  Experimentación en química II
+303  04  04  305  Física de los procesos térmicos
+303  04  04  306  Materiales para la ingeniería química
+303  04  04  401  Control e instrumentación de procesos químicos
+303  04  04  402  Operaciones de separación I
+303  04  04  403  Reactores químicos I
+303  04  04  404  Evaluación del impacto ambiental
+303  04  04  405  Química analítica de procesos
+303  04  04  406  Reactores químicos II
+303  04  04  407  Bioquímica industrial
+303  04  04  408  Ingeniería ambiental
+303  04  04  409  Operaciones de separación II
+303  04  04  410  Experimentación en ingeniería química II
+303  04  04  501  Comportamiento de materiales
+303  04  04  502  Economía y organización industrial
+303  04  04  503  Simulación y optimización de procesos químicos
+303  04  04  504  Química industrial
+303  04  04  505  Ingeniería de los sistemas catalíticos
+303  04  04  506  Proyectos
+303  04  04  507  Laboratorio de química industrial
+303  04  04  999  Proyecto fin de carrera
+303  05  04  101  Bases físicas del medio ambiente
+303  05  04  102  Botánica
+303  05  04  103  El medio físico I
+303  05  04  104  Matemáticas
+303  05  04  105  Bases químicas del medio ambiente
+303  05  04  106  Ecuaciones diferenciales y métodos numéricos
+303  05  04  107  El medio físico II
+303  05  04  108  Química analítica medioambiental
+303  05  04  109  Zoología
+303  05  04  201  Ecología
+303  05  04  202  Biología celular
+303  05  04  203  Genética
+303  05  04  204  Bioquímica
+303  05  04  205  Edafología y geología ambiental
+303  05  04  206  Física ambiental
+303  05  04  207  Hidrogeología
+303  05  04  208  Microbiología
+303  05  04  209  Química orgánica ambiental
+303  05  04  301  Administración y legislación ambiental
+303  05  04  302  Bases de la ingeniería ambiental
+303  05  04  303  Medio ambiente y sociedad
+303  05  04  304  Sistemas de información geográfica
+303  05  04  305  Ciclos de materias y flujos de energía
+303  05  04  306  Fisiología animal
+303  05  04  307  Fisiología vegetal
+303  05  04  308  Química inorgánica ambiental
+303  05  04  309  Técnicas de modelado y simulación de sistemas
+303  05  04  401  Economía aplicada
+303  05  04  402  Estadística
+303  05  04  403  Gestión y conservación de recursos naturales
+303  05  04  404  Meteorología y climatología
+303  05  04  405  Identificación y evaluac. de impacto ambiental en organismos y comunidades
+303  05  04  406  Identificación y evaluación de impacto ambiental de la gea y los ecosistema
+303  05  04  501  Contaminación atmosférica
+303  05  04  502  Ordenación del territorio y medio ambiente
+303  05  04  503  Organización y gestión de proyectos
+303  05  04  504  Toxicología ambiental y salud pública
+304  01  01  100  Prehistoria
+304  01  01  101  Historia antigua
+304  01  01  102  Historia del arte I
+304  01  01  103  Geografía general I
+304  01  01  104  Lengua latina
+304  01  01  105  Historia medieval
+304  01  01  106  Historia moderna
+304  01  01  107  Historia del arte II
+304  01  01  108  Geografía general II
+304  01  01  109  Historia de la filosofía
+304  01  01  110  Historia contemporánea
+304  01  01  111  Historia del arte III
+304  01  01  112  Geografía de España
+304  01  01  113  Geografía descriptiva
+304  01  01  114  Historia de la literatura  (sociologia de la lit.)
+304  01  01  115  Teoría de la historia
+304  01  01  116  Historia de las ideas políticas
+304  01  01  117  Prehistoria
+304  01  01  118  Arqueología clásica
+304  01  01  119  Historia medieval de Europa
+304  01  01  120  Historia de la iglesia y del pensamiento medieval
+304  01  01  121  Historia moderna de España
+304  01  01  122  Historia moderna universal
+304  01  01  123  Historia contemporanea universal (XIX)
+304  01  01  124  Historia contemporanea de españa (XIX)
+304  01  01  125  Historia del arte español
+304  01  01  126  Medios icónicos de masas
+304  01  01  127  Paleografía
+304  01  01  128  Intr. economia para historiadores
+304  01  01  129  Historia antigua de España
+304  01  01  130  Historia del mundo clásico
+304  01  01  131  H. de los reinos cristianos de la pen. iberica
+304  01  01  132  Historia del Islam: reino de Granada
+304  01  01  133  Descubrimiento,conquista,colonizacion de America
+304  01  01  134  Metodología para el estudio de la edad moderna
+304  01  01  135  Historia contemporanea universal (XX)
+304  01  01  136  Historia contemporanea de España (XX)
+304  01  01  137  Historia del arte iberoamericano
+304  01  01  138  Arte del siglo XX
+304  01  01  139  Prehistoria
+304  01  01  140  Historia antigua
+304  01  01  141  Historia medieval
+304  01  01  142  Historia del arte I
+304  01  01  143  Lengua latina
+304  01  01  144  Historia moderna
+304  01  01  145  Historia contemporánea
+304  01  01  146  Geografía general
+304  01  01  147  Geografía de España
+304  01  01  148  Geografía descriptiva
+304  01  01  149  Prehistoria
+304  01  01  150  Historia antigua
+304  01  01  151  Historia medieval
+304  01  01  152  Historia del arte I
+304  01  01  153  Lengua latina
+304  01  03  101  Prehistoria I
+304  01  03  102  Historia del mundo antiguo I
+304  01  03  103  Arqueología griega
+304  01  03  104  Historia de la alta edad media universal
+304  01  03  105  Historia moderna universal I
+304  01  03  106  Historia contemporánea universal I
+304  01  03  107  La cult.material en grupos cazadores de la prehist
+304  01  03  108  Historia del mundo antiguo II
+304  01  03  109  Historia de la baja edad media universal
+304  01  03  110  Historia moderna universal II
+304  01  03  111  Arqueología del mundo helénico
+304  01  03  112  Historia contemporánea universal II
+304  01  03  113  Paleografía general
+304  01  03  114  Prehistoria II
+304  01  03  115  Reinos helenísticos e imperio romano
+304  01  03  116  Historia bajomedieval hispana
+304  01  03  117  Historia moderna de España I
+304  01  03  118  Historia contemporánea de España I
+304  01  03  119  Cult.mater.en las socied.productoras de la preh.
+304  01  03  120  Los pueblos de la península ibérica
+304  01  03  121  Arqueología del mundo romano
+304  01  03  122  Historia moderna de España II
+304  01  03  123  Historia contemporánea de España II
+304  01  03  124  Historia del mundo mediterráneo altomedieval
+304  01  03  125  Historia moderna de Andalucía
+304  01  03  126  Historia moderna de América
+304  01  03  127  Arqueología
+304  01  03  128  Historiografía greco-romana
+304  01  03  129  Métodos y técnicas de investigación histórica I
+304  01  03  130  Prehistoria del Mediterráneo occidental
+304  01  03  131  Historia contemporánea de América
+304  01  03  132  Historia del mundo actual
+304  01  03  133  Paleografía y diplomática, epigrafía y numismática
+304  01  03  134  Métodos y técnicas de investigación histórica II
+304  01  03  135  Prehistoria de Andalucía
+304  01  03  136  Historia del mundo greco-romano:cultura y sociedad
+304  01  03  137  Historiografía actual I
+304  01  03  138  El Mediterráneo dividido: cristianos y musulmanes
+304  01  03  139  Historia del mundo mediterráneo bajomedieval
+304  01  03  140  Historia de la España actual
+304  01  03  141  Historiografía actual II
+304  01  03  142  Arqueología de la España prerromana
+304  01  04  101  Prehistoria I
+304  01  04  102  Cultura material en la Prehistoria
+304  01  04  103  Arqueología del Mundo Griego y Helenístico
+304  01  04  104  Historia Antigua I
+304  01  04  201  Paleografía General
+304  01  04  202  Historia Antigua II
+304  01  04  203  Historia Medieval Universal
+304  01  04  204  Historia Moderna Universal
+304  01  04  205  Prehistoria II
+304  01  04  206  Historia del Estado y de las Instituciones de la Edad Moderna
+304  01  04  301  Historia Medieval Hispana
+304  01  04  302  Historia Moderna de España
+304  01  04  303  Historia Contemporánea Universal
+304  01  04  304  Historia Contemporánea de España
+304  01  04  305  Historiografía Greco-Romana
+304  01  04  306  Arqueología del Mundo Romano
+304  01  04  401  Historia Antigua III
+304  01  04  402  Métodos y Técnicas de Investigación Histórica I
+304  01  04  403  Historia de América en la Edad Moderna
+304  01  04  404  Paleografía y Diplomática. Epigrafía y Numismática.
+304  01  04  405  Arqueología como ciencia histórica
+304  01  04  406  Métodos y Técnicas de Investigación Histórica II
+304  01  04  407  Historia Contemporánea de América
+304  01  04  408  Prehistoria de la Península Ibérica
+304  01  04  409  Historia del Mundo Mediterráneo Altomedieval
+304  01  04  501  El mundo actual
+304  01  04  502  Historiografía actual I
+304  01  04  503  Prehistoria de Andalucía
+304  01  04  504  Historia de Andalucía en la Edad Moderna
+304  01  04  505  Historiografía actual II
+304  01  04  506  Arqueología de la Península Ibérica
+304  01  04  507  Historia del Mundo Mediterráneo Bajomedieval
+304  02  01  100  Prehistoria
+304  02  01  101  Historia antigua
+304  02  01  102  Historia del arte I
+304  02  01  103  Geografía general I
+304  02  01  104  Lengua latina
+304  02  01  105  Historia medieval
+304  02  01  106  Historia moderna
+304  02  01  107  Historia del arte II
+304  02  01  108  Geografía general II
+304  02  01  109  Historia de la filosofía
+304  02  01  110  Historia contemporánea
+304  02  01  111  Historia del arte III
+304  02  01  112  Geografía de España
+304  02  01  113  Geografía descriptiva
+304  02  01  114  Historia de la literatura (sociologia de la lit.)
+304  02  01  139  Prehistoria
+304  02  01  140  Historia antigua
+304  02  01  141  Historia medieval
+304  02  01  142  Historia del arte I
+304  02  01  143  Lengua latina
+304  02  01  144  Historia moderna
+304  02  01  145  Historia contemporánea
+304  02  01  146  Geografía general
+304  02  01  147  Geografía de España
+304  02  01  148  Geografía descriptiva
+304  02  01  149  Prehistoria
+304  02  01  150  Historia antigua
+304  02  01  151  Historia medieval
+304  02  01  152  Historia del arte I
+304  02  01  153  Lengua latina
+304  02  01  197  Concepto de geografía
+304  02  01  198  Cartografía y fotointerpretación
+304  02  01  199  Geografía rural
+304  02  01  200  Geografía económica
+304  02  03  101  Geografía física
+304  02  03  102  Geografía humana
+304  02  03  103  Técnicas de cuantificación en geografía I
+304  02  03  104  Fundamentos de cartografía
+304  02  03  105  Climatología general
+304  02  03  106  Geomorfología general
+304  02  03  107  Geografía urbana
+304  02  03  108  Sistemas y paisajes agrarios
+304  02  03  109  Geografía de España
+304  02  03  110  Geografía de Europa
+304  02  03  111  Aplicacion geografia de la fotointerpretacion
+304  02  03  112  Geografía de la población
+304  02  03  113  Hidrogeografía
+304  02  03  114  Biogeografía
+304  02  03  115  Geografía de la industria
+304  02  03  116  Principios de geografía física aplicada
+304  02  03  117  Climatología aplicada
+304  02  03  118  Geomorfología aplicada
+304  02  03  119  Geografía humana aplicada I
+304  02  03  120  Geografía humana aplicada II
+304  02  03  121  Evolución del pensamiento geográfico
+304  02  03  122  Cartografía temática y representación gráfica
+304  02  03  123  Geografía de los servicios
+304  02  03  124  Técnicas de cuantificación en geografía II
+304  02  03  125  Geografía de Andalucía
+304  02  03  126  Tendencias actuales en geografia
+304  02  03  127  Ordenación del territorio
+304  02  03  128  Geografía de los sistemas urbanos
+304  02  03  129  Geografía del espacio rural
+304  02  03  130  Geografía de las comunidades autonómicas
+304  02  04  101  Geografía Física
+304  02  04  102  Geografía Humana
+304  02  04  103  Técnicas de cuantificación en Geografía
+304  02  04  104  Cartografía básica y temática
+304  02  04  105  Fotointerpretación
+304  02  04  106  Geografía de la población
+304  02  04  201  Geografía de España
+304  02  04  202  Geografía de Europa
+304  02  04  203  Geomorfología
+304  02  04  204  Climatología
+304  02  04  205  Geografía urbana
+304  02  04  301  Biogeografía
+304  02  04  302  Geografía rural
+304  02  04  303  SIG y cartografía asistida por ordenador
+304  02  04  304  Geografía descriptiva del mundo no europeo
+304  02  04  401  Geografía física aplicada
+304  02  04  402  Ordenación del territorio
+304  02  04  403  Geografía de los sistemas urbanos
+304  02  04  404  Geografía de los servicios
+304  02  04  501  Evolución del pensamiento geográfico
+304  02  04  502  Nuevas tendencias del pensamiento geográfico
+304  02  04  503  Geografía humana aplicada
+304  02  04  504  Geografía de las Comunidades Autónomas
+304  03  01  001  Lengua española I
+304  03  01  002  Literatura española I
+304  03  01  003  Lengua latina I
+304  03  01  004  Historia de la filosofía
+304  03  01  005  Lengua inglesa I
+304  03  01  006  Lengua francesa I
+304  03  01  007  Lengua italiana I
+304  03  01  008  Lengua árabe I
+304  03  01  009  Lengua griega I
+304  03  01  010  Lengua española II
+304  03  01  011  Literatura española II
+304  03  01  012  Lengua latina II
+304  03  01  013  Historia universal
+304  03  01  014  Lengua inglesa II
+304  03  01  015  Lengua francesa II
+304  03  01  016  Lengua italiana II
+304  03  01  017  Lengua árabe II
+304  03  01  018  Lengua griega II
+304  03  01  019  Lengua española III
+304  03  01  020  Literatura española III
+304  03  01  021  Lengua latina III
+304  03  01  022  Crítica literaria
+304  03  01  023  Lengua inglesa III
+304  03  01  024  Lengua francesa III
+304  03  01  025  Lengua italiana III
+304  03  01  026  Lengua árabe III
+304  03  01  027  Lengua griega III
+304  03  01  028  Lengua latina I
+304  03  01  029  Lengua latina II
+304  03  01  030  Lengua latina III
+304  03  01  031  Crítica literaria
+304  03  01  032  Historia de la filosofía
+304  03  01  033  Lengua española I
+304  03  01  034  Literatura española I
+304  03  01  035  Lengua latina I
+304  03  01  040  Historia de la filosofía
+304  03  01  041  Lengua española II
+304  03  01  042  Lengua latina II
+304  03  01  043  Crítica literaria
+304  03  01  046  Gramática histórica de la lengua española
+304  03  01  047  Comentario de textos I
+304  03  03  101  Lexicología del español
+304  03  03  102  Latín I
+304  03  03  103  Lengua española I
+304  03  03  104  Teoría de la literatura
+304  03  03  105  Literatura española: edad media
+304  03  03  106  Literatura española: renacimiento
+304  03  03  107  Literatura española: barroco
+304  03  03  108  Comentario de textos literarios españoles I
+304  03  03  109  Segunda lengua y su literatura I: árabe
+304  03  03  110  Segunda lengua y su literatura I: francés
+304  03  03  111  Segunda lengua y su literatura I: inglés
+304  03  03  112  Segunda lengua y su literatura I: italiano
+304  03  03  113  Lingüística
+304  03  03  114  Lengua española II
+304  03  03  115  Fonetica y fonologia del español
+304  03  03  116  Segunda lengua y su literatura II: árabe
+304  03  03  117  Segunda lengua y su literatura II: francés
+304  03  03  118  Segunda lengua y su literatura II: inglés
+304  03  03  119  Segunda lengua y su literatura II: italiano
+304  03  03  120  Latín II
+304  03  03  121  Latín III
+304  03  03  122  Literatura española moderna
+304  03  03  123  Literatura española contemporánea
+304  03  03  124  Comentario de textos literartios españoles II
+304  03  03  125  Literatura española: poesía
+304  03  03  126  Literatura hispanoamericana I
+304  03  03  127  Gramática española I
+304  03  03  128  Historia de la lengua española I
+304  03  03  129  Lexicografía del español
+304  03  03  130  Dialectologia española. los dialectos historicos
+304  03  03  131  Literatura española: prosa literaria
+304  03  03  132  Literatura española por autores
+304  03  03  133  Ultimas corrientes de la literatura española
+304  03  03  134  Fonética y fonología histórica del español
+304  03  03  135  Literatura hispanoamericana II
+304  03  03  136  Literatura española: novela
+304  03  03  137  Literatura española: teatro
+304  03  03  138  Literatura hispanoamericana III
+304  03  03  139  Gramática española II
+304  03  03  140  Historia de la lengua española II
+304  03  03  141  Diale.españ. hablas andalu. y el españ. de America
+304  03  03  142  Semántica española
+304  03  03  143  Comentario filolo. y linguis. de textos españoles
+304  03  03  144  Literatura española por movimientos
+304  03  03  701  Lengua española I
+304  03  03  702  Lengua española II
+304  03  03  703  Literatura española: renacimiento
+304  03  03  704  Literatura española: barroco
+304  03  03  705  Literatura española: edad media
+304  03  03  706  Literatura española moderna
+304  03  03  707  Literatura española contemporánea
+304  03  03  824  Segunda lengua y su literatura I: griego
+304  03  03  825  Segunda lengua y su literatura II: griego
+304  04  01  001  Lengua española I
+304  04  01  002  Literatura española I
+304  04  01  003  Lengua latina I
+304  04  01  005  Lengua inglesa I
+304  04  01  010  Lengua española II
+304  04  01  011  Literatura española II
+304  04  01  012  Lengua latina II
+304  04  01  014  Lengua inglesa II
+304  04  01  019  Lengua española III
+304  04  01  020  Literatura española III
+304  04  01  021  Lengua latina III
+304  04  01  022  Crítica literaria
+304  04  01  023  Lengua inglesa III
+304  04  01  028  Lengua latina I
+304  04  01  029  Lengua latina II
+304  04  01  031  Crítica literaria
+304  04  01  032  Historia de la filosofía
+304  04  01  033  Lengua española I
+304  04  01  034  Literatura española I
+304  04  01  035  Lengua latina I
+304  04  01  040  Historia de la filosofía
+304  04  01  041  Lengua española II
+304  04  01  042  Lengua latina II
+304  04  01  043  Crítica literaria
+304  04  01  074  Lengua inglesa III
+304  04  01  075  Lengua inglesa II
+304  04  01  076  Lengua inglesa III
+304  04  01  077  Lengua inglesa IV
+304  04  01  078  Literatura inglesa I
+304  04  01  083  Lengua inglesa V
+304  04  01  084  Literatura inglesa II
+304  04  01  090  Historia externa de la lengua inglesa
+304  04  01  091  Cultura y civilización inglesa
+304  04  01  092  Introducción a la literatura inglesa
+304  04  03  101  Fonética y fonología de la lengua inglesa
+304  04  03  102  Introducción histórica a la lengua inglesa
+304  04  03  103  Lengua inglesa I
+304  04  03  104  Lengua española
+304  04  03  105  Literatura inglesa I
+304  04  03  106  Teoría de la literatura
+304  04  03  107  Lingüística
+304  04  03  108  Segunda lengua y su literatura i:arabe
+304  04  03  109  Segunda lengua y su literatura i:frances
+304  04  03  110  Segunda lengua y su literatura i:italiano
+304  04  03  111  Lengua inglesa II
+304  04  03  112  Literatura inglesa II
+304  04  03  113  Ciencias lingüisticas: introd.especifica anglistas
+304  04  03  114  Lengua inglesa aplicada
+304  04  03  115  Literatura norteamericana I
+304  04  03  116  Literatura norteamericana II
+304  04  03  117  Historia y civilización norteamericana
+304  04  03  118  Historia y civilización de las islas británicas
+304  04  03  119  Textos literarios ingleses
+304  04  03  120  Segunda lengua y su literatura II: árabe
+304  04  03  121  Segunda lengua y su literatura II: francés
+304  04  03  122  Segunda lengua y su literatura II: italiano
+304  04  03  123  Gramática inglesa I
+304  04  03  124  Historia y cultura de los paises de habla inglesa
+304  04  03  125  Historia de la lengua inglesa I
+304  04  03  126  Literatura inglesa III
+304  04  03  127  Lingüística inglesa aplicada
+304  04  03  128  Novela inglesa
+304  04  03  129  Literatura norteamericana III
+304  04  03  130  Textos ingleses periodo antiguo y medio temprano
+304  04  03  131  Gramática inglesa II
+304  04  03  132  Literatura inglesa IV
+304  04  03  133  Lingüistica inglesa:corrientes sintacticas actual.
+304  04  03  134  Teatro ingles
+304  04  03  135  Literatura norteamericana IV
+304  04  03  136  Historia de la lengua inglesa II
+304  04  03  137  Text ingleses period medio,tardio y modern tempran
+304  04  03  138  Segunda lengua y su literatura I: alemán
+304  04  03  139  Segunda lengua y su literatura II: alemán
+304  04  03  701  Lengua inglesa I
+304  04  03  702  Lengua inglesa II
+304  04  03  703  Lengua inglesa aplicada
+304  04  03  704  Literatura inglesa I
+304  04  03  705  Literatura inglesa II
+304  04  04  101  Lengua Española
+304  04  04  102  Teoría de la Literatura
+304  04  04  103  Lingüística
+304  04  04  104  Lengua inglesa I
+304  04  04  105  Literatura Inglesa I
+304  04  04  106  Segunda Lengua y su Literatura I (Francés)
+304  04  04  107  Segunda Lengua y su Literatura I (Alemán)
+304  04  04  108  Segunda Lengua y su Literatura I (Italiano)
+304  04  04  109  Segunda Lengua y su Literatura I (Árabe)
+304  04  04  201  Lengua Inglesa II
+304  04  04  202  Literatura Inglesa II
+304  04  04  203  Segunda Lengua y su Literatura II (Francés)
+304  04  04  204  Segunda Lengua y su Literatura II (Alemán)
+304  04  04  205  Segunda Lengua y su Literatura II (Italiano)
+304  04  04  206  Segunda Lengua y su Literatura II (Árabe)
+304  04  04  207  Fonética y Fonología de la Lengua Inglesa
+304  04  04  208  Introducción Histórica a la Lengua Inglesa
+304  04  04  209  Historia y Civilización Británica y Norteamericana
+304  04  04  301  Lengua Inglesa III
+304  04  04  302  Lengua Inglesa Aplicada I
+304  04  04  303  Ciencias Lingüísticas para Anglistas
+304  04  04  304  Literatura Norteamericana I
+304  04  04  305  Textos Literarios Ingleses
+304  04  04  401  Historia de la Lengua Inglesa
+304  04  04  402  Historia y Cultura de los Países de Habla Inglesa
+304  04  04  403  Literatura Norteamericana II
+304  04  04  404  Novela Inglesa
+304  04  04  405  Lengua Inglesa Aplicada II
+304  04  04  501  Gramática Inglesa
+304  04  04  502  Literatura Inglesa III
+304  04  04  503  Lingüística Inglesa Aplicada
+304  04  04  504  Teatro Inglés
+304  04  04  505  Literatura Norteamericana III
+304  05  01  225  Introducción a la filosofía
+304  05  01  226  Antropología filosófica
+304  05  01  227  Historia de la filosofía antigua
+304  05  01  228  Psicología general
+304  05  01  229  Lengua clasica I:latin
+304  05  01  230  Lengua clasica I:griego
+304  05  01  231  Filosofía de la naturaleza
+304  05  01  232  Lógica I
+304  05  01  233  Sociología
+304  05  01  234  Historia de la filosofía medieval
+304  05  01  235  Lengua clasica II:latin
+304  05  01  236  Lengua clasica II:griego
+304  05  01  237  Lógica II
+304  05  01  238  Ética I
+304  05  01  239  Metafísica
+304  05  01  240  Historia de la filosofía moderna
+304  05  01  241  Lengua clásica III: Latín
+304  05  01  242  Lengua clásica III: Griego
+304  05  01  243  Teoría del conocimiento
+304  05  01  244  Ética II
+304  05  01  245  Historia de la ciencia
+304  05  01  246  Filosofía del lenguaje
+304  05  01  247  Lengua moderna I: inglés
+304  05  01  248  Cursos monograficos
+304  05  01  250  Teología racional
+304  05  01  251  Estética
+304  05  01  253  Teoría de la ciencia
+304  05  01  254  Cursos monograficos
+304  05  01  255  Historia filosofía antigua y medieval
+304  05  01  256  Historia filosofía moderna
+304  05  01  257  Metafísica
+304  05  01  258  Ética I
+304  05  01  259  Lógica
+304  05  01  260  Antropología
+304  05  01  261  Filosofía de la naturaleza
+304  05  01  262  Lógica I
+304  05  01  263  Latin I
+304  05  01  264  Griego I
+304  05  01  265  Historia filosofia ant. y med.
+304  05  01  266  Historia filosofía moderna
+304  05  01  267  Metafísica
+304  05  01  268  Ética I
+304  05  01  269  Lógica II
+304  05  01  270  Historia de la filosofía contemporánea
+304  05  01  663  Lengua moderna I: inglés
+304  05  01  664  Lengua moderna I: francés
+304  05  01  670  Lengua moderna II: ingles
+304  05  01  671  Lengua moderna II: francés
+304  05  01  672  Lengua moderna III: ingles
+304  05  01  673  Lengua moderna III: francés
+304  05  03  101  Antropología I
+304  05  03  102  Historia de la filosofía antigua
+304  05  03  103  Lógica I
+304  05  03  104  Ética I
+304  05  03  105  Teoría del conocimiento I
+304  05  03  106  Antropología II
+304  05  03  107  Historia de la filosofía medieval
+304  05  03  108  Lógica II
+304  05  03  109  Ética II
+304  05  03  110  Teoría del conocimiento II
+304  05  03  111  Historia de la filosofía moderna
+304  05  03  112  Filosofía del lenguaje I
+304  05  03  113  Filosofía del origen
+304  05  03  114  Principios para la educación moral
+304  05  03  115  Logicas no clasicas I
+304  05  03  116  Historia de la filosofía contemporánea
+304  05  03  117  Filosofía del lenguaje II
+304  05  03  118  Teoría de las concepciones del mundo
+304  05  03  119  Historia de la ciencia moderna y contemporánea
+304  05  03  120  Logicas no clasicas II
+304  05  03  121  Filosofía de la ciencia I
+304  05  03  122  Metafísica I
+304  05  03  123  Filosofía política I
+304  05  03  124  La escuela ateniense
+304  05  03  125  Fundamentos de derechos humanos I
+304  05  03  126  Filosofía de la ciencia II
+304  05  03  127  Metafísica II
+304  05  03  128  Filosofía política II
+304  05  03  129  La filosofía en la baja edad media
+304  05  03  130  Fundamentos de derechos humanos II
+304  05  03  131  Estética I
+304  05  03  132  Corrientes actuales de la filosofía I
+304  05  03  133  Filosofía social I
+304  05  03  134  Filosofía de la mente I
+304  05  03  135  Estética II
+304  05  03  136  Corrientes actuales de la filosofía II
+304  05  03  137  Filosofía social II
+304  05  03  138  Filosofía de la mente II
+304  05  03  139  El racionalismo moderno
+304  05  04  101  Historia de la Filosofía Antigua y Medieval
+304  05  04  102  Lógica
+304  05  04  103  Teoría del conocimiento
+304  05  04  104  Textos del pensamiento clásico I
+304  05  04  201  Ética
+304  05  04  202  Historia de la Filosofía Moderna y Contemporánea
+304  05  04  203  Ciencia, Tecnología y Sociedad
+304  05  04  204  Introducción a la Estética
+304  05  04  205  Textos del pensamiento clasico II
+304  05  04  301  Antropología
+304  05  04  302  Filosofía del lenguaje
+304  05  04  303  Introducción a la Metafísica
+304  05  04  304  Derechos humanos
+304  05  04  305  Principios para la educación moral
+304  05  04  401  Filosofía política
+304  05  04  402  Metafísica
+304  05  04  403  Filosofía de la mente
+304  05  04  404  Historia de la filosofía española
+304  05  04  501  Corrientes actuales de la Filosofía
+304  05  04  502  Estética
+304  05  04  503  Filosofía de la Ciencia
+304  05  04  504  El Idealismo Alemán
+304  08  02  101  Documentación aplicada a traducción
+304  08  02  102  Lengua española
+304  08  02  103  Lingüística general
+304  08  02  104  Lengua francesa I (b)
+304  08  02  105  Civilización francesa (b)
+304  08  02  106  Lengua inglesa I (b)
+304  08  02  107  Civilización inglesa (b)
+304  08  02  108  Lengua alemana I (c)
+304  08  02  109  Lengua árabe I (c)
+304  08  02  110  Lengua francesa I (c)
+304  08  02  111  Lengua griega I (c)
+304  08  02  112  Lengua inglesa I (c)
+304  08  02  113  Lengua italiana I (c)
+304  08  02  201  Fdtos. de la tª y la pract. de la traduccion
+304  08  02  202  Lingüística aplicada a la traducción
+304  08  02  203  Lengua francesa II (b)
+304  08  02  204  Anal. textos y redacc. franceses (B)
+304  08  02  205  Trad.gral.frances-spañol/español-frances (B)
+304  08  02  206  Lengua inglesa II (b)
+304  08  02  207  Anal.textos y redacc. ingleses (B)
+304  08  02  208  Trad.gral.ingles-español/español-ingles (B)
+304  08  02  209  Lengua alemana II (c)
+304  08  02  210  Civilización alemana (c)
+304  08  02  211  Lengua árabe II (c)
+304  08  02  212  Civilización árabe (c)
+304  08  02  213  Lengua francesa II (c)
+304  08  02  214  Civilización francesa (c)
+304  08  02  215  Lengua inglesa II (c)
+304  08  02  216  Civilización inglesa (c)
+304  08  02  217  Lengua griega II ( c )
+304  08  02  218  Civilización griega ( c )
+304  08  02  219  Lengua italiana II ( c )
+304  08  02  220  Civilización italiana ( c )
+304  08  02  301  Terminología
+304  08  02  302  Informática aplicada a la traducción
+304  08  02  303  Tec.interp.consecutiva aplic.a la leng.francesa(b)
+304  08  02  304  Trad.esp.fr./esp.,esp./fr.(b).text.jurid.y socioe.
+304  08  02  305  Tecn.interp.consecutiva.aplic.a la leng.inglesa(b)
+304  08  02  306  Trad.esp. ing./esp.,esp./ing.(b).text.jurid. y soc
+304  08  02  307  Traduccion general aleman/español ( c )
+304  08  02  308  Traduccion general español/aleman ( c )
+304  08  02  309  Traduccion general arabe/español ( c )
+304  08  02  310  Traduccion general español/arabe ( c )
+304  08  02  311  Traduccion general frances/español ( c )
+304  08  02  312  Traduccion general español/frances ( c )
+304  08  02  313  Traduccion general ingles/español ( c )
+304  08  02  314  Traduccion general español/ingles ( c )
+304  08  02  315  Traducción general italiano/español (c)
+304  08  02  316  Traducción general español/italiano (c)
+304  08  02  317  Traducción general griego/español (c)
+304  08  02  318  Traduccion general español/griego
+304  08  02  401  Gramática normativa
+304  08  02  402  Relaciones internacionales
+304  08  02  403  Tecnic.interp.simultanea.aplic. leng. francesa (b)
+304  08  02  404  Trad.espc.fran./esp.,esp./fran.(b)-tex.cient-tec.
+304  08  02  405  Tec.interp.simultanea.aplic.lengua inglesa (b)
+304  08  02  406  Trad.espec.ing./esp.,esp./ing.(b).tex.cient.-tec.
+304  08  02  407  Trad.espec.aleman/esp.,esp./aleman (c)
+304  08  02  408  Trad.especializada arabe/esp.,esp./arabe (c)
+304  08  02  409  Trad.espec.franc./esp.,esp./frances (c)
+304  08  02  410  Trad.esp.ingles/esp.,esp./ingles (c)
+304  08  02  412  Traduc. esp. griego/español-español/griego
+304  08  02  413  Traduc.esp. italiano/español-español/italiano
+304  09  01  001  Lengua española I
+304  09  01  002  Literatura española I
+304  09  01  003  Lengua latina I
+304  09  01  004  Historia de la filosofía
+304  09  01  009  Lengua griega I
+304  09  01  010  Lengua española II
+304  09  01  011  Literatura española II
+304  09  01  012  Lengua latina II
+304  09  01  013  Historia universal
+304  09  01  018  Lengua griega II
+304  09  01  019  Lengua española III
+304  09  01  020  Literatura española III
+304  09  01  021  Lengua latina III
+304  09  01  022  Crítica literaria
+304  09  01  027  Lengua griega III
+304  09  01  028  Lengua latina I
+304  09  01  029  Lengua latina II
+304  09  01  031  Crítica literaria
+304  09  01  032  Historia de la filosofía
+304  09  01  033  Lengua española I
+304  09  01  034  Literatura española I
+304  09  01  035  Lengua latina I
+304  09  01  038  Lengua griega I
+304  09  01  040  Historia de la filosofía
+304  09  01  041  Lengua española II
+304  09  01  042  Lengua latina II
+304  09  01  043  Crítica literaria
+304  09  01  643  Textos griegos I
+304  09  01  644  Textos latinos I
+304  09  01  645  Filología griega I
+304  09  01  646  Filología latina I: latín medieval
+304  09  01  647  Mundo clásico
+304  09  01  655  Textos griegos II
+304  09  01  656  Textos latinos II
+304  09  01  657  Filología griega II
+304  09  01  658  Filología latina II
+304  09  01  659  Griego tardío y moderno
+304  09  01  660  Latín vulgar
+304  09  01  661  Paleografía latina
+304  09  01  662  Epigrafía clásica
+304  09  01  674  Lengua griega III
+304  09  01  675  Lengua griega III
+304  09  01  676  Lengua griega II
+304  09  03  101  Lengua latina y su literatura I
+304  09  03  102  Lengua griega y su literatura I
+304  09  03  103  Lengua española
+304  09  03  104  Teoría de la literatura
+304  09  03  105  Introducción al pensamiento filosófico clásico
+304  09  03  106  Mitología griega
+304  09  03  107  Textos latinos I
+304  09  03  108  Textos griegos I
+304  09  03  109  Mitología romana
+304  09  03  110  Lengua latina y su literatura II
+304  09  03  111  Lengua griega y su literatura II
+304  09  03  112  Lingüística
+304  09  03  113  Textos latinos II
+304  09  03  114  Textos griegos II
+304  09  03  115  Introducción al pensamiento griego
+304  09  03  116  Introducción al pensamiento romano
+304  09  03  117  Lingüística indoeuropea
+304  09  03  118  Textos latinos III
+304  09  03  119  Textos griegos III
+304  09  03  120  Fonética y morfología latinas
+304  09  03  121  Fonética y morfología griegas
+304  09  03  122  Historia del mundo clásico
+304  09  03  123  Literatura latina
+304  09  03  124  Literatura griega
+304  09  03  125  Textos latinos IV
+304  09  03  126  Textos griegos IV
+304  09  03  127  Civilización romana
+304  09  03  128  Civilización griega
+304  09  03  701  Lengua griega y su literatura I
+304  09  03  702  Lengua griega y su literatura II
+304  09  03  703  Lengua latina y su literatura I
+304  09  03  704  Lengua latina y su literatura II
+304  09  04  101  Lengua Latina y su Literatura I
+304  09  04  102  Lengua Griega y su Literarura I
+304  09  04  103  Lengua Española
+304  09  04  104  Lingüística
+304  09  04  105  Teoría de la Literatura
+304  09  04  201  Lengua Latina y su Literatura II
+304  09  04  202  Lengua Griega y su Literatura II
+304  09  04  203  Introducción al Pensamiento Clásico
+304  09  04  204  Textos Latinos Clásicos I
+304  09  04  205  Textos Griegos I
+304  09  04  301  Textos Latinos Clásicos II
+304  09  04  302  Textos Griegos II
+304  09  04  303  Fonética y Morfología Latinas
+304  09  04  304  Fonética y Morfología Griega
+304  09  04  401  Lingúística Indoeuropea
+304  09  04  402  Literatura Latina
+304  09  04  403  Literatura Griega
+304  09  04  404  Historia del Mundo Clásico
+304  09  04  405  Textos Latinos Tardo-Medievales
+304  09  04  406  Textos Griegos III
+304  09  04  501  Textos Latinos Humanísticos
+304  09  04  502  Textos Griegos IV
+304  09  04  503  Latín Coloquial
+304  09  04  504  Monumentos, Inscripciones y Monedas en el Mundo Clásico
+304  16  03  101  Historia del arte antiguo I
+304  16  03  102  Historia del arte antiguo II
+304  16  03  103  Historia del arte medieval I
+304  16  03  104  Historia del arte medieval II
+304  16  03  105  Técnicas instrumentales de la historia del arte
+304  16  03  106  Historia del arte en la edad moderna I
+304  16  03  107  Historia del arte en la edad moderna II
+304  16  03  108  Técnicas artísticas
+304  16  03  109  Conservación de bienes culturales
+304  16  03  110  Arte hispano-musulmán
+304  16  03  111  Teoría del arte I
+304  16  03  112  Teoría del arte II
+304  16  03  113  Historia del arte contemporáneo I
+304  16  03  114  Historia del arte contemporáneo II
+304  16  03  115  Artes plásticas de la edad moderna en España
+304  16  03  116  Arquitectura española de la edad moderna
+304  16  03  117  Arte español del siglo XIX
+304  16  03  118  Arte español del siglo XX
+304  16  03  119  Fuentes de la historia del arte I
+304  16  03  120  Fuentes de la historia del arte II
+304  16  03  121  Historia de las ideas estéticas I
+304  16  03  122  Historia de las ideas estéticas II
+304  16  03  123  Patrimonio histórico artístico
+304  16  03  124  Difusión del arte y del patrimonio
+304  16  03  125  Estudios histórico-artísticos de la ciudad I
+304  16  03  126  Estudios histórico-artísticos de la ciudad II
+304  16  03  127  Hª del cine y de otros medios audiovisuales I
+304  16  03  128  Hª del cine y de otros medios audiovisuales II
+304  16  03  129  Historia de la música I
+304  16  03  130  Historia de la música II
+304  16  03  131  Museología
+304  16  03  132  Museografía
+304  16  04  101  Historia del Arte Clásico
+304  16  04  102  Historia del Arte Medieval Cristiano
+304  16  04  103  Historia del Arte Islámico
+304  16  04  104  Técnicas artísticas y conservación de bienes culturales
+304  16  04  105  Técnicas instrumentales y conceptos de la Historia del Arte
+304  16  04  106  Historia del Arte Prehistórico y del Oriente Próximo
+304  16  04  201  Historia de la arquitectura de la Edad Moderna
+304  16  04  202  Artes plásticas de la Edad Moderna
+304  16  04  203  Teoría del Arte
+304  16  04  204  Introducción al Patrimonio Histórico
+304  16  04  301  Artes plásticas de la Edad Contemporánea
+304  16  04  302  Historia del Arte Español de la Edad Moderna
+304  16  04  303  Arte Español del Siglo XIX
+304  16  04  304  Historia de la arquitectura de la Edad Contemporánea
+304  16  04  401  Historia de la Música
+304  16  04  402  Historia de las Ideas Estéticas
+304  16  04  403  Picasso y el arte Español del siglo XX
+304  16  04  501  Historia del cine y de otros medios audiovisuales
+304  16  04  502  Fuentes de la Historia del Arte
+304  16  04  503  Museología y Museografía
+305  01  01  001  Derecho romano
+305  01  01  002  Derecho político I
+305  01  01  003  Derecho natural
+305  01  01  004  Historia del derecho
+305  01  01  005  Derecho civil I
+305  01  01  006  Derecho penal I
+305  01  01  007  Derecho político II
+305  01  01  008  Derecho canónico
+305  01  01  009  Economía política y hacienda pública
+305  01  01  010  Derecho civil II
+305  01  01  011  Derecho penal II
+305  01  01  012  Derecho administrativo I
+305  01  01  013  Derecho financiero y tributario I
+305  01  01  014  Derecho internacional público
+305  01  01  015  Derecho civil III
+305  01  01  016  Derecho administrativo II
+305  01  01  017  Derecho mercantil I
+305  01  01  018  Derecho procesal I
+305  01  01  019  Derecho financiero y tributario II
+305  01  01  020  Derecho del trabajo
+305  01  01  021  Derecho civil IV
+305  01  01  022  Derecho mercantil II
+305  01  01  023  Derecho procesal II
+305  01  01  024  Derecho internacional privado
+305  01  01  025  Filosofía del derecho
+306  01  02  101  Cálculo infinitesimal
+306  01  02  102  Álgebra
+306  01  02  103  Física
+306  01  02  104  Tecnología de los computadores
+306  01  02  105  Laboratorio de tecnología computadores
+306  01  02  106  Elementos de programación
+306  01  02  107  Laboratorio de programación I
+306  01  02  201  Estadística computacional I
+306  01  02  202  Estructura de computadores
+306  01  02  203  Estructuras de datos y de información
+306  01  02  204  Dispositivos electrónicos
+306  01  02  205  Lógica e inteligencia artificial
+306  01  02  206  Laboratorio de estructuras de computadores
+306  01  02  207  Laboratorio de dispositivos
+306  01  02  208  Laboratorio de programación II
+306  01  02  301  Sistemas operativos
+306  01  02  302  Laboratorio de sistemas operativos
+306  01  02  303  Diseño y utilización de bases de datos
+306  01  02  304  Sistemas de información I
+306  01  02  305  Laboratorio de sistemas de información I
+306  01  02  306  Tecnología de la programación
+306  01  02  307  Laboratorio de programación III
+306  01  02  309  Laboratorio de lenguajes
+306  01  02  311  Introducción a la informática teórica
+306  01  02  401  Estadística computacional II
+306  01  02  402  Procesadores de lenguaje
+306  01  02  403  Arquitectura de computadores
+306  01  02  404  Ingeniería del software
+306  01  02  405  Modelado y simulación
+306  01  02  406  Laboratorio de programación IV
+306  01  02  407  Laboratorio de arquitectura computadores
+306  01  02  501  Sistemas en tiempo real
+306  01  02  502  Diseño de computadores y evaluacion de config.
+306  01  02  503  Sistemas de información II
+306  01  02  504  Inteligencia artificial e ing. del conocimiento
+306  01  02  505  Análisis económico de la innovación tecnológica
+306  01  02  701  Lógica
+306  01  02  702  Inteligencia artificial
+306  01  02  703  Tecnología de la programación y estructura de datos
+306  01  02  704  Matematicas
+306  01  03  101  Cálculo para la computación I
+306  01  03  102  Elementos de programación I
+306  01  03  103  Estructuras algebraicas para la computación
+306  01  03  104  Fundamentos físicos de la informática
+306  01  03  105  Sistemas electrónicos digitales
+306  01  03  106  Laboratorio de programación I
+306  01  03  107  Laboratorio de sistemas electrónicos digitales
+306  01  03  108  Cálculo para la computación II
+306  01  03  109  Elementos de programación II
+306  01  03  110  Matemática discreta
+306  01  03  111  Dispositivos electrónicos
+306  01  03  112  Tecnología de computadores
+306  01  03  113  Laboratorio de programación II
+306  01  03  114  Laboratorio de tecnología de computadores
+306  01  03  201  Estructuras de computadores
+306  01  03  202  Fundamentos de probabilidd y estadistica
+306  01  03  203  Lógica para la computación I
+306  01  03  204  Tipos abstractos de datos
+306  01  03  205  Teoría de autómatas y lenguajes formales I
+306  01  03  206  Laboratorio de programación III
+306  01  03  207  Laboratorio de estructura de computadores
+306  01  03  208  Métodos numéricos para la computación
+306  01  03  209  Teoría de autómatas y lenguajes formales II
+306  01  03  210  Análisis y diseño de algoritmos
+306  01  03  211  Laboratorio de programación IV
+306  01  03  301  Sistemas operativos I
+306  01  03  302  Programación declarativa I
+306  01  03  303  Lenguajes de programación
+306  01  03  304  Bases de datos I
+306  01  03  305  Laboratorio de programación V
+306  01  03  306  Sistemas operativos II
+306  01  03  307  Programación concurrente
+306  01  03  308  Modelos computacionales
+306  01  03  309  Bases de datos II
+306  01  03  401  Arquitectura de computadores I
+306  01  03  402  Procesadores de lenguajes I
+306  01  03  403  Ingenieria del software. Especificacion.
+306  01  03  404  Inteligencia artificial
+306  01  03  405  Arquitectura de computadores II
+306  01  03  406  Procesadores de lenguaje II
+306  01  03  407  Ingenieria del software. Diseño
+306  01  03  408  Laboratorio de inteligencia artificial
+306  01  03  501  Arquitectura de redes
+306  01  03  502  Ingeniería del conocimiento y aprendizaje
+306  01  03  503  Ingenieria del software. Proyectos
+306  01  03  504  Análisis económico de la innovación tecnológica
+306  01  03  505  Comunicación de datos
+306  01  03  506  Laboratorio de ingeniería del conocimiento
+306  01  03  507  Sistemas informáticos
+306  01  04  105  Cálculo para la computación
+306  01  04  111  Elementos de programación
+306  01  04  113  Matemática discreta
+306  01  04  114  Sistemas electrónicos digitales
+306  01  04  115  Fundamentos físicos de la informática
+306  01  04  121  Metodología de la programación
+306  01  04  123  Estructuras algebráicas para la computación
+306  01  04  124  Dispositivos electrónicos
+306  01  04  125  Laboratorio de programación
+306  01  04  126  Tecnología de computadores
+306  01  04  205  Teoría de autómatas y lenguajes formales
+306  01  04  206  Estructura de computadores
+306  01  04  211  Tipos abstractos de datos
+306  01  04  212  Análisis y diseño de algoritmos
+306  01  04  213  Métodos numéricos
+306  01  04  214  Lógica computacional
+306  01  04  221  Laboratorio de tecnología de objetos
+306  01  04  224  Estadística
+306  01  04  311  Diseño y utilización de bases de datos
+306  01  04  312  Programación declarativa
+306  01  04  313  Fundamentos de sistemas operativos
+306  01  04  314  Programación concurrente
+306  01  04  315  Lenguajes de programación
+306  01  04  321  Administración de bases de datos
+306  01  04  322  Modelos computacionales
+306  01  04  323  Sistemas operativos
+306  01  04  404  Procesadores de lenguajes
+306  01  04  405  Inteligencia artificial e ingeniería del conocimiento
+306  01  04  411  Ingeniería del software. Especificación
+306  01  04  412  Arquitectura de computadores I
+306  01  04  413  Arquitectura de redes
+306  01  04  416  Ingeniería de sistemas
+306  01  04  421  Ingeniería del software. Diseño
+306  01  04  422  Arquitectura de computadores II
+306  01  04  423  Comunicación de datos
+306  01  04  503  Ampliación de ingeniería del conocimiento
+306  01  04  511  Ingeniería del software. Proyectos
+306  01  04  512  Practicum
+306  01  04  520  Proyecto fin de carrera
+306  01  04  521  Economía
+306  01  04  523  Gestión de proyectos
+306  07  03  101  Física
+306  07  03  102  Estructuras algebráicas de la computación
+306  07  03  103  Elementos de programación I
+306  07  03  104  Sistemas electrónicos digitales
+306  07  03  105  Cáculo para la computación I
+306  07  03  106  Laboratorio de programación I
+306  07  03  107  Dispositivos electrónicos
+306  07  03  108  Matemática discreta
+306  07  03  109  Elementos de programación II
+306  07  03  110  Tecnología de computadores
+306  07  03  111  Administración de organizaciones
+306  07  03  112  Laboratorio de programación II
+306  07  03  113  Laboratorio de tecnología de computadores
+306  07  03  201  Fundamentos de probabilidad y estadística
+306  07  03  202  Estructura de computadores
+306  07  03  203  Lógica para la computación I
+306  07  03  204  Teoría de autómatas y lenguajes formales I
+306  07  03  205  Tipos abstractos de datos
+306  07  03  206  Laboratorio de programación III
+306  07  03  207  Técnicas de gestión empresarial
+306  07  03  208  Análisis y diseño de algoritmos
+306  07  03  209  Técnicas computacionales de la estadística
+306  07  03  210  Programación declarativa I
+306  07  03  211  Teoría de autómatas y lenguajes formales II
+306  07  03  212  Laboratorio de estructura de computadores
+306  07  03  213  Laboratorio de programación IV
+306  07  03  301  Sistemas operativos I
+306  07  03  302  Sistemas de información I
+306  07  03  303  Métodos numéricos para la computación
+306  07  03  304  Bases de datos
+306  07  03  305  Informática distribuida
+306  07  03  306  Sistemas operativos II
+306  07  03  307  Sistemas de información II
+306  07  03  308  Modelos computacionales
+306  07  03  309  Administración de bases de datos
+306  07  04  111  Elementos de programación
+306  07  04  112  Técnicas de organización empresarial
+306  07  04  113  Matemática discreta
+306  07  04  114  Sistemas electrónicos digitales
+306  07  04  115  Física
+306  07  04  121  Metodología de la programación
+306  07  04  122  Cálculo para la computación
+306  07  04  123  Estructuras algebraicas para la computación
+306  07  04  124  Dispositivos electrónicos
+306  07  04  125  Laboratorio de programación
+306  07  04  126  Estructura y tecnología de computadores
+306  07  04  205  Teoría de autómatas y lenguajes formales
+306  07  04  206  Estructura de computadores
+306  07  04  211  Tipos abstractos de datos
+306  07  04  212  Análisis y diseño de algoritmos
+306  07  04  213  Fundamentos de estadística para la computación
+306  07  04  214  Lógica computacional
+306  07  04  221  Laboratorio de tecnología de objetos
+306  07  04  222  Diseño y utilización de bases de datos
+306  07  04  223  Laboratorio de estadística computacional
+306  07  04  224  Métodos numéricos
+306  07  04  304  Ingeniería del software de gestión
+306  07  04  311  Administración de bases de datos
+306  07  04  312  Programación declarativa
+306  07  04  313  Fundamentos de sistemas operativos
+306  07  04  315  Técnicas de gestión empresarial
+306  07  04  320  Proyecto fin de carrera
+306  07  04  321  Informática distribuida
+306  07  04  322  Modelos computacionales
+306  07  04  323  Sistemas Operativos
+306  09  01  040  Informatica G
+306  09  01  041  Matemáticas I
+306  09  01  042  Física
+306  09  01  043  Sistemas digitales
+306  09  01  047  Inglés I
+306  09  01  050  Estructuras de ordenadores
+306  09  01  051  Matemáticas II
+306  09  01  052  Programación
+306  09  01  053  Dispositivos electrónicos
+306  09  01  057  Inglés II
+306  09  01  060  Sistemas operativos
+306  09  01  061  Traductores, interpretes y compiladores
+306  09  01  062  Bases de datos
+306  09  01  063  Teleinformática
+306  09  01  064  Equipos y sistemas de transm. de datos
+306  09  01  065  Teoría de sistemas
+306  09  01  066  Algoritmos y estruct. formal de datos
+306  09  01  067  Planif. y explot. de sistemas informaticos
+306  09  01  068  Automatismo y control por ordenador
+306  19  03  101  Fundamentos físicos de la informática
+306  19  03  102  Estructuras algebráicas de la computación
+306  19  03  103  Elementos de programación I
+306  19  03  104  Sistemas electrónicos digitales
+306  19  03  105  Laboratorio de programación I
+306  19  03  106  Laboratorio de sistemas electrónicos digitales
+306  19  03  107  Dispositivos electrónicos
+306  19  03  108  Matemática discreta
+306  19  03  109  Elementos de programación II
+306  19  03  110  Tecnología de computadores
+306  19  03  111  Cálculo para la computación I
+306  19  03  112  Laboratorio de programación II
+306  19  03  113  Laboratorio de tecnología de computadores
+306  19  03  201  Fundamentos de probabilidad y estadística
+306  19  03  202  Estructura de computadores
+306  19  03  203  Lógica para la computación I
+306  19  03  204  Teoría de autómatas y lenguajes formales I
+306  19  03  205  Métodos de cálculo científico
+306  19  03  206  Tipos abstractos de datos
+306  19  03  207  Laboratorio de programación III
+306  19  03  208  Análisis y diseño de algoritmos
+306  19  03  209  Investigación operativa de sistemas
+306  19  03  210  Programación declarativa I
+306  19  03  211  Teoría de autómatas y lenguajes formales II
+306  19  03  212  Laboratorio de estructura de computadores
+306  19  03  213  Laboratorio de programación IV
+306  19  03  301  Arquitectura de redes telemáticas
+306  19  03  302  Base de datos
+306  19  03  303  Sistemas operativos I
+306  19  03  304  Sistemas en tiempo real
+306  19  03  305  Modelos computacionales
+306  19  03  306  Informática distribuida
+306  19  03  307  Sistemas operativos II
+306  19  03  308  Traductores,compiladores e intérpretes
+306  19  04  104  Sistemas electrónicos digitales
+306  19  04  111  Elementos de programación
+306  19  04  112  Cálculo para la computación
+306  19  04  113  Matemática discreta
+306  19  04  115  Fundamentos físicos de la informática
+306  19  04  121  Metodología de la programación
+306  19  04  123  Estructuras algebraicas para la computación
+306  19  04  124  Dispositivos electrónicos
+306  19  04  125  Laboratorio de programación
+306  19  04  126  Tecnología de computadores
+306  19  04  205  Teoría de autómatas y lenguajes formales
+306  19  04  206  Estructura de computadores
+306  19  04  211  Tipos abstractos de datos
+306  19  04  212  Análisis y diseño de algorítmos
+306  19  04  213  Métodos numéricos
+306  19  04  214  Lógica computacional
+306  19  04  221  Laboratorio de tecnología de objetos
+306  19  04  222  Redes
+306  19  04  223  Investigación operativa de sistemas
+306  19  04  224  Estadística
+306  19  04  311  Bases de datos
+306  19  04  312  Programación declarativa
+306  19  04  313  Fundamentos de sistemas operativos
+306  19  04  314  Sistemas en tiempo real
+306  19  04  320  Proyecto fin de carrera
+306  19  04  321  Traductores, compiladores e intérpretes
+306  19  04  322  Modelos computacionales
+306  19  04  323  Sistemas operativos
+307  01  02  101  Cálculo
+307  01  02  102  Álgebra
+307  01  02  103  Física
+307  01  02  104  Tecnologia de los computadores
+307  01  02  105  Laboratorio de tecnología computadores
+307  01  02  106  Elementos de programación
+307  01  02  107  Laboratorios de programacion
+307  01  02  201  Elem. mat. del tratamiento de la señal
+307  01  02  202  Fundamentos de la computación
+307  01  02  203  Análisis de circuitos
+307  01  02  204  Electrónica analógica
+307  01  02  205  Electrónica digital
+307  01  02  206  Electrónica de dispositivos
+307  01  02  207  Materiales y tecnología de fabricación
+307  01  02  208  Estadística de la telecomunicación
+307  01  02  209  Electromagnetismo I
+307  01  02  210  Laboratorio de electrónica digital
+307  01  02  211  Laboratorio de electrónica digital
+307  01  02  212  Sistemas digitales
+307  01  02  301  Electromagnetismo II
+307  01  02  302  Circuitos integrados
+307  01  02  303  Teoría de la comunicación
+307  01  02  304  Fundamentos de informática distribuida
+307  01  02  305  Síntesis de circuitos
+307  01  02  306  Sistemas de telecomunicación
+307  01  02  307  Sistemas lineales
+307  01  02  308  Tratamiento digital de la señal
+307  01  02  309  Calculo numérico
+307  01  02  310  Laboratorio de sistemas digitales
+307  01  02  311  Laboratorio de electrónica analógica
+307  01  02  312  Laboratorio de telemática
+307  01  02  313  Laboratorio de tratamiento de señales
+307  01  02  314  Laboratorio de cálculo numérico
+307  01  02  401  Análisis económico de la innovación tecnológica
+307  01  02  402  Electrónica de comunicaciones
+307  01  02  403  Circuitos de radiofrecuencia I
+307  01  02  404  Antenas
+307  01  02  405  Propagación de ondas
+307  01  02  406  Subsistemas transmisores y receptores
+307  01  02  407  Procesado digital de voz e imagen
+307  01  02  408  Laboratorio de electrónica de comunicaciones
+307  01  02  409  Laboratorio de radiofrecuencias I
+307  01  02  410  Arquitectura de computadores
+307  01  02  411  Transmisión digital
+307  01  02  412  Comunicaciones de datos
+307  01  02  413  Sistemas operativos
+307  01  02  414  Teletráfico
+307  01  02  415  Laboratorio de comunicaciones de datos
+307  01  02  416  Laboratorio de transmisión digital
+307  01  02  417  Electrónica de potencia
+307  01  02  418  Arquitecturas digitales
+307  01  02  419  Sistemas basados en microprocesadores
+307  01  02  420  Microelectrónica I
+307  01  02  421  Laboratorio de electrónica de potencia
+307  01  02  422  Laboratorio de arquitecturas digitales
+307  01  02  423  Lab. de sist. basados en microprocesadores
+307  01  02  501  Organ. y gestion de procesos productivos
+307  01  02  503  Circuitos de radiofrecuencia  II
+307  01  02  504  Sistemas de radiodeterminación y radar
+307  01  02  505  Radiocomunicación I
+307  01  02  506  Radiocomunicación II
+307  01  02  507  Comunicaciones ópticas I
+307  01  02  508  Comunicaciones ópticas II
+307  01  02  509  Laboratorio de radiofrecuencia II
+307  01  02  510  Laboratorio de comunicaciones ópticas
+307  01  02  511  Redes de computadores
+307  01  02  512  Sistemas de conmutación
+307  01  02  513  Bases de datos
+307  01  02  514  Cibernética y teoría de sistema
+307  01  02  515  Laboratorio de conmutación
+307  01  02  516  Microelectrónica II
+307  01  02  517  Instrumentación electrónica
+307  01  02  518  Dispositivos electrónicos
+307  01  02  519  Ingeniería de control
+307  01  02  520  Laboratorio de microelectrónica
+307  01  02  521  Laboratorio de instrumentación
+307  01  02  522  Laboratorio de control
+307  01  03  101  Fundamentos de cálculo
+307  01  03  102  Álgebra lineal y optimización
+307  01  03  103  Física
+307  01  03  104  Elementos de programación
+307  01  03  105  Laboratorio de programacion I
+307  01  03  106  Electronica digital I
+307  01  03  107  Laboratorio de tecnología electrónica
+307  01  03  108  Analisis vectorial y ecuaciones diferenciales I
+307  01  03  109  Matemática discreta
+307  01  03  110  Electrónica de dispositivos
+307  01  03  111  Programación modular
+307  01  03  112  Laboratorio de programacion II
+307  01  03  113  Laboratorio de electronica digital I
+307  01  03  114  Fundamentos de los computadores
+307  01  03  201  Analisis vectorial y ecuaciones diferenciales II
+307  01  03  202  Variable compleja y análisis de Fourier
+307  01  03  203  Electromagnetismo I
+307  01  03  204  Circuitos y sistemas I
+307  01  03  205  Fundamentos de la economía aplicada
+307  01  03  206  Electronica digital II
+307  01  03  207  Métodos numéricos
+307  01  03  208  Lab. de circuitos, señales y sistemas
+307  01  03  209  Electromagnetismo II
+307  01  03  210  Circuitos y sistemas II
+307  01  03  211  Señales y sistemas I
+307  01  03  212  Laboratorio de electronica digital II
+307  01  03  213  Electrónica analógica
+307  01  03  301  Sistemas digitales
+307  01  03  302  Redes de telecomunicación
+307  01  03  303  Diseño de filtros
+307  01  03  304  Laboratorio de tratamiento de señales
+307  01  03  305  Señales y sistemas II
+307  01  03  306  Circuitos integrados
+307  01  03  307  Laboratorio de electrónica analógica
+307  01  03  308  Laboratorio de sistemas digitales
+307  01  03  309  Servicios de telecomunicación
+307  01  03  310  Comunicaciones analógicas
+307  01  03  311  Comunicaciones digitales
+307  01  03  312  Laboratorio de comunicaciones
+307  01  03  313  Tecnología de diseño electrónico
+307  01  03  314  Transmisión de datos
+307  01  03  401  Microelectrónica
+307  01  03  402  Redes de ordenadores
+307  01  03  403  Arquitectura de computadores
+307  01  03  404  Fundamentos de radiocomunicación
+307  01  03  405  Tratamiento digital de la señal I
+307  01  03  406  Circuitos y subsistemas para comunicaciones
+307  01  03  407  Fundamentos de microondas I
+307  01  03  408  Instrumentación electrónica
+307  01  03  409  Conmutación
+307  01  03  410  Sistemas operativos
+307  01  03  411  Redes, sistemas y servicios de telecomunicación
+307  01  03  412  Tratamiento digital de la señal II
+307  01  03  413  Comunicaciones opticas I
+307  01  03  414  Fundamentos de microondas II
+307  01  03  501  Comunicaciones opticas II
+307  01  03  502  Ingenieria de desarrollo de sistemas de telecomun.
+307  01  03  701  Electromagnetismo II
+307  01  03  702  Señales y sistemas I
+307  01  03  703  Señales y sistemas II
+307  01  03  704  Redes de telecomunicación
+307  01  03  705  Sistemas digitales
+307  01  03  706  Transmisión de datos
+307  01  03  707  Comunicaciones analógicas
+307  05  03  101  Fundamentos de cálculo
+307  05  03  102  Fundamentos de álgebra
+307  05  03  103  Física
+307  05  03  104  Circuitos y sistemas I
+307  05  03  105  Electrónica digital
+307  05  03  106  Introducción a los computadores
+307  05  03  107  Laboratorio de tecnología electrónica
+307  05  03  108  Análisis vectorial y ecuaciones diferenciales
+307  05  03  109  Métodos numéricos
+307  05  03  110  Circuitos y sistemas 2
+307  05  03  111  Laboratorio de circuitos y sistemas
+307  05  03  112  Electrónica analógica
+307  05  03  113  Laboratorio de sistemas electrónicos digitales
+307  05  03  114  Elementos de programación
+307  05  03  115  Laboratorio de programación
+307  05  03  201  Ampliación de matemáticas
+307  05  03  202  Circuitos integrados
+307  05  03  203  Comunicaciones analógicas y digitales
+307  05  03  204  Electrónica de potencia
+307  05  03  205  Fundamentos de los computadores
+307  05  03  206  Laboratorio de electrónica analógica
+307  05  03  207  Laboratorio de sistemas digitales
+307  05  03  208  Microelectronica I
+307  05  03  209  Señales y sistemas
+307  05  03  210  Sistemas digitales
+307  05  03  211  Sistemas electrónicos de control
+307  05  03  301  Instrumentación electrónica
+307  05  03  302  Laboratorio de instrumentación
+307  05  03  303  Laboratorio de microelectrónica
+307  05  03  304  Laboratorio de sistemas de control
+307  05  03  305  Microelectrónica 2
+307  05  03  306  Proyectos de sistemas electrónicos
+307  15  03  101  Fundamentos de cálculo
+307  15  03  102  Fundamentos de álgebra
+307  15  03  103  Física
+307  15  03  104  Circuitos y sistemas I
+307  15  03  105  Electrónica digital
+307  15  03  106  Introducción a los computadores
+307  15  03  107  Laboratorio de tecnología electrónica
+307  15  03  108  Análisis vectorial y ecuaciones diferenciales
+307  15  03  109  Métodos numéricos
+307  15  03  110  Circuitos y sistemas 2
+307  15  03  111  Laboratorio de circuitos y sistemas
+307  15  03  112  Electrónica analógica
+307  15  03  113  Laboratorio de electrónica digital
+307  15  03  114  Elementos de programación
+307  15  03  115  Laboratorio de programación
+307  15  03  201  Ampliación de matemáticas
+307  15  03  202  Circuitos integrados
+307  15  03  203  Comunicaciones analógicas y digitales
+307  15  03  204  Audio digital
+307  15  03  205  Electroacústica
+307  15  03  206  Laboratorio de audio digital
+307  15  03  207  Laboratorio de sistemas digitales
+307  15  03  208  Laboratorio de electroacústica
+307  15  03  209  Señales y sistemas
+307  15  03  210  Sistemas digitales
+307  15  03  211  Laboratorio de televisión
+307  15  03  212  Televisión
+307  15  03  301  Acústica arquitectónica
+307  15  03  302  Equipos de audio
+307  15  03  303  Laboratorio de equipos de audio
+307  15  03  304  Laboratorio de tratamiento digital de la imagen
+307  15  03  305  Proyectos de sonido e imagen
+307  15  03  306  Sistemas de vídeo
+307  15  03  307  Tratamiento digital de imagen
+307  20  03  101  Fundamentos de cálculo
+307  20  03  102  Fundamentos de álgebra
+307  20  03  103  Física
+307  20  03  104  Circuitos y sistemas I
+307  20  03  105  Electrónica digital
+307  20  03  106  Introducción a los computadores
+307  20  03  107  Laboratorio de tecnología electrónica
+307  20  03  108  Análisis vectorial y ecuaciones diferenciales
+307  20  03  109  Métodos numéricos
+307  20  03  110  Circuitos y sistemas 2
+307  20  03  111  Laboratorio de circuitos y sistemas
+307  20  03  112  Electrónica analógica
+307  20  03  113  Laboratorio de electrónica digital
+307  20  03  114  Elementos de programación
+307  20  03  115  Laboratorio de programación
+307  20  03  201  Ampliación de matemáticas
+307  20  03  202  Circuitos integrados
+307  20  03  203  Comunicaciones analógicas y digitales 1
+307  20  03  204  Comunicaciones analógicas y digitales 2
+307  20  03  205  Fundamentos de los computadores
+307  20  03  206  Fundamentos de ingeniería electromagnética
+307  20  03  207  Laboratorios de sistemas digitales
+307  20  03  208  Fundamentos de microondas
+307  20  03  209  Señales y sistemas
+307  20  03  210  Sistemas digitales
+307  20  03  211  Laboratorio de comunicaciones
+307  20  03  212  Laboratorio de señales y sistemas
+307  20  03  213  Servicios y redes de telecomunicaciones 1
+307  20  03  301  Circuitos y sistemas de radiocomunicación
+307  20  03  302  Laboratorio de radiocomunicación
+307  20  03  303  Proyectos de sistemas de telecomunicación
+307  20  03  304  Servicios y redes de telecomunicación 2
+307  20  03  305  Sistemas de comunicaciones ópticas
+308  01  02  101  Cálculo
+308  01  02  102  Álgebra
+308  01  02  103  Física
+308  01  02  104  Elementos de programación
+308  01  02  105  Laboratorio de programación
+308  01  02  106  Expresión gráfica
+308  01  02  107  Fundamentos químicos de la ingeniería
+308  01  02  201  Ampliación de matemáticas
+308  01  02  202  Mecánica y mecanismos
+308  01  02  203  Circuitos
+308  01  02  204  Tecnología de materiales
+308  01  02  205  Técnicas computacionales
+308  01  02  206  Automática básica
+308  01  02  207  Tecnologías de procesos
+308  01  02  208  Elasticidad y resistencia de materiales
+308  01  02  209  Métodos estadísticos de la ingeniería
+308  01  02  210  Termodinámica
+308  01  02  211  Electrónica básica
+308  01  02  301  Mecánica y tecnología de fluidos
+308  01  02  302  Economía industrial
+308  01  02  303  Sistemas informáticos para la ingeniería
+308  01  02  304  Fundamentos de ingeniería térmica
+308  01  02  305  Control automático
+308  01  02  306  Máquinas eléctricas
+308  01  02  401  Org. de la produc. y gest. de la calidad
+308  01  02  402  Ingeniería ambiental
+308  01  02  501  Administración de empresas
+308  01  02  502  Dirección de proyectos
+308  01  02  701  Circuitos
+308  01  02  702  Técnicas computacionales
+308  01  02  703  Tecnologias de proceso
+308  01  02  704  Elasticidad y resistencia de materiales
+308  01  02  705  Mecánica y tecnología de fluidos
+308  01  02  706  Control automático
+308  01  03  101  Cálculo
+308  01  03  102  Álgebra
+308  01  03  103  Física
+308  01  03  104  Fundamentos de informática
+308  01  03  105  Fundamentos químicos de la ingeniería
+308  01  03  106  Expresión gráfica
+308  01  03  107  Termodinámica
+308  01  03  108  Ampliación de cálculo
+308  01  03  201  Teoría de máquinas
+308  01  03  202  Elasticidad y resistencia de materiales
+308  01  03  203  Teoría de circuitos
+308  01  03  204  Automática básica
+308  01  03  205  Ciencia de materiales
+308  01  03  206  Electrónica básica
+308  01  03  207  Mecánica del sólido rígido
+308  01  03  208  Fundamentos de electrotecnia
+308  01  03  209  Ampliación de matemáticas
+308  01  03  301  Estadística
+308  01  03  302  Economía industrial
+308  01  03  303  Técnicas numéricas
+308  01  03  305  Control automático
+308  01  03  306  Fundamentos de computadores
+308  01  03  307  Máquinas eléctricas
+308  01  03  308  Mecánica de fluidos
+308  01  03  309  Fundamentos de termotecnia
+308  01  03  401  Calor y frío industrial
+308  01  03  402  Tecnología eléctrica
+308  01  03  403  Tecnología de materiales
+308  01  03  404  Tecnología de fabricación mecánica
+308  01  03  405  Tecnología de máquinas
+308  01  03  406  Ingeniería del transporte
+308  01  03  407  Teoría de estructuras y construcciones industriales
+308  01  03  408  Sistemas para la automatización
+308  01  03  409  Métodos matemáticos y técnicas computacionales
+308  01  03  501  Turbomáquinas hidráulicas
+308  01  03  502  Tecnología energética
+308  01  03  503  Tecnología ambiental
+308  01  03  504  Organización industrial
+308  01  03  505  Administración de empresas
+308  01  03  506  Proyectos
+308  02  03  101  Tecnología de control
+308  02  03  102  Dirección financiera
+308  02  03  103  Diseño y gestión de sistemas de producción
+308  02  03  104  Estadística industrial
+308  02  03  105  Modelización en organización de empresas
+308  02  03  106  Métodos cuantitativos en organización de empresas
+308  02  03  107  Tecnología eléctrica
+308  02  03  108  Tecnología energética
+308  02  03  109  Tecnología de fabricación mecánica
+308  02  03  110  Tecnología de máquinas
+308  02  03  201  Competitividad e innovación de la empresa
+308  02  03  202  Complejos Industriales
+308  02  03  203  Dirección comercial
+308  02  03  204  Estrategia y política de empresa
+308  02  03  205  Organización del trabajo
+308  02  03  206  Política industrial y tecnológica
+308  02  03  207  Tecnología química
+308  02  03  208  Proyectos
+308  02  03  701  Administración de empresas y organización de la producción
+308  02  03  702  Fundamentos de informática
+308  02  03  703  Estadística
+308  02  03  704  Teoría de circuitos
+308  02  03  705  Electrónica básica
+308  02  03  706  Fundamentos químicos de la ingeniería
+308  02  03  707  Termodinámica
+308  02  03  708  Fundamentos de termotecnia
+308  02  03  709  Teoría de máquinas
+308  02  03  710  Mecánica del sólido rígido
+308  02  03  711  Ciencia de materiales
+308  02  03  712  Ingeniería ambiental
+308  03  03  101  Diseño microelectrónico
+308  03  03  102  Diseño de sistemas integrados
+308  03  03  103  Instrumentación electrónica
+308  03  03  104  Electrónica de comunicaciones
+308  03  03  105  Arquitectura de computadores
+308  03  03  106  Sistemas operativos
+308  03  03  107  Sistemas telemáticos
+308  03  03  108  Dispositivos electrónicos y fotónicos
+308  03  03  109  Circuitos de alta frecuencia
+308  03  03  110  Procesado de la señal y comunicaciones
+308  03  03  111  Modelado y simulación de sistemas
+308  03  03  201  Equipos electrónicos
+308  03  03  202  Electrónica de control
+308  03  03  203  Arquitecturas especializadas
+308  03  03  204  Tecnologías de dispositivos
+308  03  03  205  Proyectos
+308  03  03  701  Teoría de circuitos
+308  03  03  702  Automática básica
+308  03  03  703  Electrónica básica
+308  03  03  704  Fundamentos de computadores
+308  03  03  705  Fundamentos de informática
+308  04  03  101  Accionamientos eléctricos
+308  04  03  102  Sistemas electrónicos de potencia
+308  04  03  103  Ingeniería de control
+308  04  03  104  Control no lineal
+308  04  03  105  Modelado y simulación de sistemas dinámicos
+308  04  03  106  Sistemas de percepción en la automatización
+308  04  03  107  Sistemas electrónicos digitales
+308  04  03  108  Sistemas mecánicos para la automática y la robótica
+308  04  03  109  Robótica industrial
+308  04  03  201  Sistemas de automatización en la producción
+308  04  03  202  Sistemas informáticos en tiempo real
+308  04  03  203  Control óptimo
+308  04  03  204  Proyectos
+308  04  03  205  Microcontroladores
+308  04  03  701  Administración de empresas y organización de la producción
+308  04  03  702  Expresión gráfica
+308  04  03  703  Electrónica analógica
+308  04  03  704  Automática básica
+308  04  03  705  Automatismos
+308  04  03  706  Cinemática y dinámica de máquinas
+309  01  02  101  Mundo contemporáneo
+309  01  02  102  Lenguaje informativo
+309  01  02  103  Tecnol. de la comunicacion e informacion escritas
+309  01  02  104  Lengua española aplicada a medios de comunic. I
+309  01  02  105  Teoría de la comunicación
+309  01  02  106  Teoría de la información periodística
+309  01  02  107  Psicosociología de la comunicación
+309  01  02  108  Sociología
+309  01  02  201  Tecnología de la comunicación e información audiovisual
+309  01  02  202  Analisis y expresion en comunic.e informac.audiov
+309  01  02  203  Documentación informativa
+309  01  02  204  Publicidad
+309  01  02  205  Relaciones públicas
+309  01  02  206  Lengua española aplic.a los medios de comunic.II
+309  01  02  207  Historia de la fotografía y el cine
+309  01  02  301  Derecho de la informacion y de la comunicacion
+309  01  02  302  Teoría de la comunicación audiovisual
+309  01  02  303  Narrativa audiovisual I
+309  01  02  304  Producción y realización I
+309  01  02  305  Lengua extranjera I (ingles)
+309  01  02  306  Historia de la radiodifusión y la televisión
+309  01  02  307  Programación en radio y televisión
+309  01  02  308  Lengua extranjera I (francés)
+309  01  02  309  Lengua extranjera I (italiano)
+309  01  02  401  Estructura del sistema audiovisual
+309  01  02  402  Empresa audiovisual
+309  01  02  403  Narrativa audiovisual II
+309  01  02  404  Produccion y realizacion II
+309  01  02  405  Comunicación institucional y empresarial
+309  01  02  406  Fundamentos de deontología
+309  01  02  407  Lengua extranjera II (inglés)
+309  01  02  408  Lengua extranjera II (francés)
+309  01  02  409  Lengua extranjera II (italiano)
+309  01  02  701  Leng.esañola aplic. a los medios de comunicacion I
+309  01  02  702  Teoría de la comunicación
+309  01  02  703  Teoría de la información periodística
+309  01  02  704  Analisis y expres.en comun.e informac. audivisual
+309  01  02  705  Tecnología de la comunic. e informac. audiovisual
+309  01  04  101  Teorías de la comunicación
+309  01  04  102  Historia general de la comunicación
+309  01  04  103  Construción periodística de la realidad
+309  01  04  104  Publicidad
+309  01  04  105  Teoría, técnica e historia de la imagen fija
+309  01  04  106  Lengua
+309  01  04  107  Análisis del entorno social y de su evolución histórica
+309  01  04  108  Sociología
+309  01  04  201  Tecnología de la comunicación periodística
+309  01  04  202  Documentación informativa
+309  01  04  203  Tecnología de la comunicación audiovisual
+309  01  04  204  Relaciones públicas
+309  01  04  205  Lenguaje audiovisual
+309  01  04  206  Psicología social de la comunicación
+309  01  04  301  Narrativa audiovisual
+309  01  04  302  Teoría y técnica de la producción audiovisual
+309  01  04  303  Teoría de la comunicación audiovisual
+309  01  04  304  Estructura del sistema audiovisual
+309  01  04  305  Historia de los medios audiovisuales
+309  01  04  306  Lengua extranjera aplicada a la comunicación audiovisual I (Inglés)
+309  01  04  307  Lengua extranjera aplicada a la comunicación audiovisual I (Francés)
+309  01  04  308  Lengua extranjera aplicada a la comunicación audiovisual I (Italiano)
+309  01  04  309  Lengua extranjera aplicada a la comunicación audiovisual I (Alemán)
+309  01  04  401  Realización audiovisual
+309  01  04  402  Derecho de la información
+309  01  04  403  Empresa audiovisual
+309  01  04  404  Teoría y técnica de la programación audiovisual
+309  01  04  405  Sistemas multimedia de comunicación
+309  01  04  406  Análisis audiovisual
+309  02  02  101  Mundo contemporáneo
+309  02  02  102  Lenguaje informativo
+309  02  02  103  Tecnol. de la comunicacion e informacion escritas
+309  02  02  104  Lengua española aplic. a los medios de comunic. I
+309  02  02  105  Teoría de la comunicación
+309  02  02  106  Teoría de la información periodística
+309  02  02  107  Psicosociología de la comunicación
+309  02  02  108  Sociología
+309  02  02  201  Tecnología de la comunicación e información audiovisual
+309  02  02  202  Analisis y expresion en comunic.e inform.audiovis
+309  02  02  203  Documentación informativa
+309  02  02  204  Publicidad
+309  02  02  205  Relaciones públicas
+309  02  02  206  Lengua española aplic.a los medios de comunic.II
+309  02  02  208  Historia de la publicidad y de las relac.pulicas
+309  02  02  301  Creatividad publicitaria
+309  02  02  302  Teoría y técnicas de las relaciones públicas
+309  02  02  303  Planificación y medios publicitarios I
+309  02  02  304  Lengua extranjera I (INGLÉS)
+309  02  02  305  Derecho de la publicidad
+309  02  02  306  Producción y realización de publicidad audiov.
+309  02  02  307  Lengua extranjera I (francés)
+309  02  02  308  Lengua extranjera I (italiano)
+309  02  02  401  Planificación y medios publicitarios II
+309  02  02  402  Creación y comunicación publicitaria
+309  02  02  403  Sistemas publicitarios
+309  02  02  404  Sistemas y procesos en las relaciones públicas
+309  02  02  405  Comunicación institucional y empresarial
+309  02  02  406  Lengua extranjera II (inglés)
+309  02  02  407  Fundamentos de deontologia
+309  02  02  408  Lengua extranjera II (francés)
+309  02  02  409  Lengua extranjera II (italiano)
+309  02  02  701  Leng.española aplic.a los medios de comunicacion I
+309  02  02  702  Teoría de la comunicación
+309  02  02  703  Teoría de la información periodística
+309  02  02  704  Analisis y expres.en comun.e informac. audiovisual
+309  02  02  705  Relaciones públicas
+309  02  02  706  Publicidad
+309  02  04  101  Teorías de la comunicación
+309  02  04  102  Historia general de la comunicación
+309  02  04  103  Construcción periodística de la realidad
+309  02  04  104  Publicidad
+309  02  04  105  Teoría, técnica e historia de la imagen fija
+309  02  04  106  Lengua
+309  02  04  107  Análisis del entorno social y de su evolución histórica
+309  02  04  108  Sociología
+309  02  04  201  Tecnología de la comunicación periodística
+309  02  04  202  Documentación informativa
+309  02  04  203  Tecnología de la comunicación audiovisual
+309  02  04  204  Relaciones públicas
+309  02  04  205  Lenguaje publicitario
+309  02  04  206  Psicología social de la comunicación
+309  02  04  301  Creatividad publicitaria
+309  02  04  302  Teoría y técnica de las relaciones públicas
+309  02  04  303  Estructura del sistema publicitario
+309  02  04  304  Medios publicitarios
+309  02  04  305  Lengua extranjera aplic. a la publicidad y relacio
+309  02  04  306  Lengua extranjera aplic. a la publicidad y relacio
+309  02  04  307  Lengua extranjera aplic. a la publicidad y relacio
+309  02  04  308  Lengua extranjera aplic. a la publicidad y relacio
+309  02  04  309  Marketing
+309  02  04  401  Planificación de medios publicitarios
+309  02  04  402  Sistemas y procesos de las relaciones públicas
+309  02  04  403  Producción y realización de publicidad audiovisual
+309  02  04  404  Empresa publicitaria  y de relaciones públicas
+309  02  04  405  Procesos de creación publicitaria
+309  02  04  406  Derecho de la publicidad
+309  03  02  101  Mundo contemporáneo
+309  03  02  102  Lenguaje informativo
+309  03  02  103  Tecnol. de la comunicacion e informacion escritas
+309  03  02  104  Lengua española aplic. a los medios de comunic.I
+309  03  02  105  Teoría de la comunicación
+309  03  02  106  Teoría de la información periodística
+309  03  02  107  Psicosociología de la comunicación
+309  03  02  108  Sociologia
+309  03  02  201  Tecnología de la comunicación e información audiovisual
+309  03  02  202  Analisis y expresion en comunic.e informac.audiov
+309  03  02  203  Documentación informativa
+309  03  02  204  Publicidad
+309  03  02  205  Relaciones públicas
+309  03  02  206  Lengua española aplic.a los medios de comunic.II
+309  03  02  209  Derecho del estado
+309  03  02  210  Relaciones internacionales
+309  03  02  301  Derecho de la informacion y la comunicacion
+309  03  02  302  Redaccion periodistica
+309  03  02  303  Teoría y técnica de la información audiovisual I
+309  03  02  304  Diseño y edición en prensa
+309  03  02  305  Teoria e historia del periodismo
+309  03  02  306  Periodismo especializado I
+309  03  02  307  Lengua extranjera I (ingles)
+309  03  02  308  Lengua extranjera I (francés)
+309  03  02  309  Lengua extranjera I (italiano)
+309  03  02  401  Empresa informativa
+309  03  02  402  Teoría y técnica de la información audiovisual II
+309  03  02  403  Periodismo especializado II
+309  03  02  404  Comunicacion institucional y empresarial
+309  03  02  405  Estructura de los sistemas periodisticos
+309  03  02  406  Fundamentos de deontología
+309  03  02  407  Lengua extranjera II (inglés)
+309  03  02  408  Lengua extranjera II (francés)
+309  03  02  409  Lengua extranjera II (italiano)
+309  03  02  701  Lengua aplicada a los medios de comunicacion I
+309  03  02  702  Teoría de la comunicación
+309  03  02  703  Teoría de la información periodística
+309  03  02  704  Lenguaje informativo
+309  03  02  706  Tecnologia de la comunicacion e inform. escritas
+309  03  04  101  Teorías de la comunicación
+309  03  04  102  Historia general de la comunicación
+309  03  04  103  Construcción periodística de la realidad
+309  03  04  104  Publicidad
+309  03  04  105  Teoría, técnica e historia de la imagen fija
+309  03  04  106  Lengua
+309  03  04  107  Análisis del entorno social y de su evolución histórica
+309  03  04  108  Sociología
+309  03  04  201  Tecnología de la comunicación periodística
+309  03  04  202  Documentación informativa
+309  03  04  203  Tecnología de la comunicación audiovisual
+309  03  04  204  Relaciones públicas
+309  03  04  205  Psicología social de la comunicación
+309  03  04  206  Análisis de la actualidad nacional
+309  03  04  301  Técnicas del mensaje periodístico
+309  03  04  302  Diseño digital
+309  03  04  303  Teoría e historia del periodismo
+309  03  04  304  Información periodística especializada
+309  03  04  305  Edición y producción de la información en radio
+309  03  04  306  Estructura general del sistema de medios
+309  03  04  401  Empresa informativa
+309  03  04  402  Comunicación especializada
+309  03  04  403  Edición y producción de la información en televisión
+309  03  04  404  Derecho de la información
+309  03  04  405  Métodos y técnicas de investigación en comunicación periodística
+309  03  04  406  Comunicación empresarial e institucional
+310  01  01  001  Pedagogía I
+310  01  01  002  Psicosociología I
+310  01  01  003  Dibujo
+310  01  01  004  Manualizaciones
+310  01  01  005  Música
+310  01  01  006  Matemáticas
+310  01  01  007  Lengua española
+310  01  01  008  Geología
+310  01  01  009  Pedagogía II
+310  01  01  010  Psicosociología II
+310  01  01  011  Matemáticas II
+310  01  01  012  Física
+310  01  01  013  Química
+310  01  01  014  Biología
+310  01  01  015  Religión (carácter opcional)
+310  01  01  016  Didáctica de la educación física
+310  01  01  017  Didáctica de la física y química
+310  01  01  018  Didáctica de las ciencias naturales
+310  01  01  019  Didáctica de las matemáticas
+310  01  01  020  Didactica de la lengua española (1.ET.)
+310  01  01  021  Didactica de las ciencias hum. (1.ET.)
+310  01  01  023  Prácticas de enseñanza
+310  01  01  024  Pedagogía I
+310  01  01  025  Psicosociología I
+310  01  01  026  Dibujo
+310  01  01  027  Manualizaciones
+310  01  01  028  Matemáticas
+310  01  01  029  Lengua española
+310  01  01  030  Geografía I
+310  01  01  031  Historia I
+310  01  01  032  Pedagogía II
+310  01  01  033  Psicosociología II
+310  01  01  034  Geografía II
+310  01  01  035  Historia II
+310  01  01  036  Historia del arte
+310  01  01  037  Música
+310  01  01  038  Religion (opcional)
+310  01  01  039  Didáctica de la educación física
+310  01  01  040  Didáctica de la geografía
+310  01  01  041  Didáctica de la historia
+310  01  01  042  Didactica de la lengua española (1.et.)
+310  01  01  043  Didactica de la ciencias natur. (1.et.)
+310  01  01  044  Didactica de las matematicas (1.et.)
+310  01  01  046  Prácticas de enseñanza
+310  01  01  047  Pedagogía I
+310  01  01  048  Psicosociología I
+310  01  01  049  Dibujo
+310  01  01  050  Manualizaciones
+310  01  01  051  Música
+310  01  01  052  Matemáticas
+310  01  01  053  Lengua española
+310  01  01  054  Historia de la educación especial
+310  01  01  055  Pedagogía II
+310  01  01  056  Psicosociología II
+310  01  01  057  Psicologia del deficiente e inadapt.
+310  01  01  058  Orient. y diagnostico multiprofes.
+310  01  01  059  Biopatologia de las deficienc. e inadapt.
+310  01  01  060  Organiz. aplicada a la educac. especial
+310  01  01  061  Expresion plastica en la educ. especial
+310  01  01  062  Expresion dinamica en la educ. especial
+310  01  01  063  Religión (carácter opcional)
+310  01  01  064  Didáctica de la educación física
+310  01  01  065  Didáctica de la educación especial
+310  01  01  066  Didactica de la lengua española (1.et.)
+310  01  01  067  Didactica de las ciencias natur. (1.et.)
+310  01  01  068  Didactica de las ciencias hum. (1.et.)
+310  01  01  069  Didactica de las matematicas (1.et.)
+310  01  01  071  Prácticas de enseñanza
+310  01  01  072  Pedagogía I
+310  01  01  073  Psicosociología I
+310  01  01  074  Dibujo
+310  01  01  075  Manualizaciones
+310  01  01  076  Música
+310  01  01  077  Matemáticas
+310  01  01  078  Lengua española I
+310  01  01  081  Pedagogía II
+310  01  01  082  Psicosociología II
+310  01  01  083  Lengua española II
+310  01  01  088  Literatura
+310  01  01  089  Religión (carácter opcional)
+310  01  01  090  Didáctica de la educación física
+310  01  01  091  Didactica de la lengua y lit. españolas
+310  01  01  094  Didactica de la ciencias hum. (1. et.)
+310  01  01  095  Didactica de la ciencias natur. (1. et.)
+310  01  01  096  Didactica de las matematicas (1. et.)
+310  01  01  098  Prácticas de enseñanza
+310  01  01  099  Pedagogía I
+310  01  01  100  Psicosociología I
+310  01  01  101  Dibujo
+310  01  01  102  Manualizaciones
+310  01  01  103  Música
+310  01  01  104  Matemáticas
+310  01  01  105  Lengua española
+310  01  01  106  Organización escolar
+310  01  01  107  Pedagogía II
+310  01  01  108  Psicosociología II
+310  01  01  109  Psicología de la edad preescolar
+310  01  01  110  Lenguaje infantil
+310  01  01  111  Area logico-matemat. en la edad preescolar
+310  01  01  112  Expresión dinámica
+310  01  01  113  Expresión plástica
+310  01  01  114  Religión (carácter opcional)
+310  01  01  115  Didáctica de la educación física
+310  01  01  116  Didáctica de la educación preescolar
+310  01  01  117  Didactica de la lengua española (1.ET.)
+310  01  01  118  Didactica de las ciencias natur. (1.ET.)
+310  01  01  119  Didactica de las ciencias hum. (1.ET.)
+310  01  01  120  Didactica de las matematicas (1.ET.)
+310  01  01  122  Prácticas de enseñanza
+310  01  01  123  Pedagogía I
+310  01  01  124  Psicosociología I
+310  01  01  125  Dibujo
+310  01  01  126  Música
+310  01  01  127  Matemáticas
+310  01  01  128  Lengua española
+310  01  01  129  Cinesiología e higiene del ejercicio físico
+310  01  01  130  Educación física de base
+310  01  01  131  Espacio y sociedad
+310  01  01  132  Pedagogía II
+310  01  01  133  Psicosociología II
+310  01  01  134  Manualizaciones
+310  01  01  135  Teoría y sistemas de la educación física
+310  01  01  136  Fundamentos de la educación física especial
+310  01  01  137  Teoría y práctica del entrenamiento deportivo
+310  01  01  138  Habilidades deportivas en la edad escolar I
+310  01  01  139  Actividades extraescolares y en la naturaleza
+310  01  01  140  Juegos aplicados a la educación física
+310  01  01  141  Equipamientos e instalaciones deportivas
+310  01  01  152  Didáctica de la educación física
+310  01  01  153  Habilidades deportivas en la edad escolar II
+310  01  01  154  Didáctica de las ciencias naturales
+310  01  01  155  Didáctica de las matemáticas
+310  01  01  156  Didactica de la lengua española-primera etapa
+310  01  01  157  Didactica de las ciencias humanas-primera etapa
+310  01  01  158  Prácticas de enseñanza
+310  02  01  300  Historia de la filosofía
+310  02  01  301  Introduccion empirica CCEE
+310  02  01  302  Estadistica aplicada CCHHI
+310  02  01  303  Fundamentos biológicos conducta
+310  02  01  304  Psicología general
+310  02  01  305  Pedagogía general
+310  02  01  306  Psicología evolutiva
+310  02  01  307  Estadistica aplicada CCHH II
+310  02  01  308  Sociología de la educación
+310  02  01  309  Didáctica I
+310  02  01  310  Psicodiagnóstico
+310  02  01  311  Psicopatología
+310  02  01  312  Psicometría
+310  02  01  313  Filosofía de la educación
+310  02  01  314  Historia de la educación I
+310  02  01  315  Filosofía de la educación
+310  02  01  316  Didáctica I
+310  02  01  317  Psicología evolutiva
+310  02  01  318  Historia de la educación I
+310  02  01  319  Estadistica aplicada CCHH
+310  02  01  320  Psicología general
+310  02  01  321  Fundamentos biológicos de la conducta
+310  02  01  322  Estadistica aplicada CCHH I
+310  02  01  323  Introduccion empirica CCEE
+310  02  01  324  Sociología de la educación
+310  02  01  325  Filosofía de la educación
+310  02  01  326  Didáctica I
+310  02  01  327  Psicología evolutiva
+310  02  01  328  Historia de la educación I
+310  02  01  329  Estadistica aplicada CCHH II
+310  02  01  330  Historia de la educación II
+310  02  01  331  Didáctica II
+310  02  01  332  Organización y legislación escolar
+310  02  01  333  Orientación educativa I
+310  02  01  335  Pedagogía experimental
+310  02  01  336  Psicología de la educación
+310  02  01  337  Didáctica especial
+310  02  01  338  Educación especial
+310  02  03  101  Antropología de la educación
+310  02  03  102  Psicología del desarrollo y la educación
+310  02  03  103  Procesos psicológicos básicos I
+310  02  03  104  Sociología de la educación I
+310  02  03  105  Teoría de la educación I
+310  02  03  106  Didáctica general I
+310  02  03  107  Métodos de investigación en educación I
+310  02  03  108  Psicología de la educación
+310  02  03  109  Procesos psicológicos básicos II
+310  02  03  110  Sociología de la educación II
+310  02  03  111  Teoría de la educación II
+310  02  03  112  Didáctica general II
+310  02  03  113  Métodos de investigación en educación II
+310  02  03  114  Practicum I
+310  02  03  201  H.de la educacion hasta la revolucion francesa
+310  02  03  202  Organización y gestión de centros educativos I
+310  02  03  203  Historia de la educación contemporánea
+310  02  03  204  Organización y gestión de centros educativos II
+310  02  03  205  Teoría del conocimiento científico en educación
+310  02  03  206  Tecnología educativa
+310  02  03  207  Diagnostico y evaluación de necesidades educativas
+310  02  03  208  Practicum II
+310  02  03  301  Diseño y desarrollo del curriculum I
+310  02  03  302  Diseño y desarrollo del curriculum II
+310  02  03  303  Eval. educativa de programas, centros y profesores
+310  02  03  304  Historia de la educación en España I
+310  02  03  305  Historia de la educación en España II
+310  02  03  306  Pedagogía social
+310  02  03  307  Practicum III
+310  02  03  401  Desarrollo profesional del docente
+310  02  03  402  Filosofía de la educación
+310  02  03  403  Política y legislación educativa
+310  02  03  404  Economía de la educación
+310  02  03  405  Educación comparada
+310  02  03  406  Practicum IV
+310  02  03  407  Practicum V
+310  02  03  701  Antropologia de la educacion
+310  02  03  702  Bases metodologicas de la investigacion educativa
+310  02  03  703  Organizacion y gestion de centros educativos
+310  02  03  704  Procesos psicologicos basicos
+310  02  04  101  Teoría de la educación
+310  02  04  102  Didáctica general
+310  02  04  103  Sociología de la educación
+310  02  04  104  Métodos de investigación en educación I
+310  02  04  105  Antropología de la educación
+310  02  04  106  Psicología del desarrollo y la educación
+310  02  04  107  Procesos psicológicos básicos
+310  02  04  108  Psicología de la educación
+310  02  04  109  Métodos de investigación en educación II
+310  02  04  201  Organización y gestión de centros educativos
+310  02  04  202  Historia de la educación
+310  02  04  203  Tecnología educativa
+310  02  04  204  Teoría del conocimiento científico
+310  02  04  205  Practicum I
+310  02  04  206  Nuevas tecn.informat.y comunic.aplic.a la educacio
+310  02  04  301  Diseño y desarrollo e innovación del curriculum
+310  02  04  302  Pedagogía social
+310  02  04  303  Diagnostico y evaluación de necesidades educativas
+310  02  04  304  Historia de la educación en España
+310  02  04  305  Evaluación de programas, centros y profesores
+310  02  04  401  Practicum II
+310  02  04  402  Formación y actuación en la función pedagógica
+310  02  04  403  Política y legislación educativa
+310  02  04  404  Educación comparada
+310  02  04  405  Economía de la educación
+310  02  04  406  Orientación educativa
+310  02  04  407  Filosofía de la educación
+310  02  04  701  Antropología de la educación
+310  02  04  702  Métodos de investigación en educación II
+310  02  04  703  Organización y gestión de centros educativos
+310  02  04  704  Procesos psicológicos básicos
+310  03  03  101  Sociología de la educación
+310  03  03  102  Psicologia del desarrollo y de la educacion I
+310  03  03  103  Teoría e instituciones contemporáneas de educación
+310  03  03  104  Lingüística
+310  03  03  105  Sistemas alternativos de comunicación
+310  03  03  106  Anatomía, fisiología y neurología del lenguaje
+310  03  03  107  Didáctica general
+310  03  03  108  Psicologia de la educacion II
+310  03  03  109  La educación institucional
+310  03  03  110  Practicum I
+310  03  03  111  Nuevas tecnologías aplicadas a la educación
+310  03  03  112  Psicopatología de la audición y lenguaje
+310  03  03  113  Aspectos evolutivos del pensamiento y el lenguaje
+310  03  03  201  Bases psicológicas de la educación especial
+310  03  03  202  Tratamiento educ.de los trastornos de aud y leng.I
+310  03  03  203  Diagnóstico de los trastornos del lenguaje
+310  03  03  204  Desarrollo y habilidades linguisticas
+310  03  03  205  Tratamiento educ. de los trast. de la lengua o y e
+310  03  03  206  Intervencion did. de los trast. de aud. y lenguaje
+310  03  03  207  Aspectos did. y organizativos de la ed. especial
+310  03  03  208  Organización del centro escolar
+310  03  03  209  Bases pedagógicas de la educación especial
+310  03  03  210  Trat.educat. de los trastornos de aud. y leng. II
+310  03  03  211  Practicum II
+310  03  03  301  Practicum III
+310  03  03  303  Historia de la cultura andaluza
+310  03  04  101  Lingüística
+310  03  04  102  Psicopatología de la audición y lenguaje
+310  03  04  103  Psicología de la educación y del desarrollo en la edad escolar
+310  03  04  104  Sociología de la educación
+310  03  04  105  Teoría e instituciones contemporáneas de educación
+310  03  04  106  Didáctica general
+310  03  04  107  Anatomía, fisiología y neurología del lenguaje
+310  03  04  108  Aspectos evolutivos del pensamiento y el lenguaje
+310  03  04  201  Desarrollo de habilidades lingüísticas
+310  03  04  202  Trat. educ.de los trastornos de la aud.y del leng.
+310  03  04  203  Practicum I
+310  03  04  204  Bases psicológicas de la educación especial
+310  03  04  205  Bases pedagógicas de la educación especial
+310  03  04  206  Nuevas tecnologías aplicadas a la educación
+310  03  04  207  Oganizacion del centro escolar
+310  03  04  301  Practicum II
+310  03  04  302  Sistemas alternativos de comunicación
+310  03  04  303  Trat.educat.delos trastorn.de la leng. oral y escr
+310  04  03  101  Sociología de la educación
+310  04  03  102  Psicologia del desarrollo y de la educacion I
+310  04  03  103  Teoría e instituciones contemporáneas de educación
+310  04  03  104  Música y su didáctica
+310  04  03  105  Ed.fisica en alumnos con necesidades especiales
+310  04  03  106  Aspectos evolutivos de la defic.auditiva y visual
+310  04  03  107  Historia de la educación especial
+310  04  03  108  Didáctica general
+310  04  03  109  Psicología de la educación II
+310  04  03  110  La educación institucional
+310  04  03  111  Practicum
+310  04  03  112  Aspectos evolutivos de la deficiencia mental
+310  04  03  113  Aspectos evolutivos de la deficiencia motórica
+310  04  03  114  Aspectos didact. y organizativos de la ed.especial
+310  04  03  115  Lengua española
+310  04  03  201  Bases psicológicas de la educación especial
+310  04  03  202  Didáctica de la expresión plástica
+310  04  03  203  Aspectos educativos de la deficiencia mental
+310  04  03  204  Aspectos educativos de la deficiencia motórica
+310  04  03  205  Aspectos educativos de la def. auditiva y visual
+310  04  03  206  Tratamiento edu.de los trastornos de la leng.escri
+310  04  03  207  Organización del centro escolar
+310  04  03  208  Bases pedagogicas de la ed. especial
+310  04  03  209  Trastornos de la conducta y de personalidad
+310  04  03  210  Practicum II
+310  04  03  301  Practicum III
+310  04  03  302  Nuevas tecnologias aplicada a la educacion
+310  04  03  303  Historia de la cultura andaluza
+310  04  04  101  Aspectos evolutivos y educativos de la deficiencia auditiva
+310  04  04  102  Psic. de la educac. y del desarrollo en la edad es
+310  04  04  103  Aspectos evolutivos de la deficiencia mental
+310  04  04  104  Sociología de la educación
+310  04  04  105  Teoría e instituciones contemporáneas de educación
+310  04  04  106  Didáctica general
+310  04  04  107  Aspectos evolutivos y educativos de la deficiencia visual
+310  04  04  108  Aspectos didacticos y organizativos de la educación especial
+310  04  04  201  Expresión plástica y musical
+310  04  04  202  Aspectos educativos de la deficiencia motórica
+310  04  04  203  Aspectos evolutivos de la deficiencia motórica
+310  04  04  204  Organización del centro escolar
+310  04  04  205  Nuevas tecnologías aplicadas a la educación
+310  04  04  206  Bases psicológicas de la educación especial
+310  04  04  207  Tratam.educat. delos trastornos de la leng.escrita
+310  04  04  208  Aspectos educativos de la deficiencia mental
+310  04  04  209  Bases pedagógicas de la educación especial
+310  04  04  210  Practicum I
+310  04  04  301  Educ.fisica en alumnos con neces. educat.especiale
+310  04  04  302  Trastornos de conducta y de personalidad
+310  04  04  303  Practicum II
+310  05  03  101  Sociología de la educación
+310  05  03  102  Psicologia del desarrollo y de la educacion
+310  05  03  103  Teoria e instituciones contemporaneas de la educ.
+310  05  03  104  Idioma ingles
+310  05  03  105  Didáctica de las artes plásticas
+310  05  03  106  Matemática y su didáctica
+310  05  03  107  Bases biológicas del cuerpo humano
+310  05  03  108  Didáctica general
+310  05  03  109  Psicología de la educación II
+310  05  03  110  La educación institucional
+310  05  03  111  Practicum I
+310  05  03  112  Nuevas tecnologías aplicadas a la educación
+310  05  03  113  Ddca.del conocimiento del medio social y cultural
+310  05  03  114  Ddca. del conocimiento del medio natural
+310  05  03  115  Música y su didáctica
+310  05  03  116  Bases biológicas y fisiológicas del movimiento
+310  05  03  201  Base psicologicas de la educacion especial
+310  05  03  202  Evolución psicomotriz
+310  05  03  203  Desarrollo motor
+310  05  03  204  Educación física y su didáctica I
+310  05  03  205  Teoría y práctica del acondicionamiento físico
+310  05  03  206  Lengua y literatura y su didáctica
+310  05  03  207  Organización del centro escolar
+310  05  03  208  Bases pedagógica de la educación especial
+310  05  03  209  Educación física y su didáctica II
+310  05  03  210  Practicum II
+310  05  03  301  Practicum III
+310  05  03  303  Historia de la cultura andaluza
+310  05  04  101  Bases biológicas y fisiológicas del movimiento y el cuerpo humano
+310  05  04  102  Sociología de la educación
+310  05  04  103  Psicología de la educación y del desarrollo en la edad escolar
+310  05  04  104  Teorías e instituciones contemporáneas de educación
+310  05  04  105  Teoría y práctica del acondicionamiento físico
+310  05  04  106  Didáctica general
+310  05  04  107  Educación física y su didáctica I
+310  05  04  108  Lengua y literatura y su didáctica
+310  05  04  109  Educación artística y su didáctica
+310  05  04  201  Organización del centro escolar
+310  05  04  202  Nuevas tecnologías aplicadas a la educación
+310  05  04  203  Educación física y su didáctica II
+310  05  04  204  Conocimiento del medio natural, social y cultural
+310  05  04  205  Bases psicológicas de la educación especial
+310  05  04  206  Aprendizaje y desarrollo motor
+310  05  04  207  Practicum I
+310  05  04  208  Bases pedagogicas de la educacion especial
+310  05  04  301  Practicum II
+310  05  04  302  Matemática y su didáctica
+310  05  04  303  Idioma extranjero: inglés y su didáctica
+310  06  03  101  Sociología de la educación
+310  06  03  102  Psicologia del desarrollo y de la educacion I
+310  06  03  103  Teoría e instituciones contemporáneas de educación
+310  06  03  104  Didáctica de las artes plásticas I
+310  06  03  105  Desarrollo psicomotor
+310  06  03  106  Didáctica general
+310  06  03  107  Psicología de la educación II
+310  06  03  108  La educación institucional
+310  06  03  109  Practicum I
+310  06  03  110  Nuevas tecnologías aplicadas a la educación
+310  06  03  111  Música y su didáctica
+310  06  03  112  Desarrollo de habilidades lingüísticas
+310  06  03  201  Bases psicológicas de la educación especial
+310  06  03  202  Didactica del conocimiento medio natural
+310  06  03  203  Didáctica del conocimiento medio social y cultural
+310  06  03  204  Didactica de las matematicas en la ed. infantil
+310  06  03  205  Didáctica de las artes plásticas II
+310  06  03  206  Literatura infantil
+310  06  03  207  Organización del centro escolar
+310  06  03  208  Bases pedagógicas de la educación especial
+310  06  03  209  Didáctica de la lengua
+310  06  03  210  Practicum II
+310  06  03  301  Practicum III
+310  06  03  303  Historia de la cultura andaluza
+310  06  04  101  Didáctica de la lengua
+310  06  04  102  Desarrollo de la expresión plástica y su didáctica
+310  06  04  103  Psic. de la educ. y del desarrollo en la edad esco
+310  06  04  104  Teoría e instituciones contemporáneas de educación
+310  06  04  105  Desarrollo psicomotor
+310  06  04  106  Didáctica general
+310  06  04  107  Sociología de la educación
+310  06  04  108  Literatura infantil
+310  06  04  201  Desarrollo de la expresión musical y su didáctica
+310  06  04  202  Nuevas tecnologías aplicadas a la educación
+310  06  04  203  Conocimiento del medio natural, socio y cultural
+310  06  04  204  Desarrollo de habilidades lingüisticas y su didact
+310  06  04  205  Desarrollo del pensamiento matemático y su didáctica
+310  06  04  206  Bases psicológicas de la educación especial
+310  06  04  207  Practicum I
+310  06  04  208  Bases pedagógicas de la educación especial
+310  06  04  209  Organización del centro escolar
+310  06  04  301  Practicum II
+310  06  04  302  Desarrollo del pensamiento matemático y su didáctica
+310  07  03  101  Sociología de la educación
+310  07  03  102  Psicologia del desarrollo y de la educacion I
+310  07  03  103  Teoría e instituciones contemporáneas de educación
+310  07  03  104  Idioma ingles y su didactica
+310  07  03  105  Lengua y literatura y su didactica
+310  07  03  106  Historia de la música y del folklore
+310  07  03  107  Lenguaje musical
+310  07  03  108  Didáctica general
+310  07  03  109  Psicología de la educación II
+310  07  03  110  La educación institucional
+310  07  03  111  Practicum I
+310  07  03  112  Nuevas tecnologías aplicadas a la educación
+310  07  03  113  Formación vocal y auditiva
+310  07  03  114  Didáctica del conocimiento del medio natural
+310  07  03  115  Educación física y su didáctica
+310  07  03  201  Bases psicológicas de la educación especial
+310  07  03  202  Did. del conocimiento del medio social y cultural
+310  07  03  203  Matemáticas y su didáctica
+310  07  03  204  Agrupaciones musicales
+310  07  03  205  Formación rítmica y danza
+310  07  03  206  Didáctica de la expresión musical
+310  07  03  207  Organización del centro escolar
+310  07  03  208  Bases pedagógicas de la educación especial
+310  07  03  209  Formación instrumental
+310  07  03  210  Practicum II
+310  07  03  301  Practicum III
+310  07  03  303  Historia de la cultura andaluza
+310  07  04  101  Formación instrumental
+310  07  04  102  Agrupaciones musicales
+310  07  04  103  Psicología de la educación y del desarrollo en la edad escolar
+310  07  04  104  Teoría e instituciones contemporáneas de educación
+310  07  04  105  Didáctica general
+310  07  04  106  Sociología de la educación
+310  07  04  107  Lenguaje musical
+310  07  04  201  Matemáticas y su didáctica
+310  07  04  202  Conocimiento del medio natural, social y cultural
+310  07  04  203  Formación rítmica y danza
+310  07  04  204  Organizacion del cento escolar
+310  07  04  205  Nuevas tecnologías aplicadas a la educación
+310  07  04  206  Bases psicológicas de la educación especial
+310  07  04  207  Bases pedagógicas de la educación especial
+310  07  04  208  Didáctica de la expresión musical
+310  07  04  209  Historia de la música y su folklore
+310  07  04  210  Practicum I
+310  07  04  301  Practicum II
+310  07  04  302  Lengua y literatura y su didáctica
+310  07  04  303  Educación física y su didáctica
+310  07  04  304  Idioma extranjero: ingles
+310  07  04  305  Formación vocal y auditiva
+310  08  03  101  Sociología de la educación
+310  08  03  102  Psicologia del desarrollo y de la educacion I
+310  08  03  103  Teoría e instituciones contemporáneas de educación
+310  08  03  104  Idioma extranjero: inglés
+310  08  03  105  Lengua
+310  08  03  106  Matemáticas
+310  08  03  107  Física
+310  08  03  108  Química
+310  08  03  109  Literatura
+310  08  03  110  Didáctica general
+310  08  03  111  Psicología de la educación II
+310  08  03  112  La educación institucional
+310  08  03  113  Practicum I
+310  08  03  114  Didáctica de la lengua
+310  08  03  115  Historia
+310  08  03  116  Geografía
+310  08  03  117  Biología
+310  08  03  118  Ciencias de la tierra
+310  08  03  201  Bases psicológicas de la educación especial
+310  08  03  202  Didáctica de la literatura
+310  08  03  203  Didáctica de las ciencias naturales
+310  08  03  204  Didáctica de las ciencias sociales
+310  08  03  205  Didáctica de la matemática
+310  08  03  206  Educación física y su didáctica
+310  08  03  207  Didáctica de las artes plásticas
+310  08  03  208  Bases pedagógicas de la educación especial
+310  08  03  209  Organización del centro escolar
+310  08  03  210  Practicum II
+310  08  03  211  Educación artística y su didáctica
+310  08  03  301  Practicum III
+310  08  03  302  Nuevas tecnologías aplicadas a la educación
+310  08  03  303  Historia de la cultura andaluza
+310  08  04  101  Lengua y su didáctica
+310  08  04  102  Ciencias de la naturaleza y su didáctica
+310  08  04  103  Didáctica de la literatura
+310  08  04  104  Psicología de la educación y del desarrollo en la edad escolar
+310  08  04  105  Teorias e instituciones contemporaneas de educcion
+310  08  04  106  Didáctica general
+310  08  04  201  Matemáticas y su didáctica
+310  08  04  202  Ciencias sociales y su didáctica
+310  08  04  203  Educación física y su didáctica
+310  08  04  204  Bases psicológicas de la educación especial
+310  08  04  205  Bases pedagógicas de la educación especial
+310  08  04  206  Sociología de la educación
+310  08  04  207  Organización del centro escolar
+310  08  04  208  Educación artística y su didáctica
+310  08  04  209  Practicum I
+310  08  04  210  Nuevas tecnologías aplicadas a la educación
+310  08  04  301  Practicum II
+310  08  04  302  Idioma extranjero y su didáctica: inglés
+310  09  03  101  Sociología de la educación
+310  09  03  102  Psicologia del desarrollo y de la educacion I
+310  09  03  103  Teoría e instituciones contemporáneas de educación
+310  09  03  104  Idioma extranjero (inglés)
+310  09  03  105  Idioma extranjero (francés)
+310  09  03  106  Fonética (inglés)
+310  09  03  107  Fonética (francés)
+310  09  03  108  Educación física y su didáctica
+310  09  03  109  Didáctica general
+310  09  03  110  Psicología de la educación II
+310  09  03  111  La educación institucional
+310  09  03  112  Practicum I
+310  09  03  113  Nuevas tecnologías aplicadas a la educación
+310  09  03  114  Lingüística
+310  09  03  115  Morfosintaxis y semántica (inglés)
+310  09  03  116  Morfosintaxis y semántica (francés)
+310  09  03  201  Bases psicológicas de la educación especial
+310  09  03  202  Didáctica de la matemática
+310  09  03  203  Didáctica de las artes plásticas
+310  09  03  204  Métodos de aproximación a la literatura
+310  09  03  205  Didáctica del conocimiento del medio natural
+310  09  03  206  Didactica del conoc. del medio social y cultural
+310  09  03  207  Didactica del idioma extranjero/ingles
+310  09  03  208  Didactica del idioma extranjero/frances
+310  09  03  209  Música y su didáctica
+310  09  03  210  Estructuras semanticas/ingles
+310  09  03  211  Estructuras semanticas/frances
+310  09  03  212  Organización del centro escolar
+310  09  03  213  Bases pedagógicas de la educación especial
+310  09  03  214  Didáctica de la lengua y la literatura
+310  09  03  215  Practicum II
+310  09  03  301  Practicum III
+310  09  03  303  Historia de la cultura andaluza
+310  09  04  101  Idioma extranjero I (inglés)
+310  09  04  102  Idioma extranjero I (francés)
+310  09  04  103  Morfosintaxis y semántica (inglés)
+310  09  04  104  Morfosintaxis y semántica (francés)
+310  09  04  105  Fonética (inglés)
+310  09  04  106  Fonética (francés)
+310  09  04  107  Psicología de la educación y del desarrollo en la edad escolar
+310  09  04  108  Sociología de la educación
+310  09  04  109  Teoría e instituciones contemporáneas de educación
+310  09  04  110  Educación artística y su didáctica
+310  09  04  111  Didáctica general
+310  09  04  112  Lingüística
+310  09  04  201  Organización del centro escolar
+310  09  04  202  Nuevas tecnologías aplicadas a la educación
+310  09  04  203  Educación física y su didáctica
+310  09  04  204  Bases psicológicas de la educación especial
+310  09  04  205  Métodos de aproximación a la literatura
+310  09  04  206  Conocimiento del medio natural, social y cultural
+310  09  04  207  Bases pedagógicas de la educación especial
+310  09  04  208  Practicum I
+310  09  04  209  Idioma extranjero II (inglés)
+310  09  04  210  Idioma extranjero II (francés)
+310  09  04  301  Didáctica del idioma extranjero (inglés)
+310  09  04  302  Didáctica del idioma extranjero (francés)
+310  09  04  303  Matemáticas y su didáctica
+310  09  04  304  Practicum II
+310  09  04  305  Didáctica de la lengua y la literatura
+310  10  04  101  Didáctica General
+310  10  04  102  Psicología del Desarrollo
+310  10  04  103  Sociología y Antropología Social
+310  10  04  104  Teoría e Instituciones comtemporáneas de educación
+310  10  04  105  Métodos de Investigación Socioeducativa
+310  10  04  106  Nuevas Tecnologías aplicadas a la Educación
+310  10  04  107  Psicología Social y de las Organizaciones
+310  10  04  108  Familia e Infancia: sus necesidades y respuestas educativas
+310  10  04  109  Historia de la Educación Social
+310  10  04  201  Educación Permanente
+310  10  04  202  Programas de Animación Sociocultural
+310  10  04  203  Prácticum I
+310  10  04  204  Diagnóstico y Evaluación de necesidades socioeducativas
+310  10  04  205  Metodología de Evaluación de Programas Sociales
+310  10  04  301  Intervención Educativa en problemas de desadaptación social
+310  10  04  302  Políticas de Servicios Sociales
+310  10  04  303  Prácticum II
+310  16  03  101  Dificultades de aprendizaje
+310  16  03  102  Psicología de la instrucción
+310  16  03  103  Diseño, desarrollo e innovación del curriculum
+310  16  03  104  Metodos de invest.en educac.:tcas.e instrumentos
+310  16  03  105  Política y legislación educativa
+310  16  03  106  Diagnóstico en educación
+310  16  03  107  Intervencion psicoped.en ttnos.del desarrollo I
+310  16  03  108  Intervencion psicoped.en ttnos. de desarrollo II
+310  16  03  109  Metod.en la evaluacion de programas,centros y prof
+310  16  03  110  Practicum I
+310  16  03  201  Orientacion psicopedag.;fundamentos y metodologia
+310  16  03  202  Educ.y compet.cognitiva en la diversidad psiquica
+310  16  03  203  Modelos de orientación profesional
+310  16  03  204  Practicum II
+310  16  03  205  Educ.Y comp.cogn.en la divers.sensorial y motorica
+310  16  03  206  Practicum III
+310  16  03  701  Psicología de la personalidad
+310  16  03  702  Psicología social
+310  16  03  703  Metodos, diseños y tcas. de inv.psicologicas
+310  16  03  704  Procesos psicológicos básicos
+310  16  03  705  Psicología de la personalidad
+310  16  03  706  Metodos, diseños y tcas. de inv.psicologicas
+310  16  03  707  Procesos psicológicos básicos
+310  16  03  708  Psicología de la educación
+310  16  03  709  Organización del centro escolar
+310  16  03  710  Psicología de la personalidad
+310  16  03  711  Psicología social
+310  16  03  712  Metodos, diseños y tcas.invest.psicologicas
+310  16  03  713  Didáctica general
+310  16  03  714  Tª e instituciones contemp.de educacion
+310  16  03  715  Organización del centro escolar
+310  16  03  716  Psicología de la educación
+310  16  04  101  Dificultades de aprendizaje e intervención psicológica
+310  16  04  102  Psicología de la instrucción
+310  16  04  103  Intervención psicopedagógica en los trastornos del desarrollo I
+310  16  04  104  Diseño, desarrollo e innovación del curriculum
+310  16  04  105  Métodos de investigación en educación
+310  16  04  106  Política y legislación educativa
+310  16  04  107  Diagnóstico en educación
+310  16  04  108  Metodología de la evaluación de programas, centros y profesores
+310  16  04  109  Intervención psicopedagógica en los trastornos de desarrollo II
+310  16  04  201  Practicum
+310  16  04  202  Modelos de orientación e intervención psicopedagógica
+310  16  04  203  Orientación profesional
+310  16  04  204  Educación especial
+310  16  04  205  Educ.y competenc.cognit.en la diversid.sens.y moto
+310  16  04  701  Psicología de la personalidad
+310  16  04  702  Psicología social
+310  16  04  703  Métodos, diseños y técnicas de investigación psicológicas
+310  16  04  704  Procesos psicológicos básicos
+310  16  04  705  Psicología de la personalidad
+310  16  04  706  Métodos, diseños y técnicas de investigación psicológicas
+310  16  04  707  Procesos psicológicos básicos
+310  16  04  708  Psicología de la educación
+310  16  04  709  Organización del centro escolar
+310  16  04  710  Psicología de la personalidad
+310  16  04  711  Psicología social
+310  16  04  712  Métodos, diseños y técnicas de investigación psicológicas
+310  16  04  713  Didáctica general
+310  16  04  714  Teoría e instituciones contemporáneas de educación
+310  16  04  715  Organización del centro escolar
+310  16  04  716  Psicología de la educación
+311  01  01  350  Historia de la filosofía
+311  01  01  351  Introduccion Empirica CCEE
+311  01  01  352  Estadistica Aplicada CCHH I
+311  01  01  353  Fundamentos biológicos de la conducta
+311  01  01  354  Psicología general
+311  01  01  355  Pedagogía general
+311  01  01  356  Psicología evolutiva
+311  01  01  357  Estadistica Aplicada CCHH II
+311  01  01  358  Psicología social
+311  01  01  359  Psicología fisiológica
+311  01  01  360  Psicodiagnóstico
+311  01  01  361  Psicopatología
+311  01  01  362  Psicometría
+311  01  01  363  Psicología diferencial
+311  01  01  364  Historia de la psicología
+311  01  01  365  Psicología evolutiva
+311  01  01  366  Psicodiagnóstico
+311  01  01  367  Psicopatología
+311  01  01  368  Psicología fisiológica
+311  01  01  369  Psicometría
+311  01  01  370  Estadistica Aplicada CCHH II
+311  01  01  371  Psicología experimental
+311  01  01  372  Psicologia Aprendizaje
+311  01  01  373  Psicología del pensamiento y del lenguaje
+311  01  01  491  Psicología dinámica
+311  01  01  492  Psicología de la motivación y la emoción
+311  01  01  493  Trastornos escolares: evaluación y tratamiento
+311  01  03  101  Fundamentos de psicobiología I
+311  01  03  102  Historia de la psicología
+311  01  03  103  Psicología de la memoria
+311  01  03  104  Psicoestadística
+311  01  03  105  Psicología social
+311  01  03  106  Metod. De La Investigacion En Las Cc. Comportamien
+311  01  03  107  Psicología del desarrollo: teorías y métodos
+311  01  03  108  Psicología del aprendizaje
+311  01  03  109  Fundamentos de psicobiología II
+311  01  03  110  Psicología de la motivación y de la emoción
+311  01  03  111  Psicología ambiental
+311  01  03  112  Psicología de la personalidad
+311  01  03  113  Metod. Experimental En Las Cc. Del Comportamiento
+311  01  03  114  Psicología diferencial
+311  01  03  201  Psicología del desarrollo cognitivo y lingüístico
+311  01  03  202  Psicología del desarrollo afectivo y social
+311  01  03  203  Psicología fisiológica I
+311  01  03  204  Psicometría
+311  01  03  205  Técnicas de evaluación psicológica
+311  01  03  206  Psicología fisiológica II
+311  01  03  207  Psicología de la percepción y de la atención
+311  01  03  208  Evaluación psicológica
+311  01  03  301  Psicopatología general
+311  01  03  302  Psicología de los grupos
+311  01  03  303  Psicología de las organizaciones
+311  01  03  304  Psicología de la educación
+311  01  03  305  Psicología del pensamiento
+311  01  03  306  Psicología del lenguaje
+311  01  03  307  Psicología escolar
+311  01  03  308  Técnicas de intervención psicológica
+311  01  03  309  Practicum de investigación
+311  01  03  401  Practicum de orientación/evaluación
+311  01  03  402  Practicum de organización y servicios sociales
+311  01  03  403  Practicum de psicología clínica
+311  01  04  101  Historia de la psicología
+311  01  04  102  Psicoestadística
+311  01  04  103  Psicología de la percepción y de la atención
+311  01  04  104  Psicología de la motivación y de la emoción
+311  01  04  105  Fundamentos de psicobiología
+311  01  04  106  Psicología de la personalidad
+311  01  04  107  Psicología social
+311  01  04  108  Psicología ambiental
+311  01  04  109  Metodologia De Investigacion En Las Cc Del Comport
+311  01  04  110  Psicología del desarrollo: teorías y métodos
+311  01  04  201  Metodología experimental en las ciencias del comportamiento
+311  01  04  202  Psicología del aprendizaje
+311  01  04  203  Psicología De La Memoria
+311  01  04  204  Psicología fisiológica I
+311  01  04  205  Psicología del desarrollo afectivo y social
+311  01  04  206  Psicología del desarrollo cognitivo y lingüístico
+311  01  04  207  Psicología de las diferencias humanas
+311  01  04  301  Evaluación psicológica I
+311  01  04  302  Evaluación psicológica II
+311  01  04  303  Psicometría
+311  01  04  304  Psicología fisiológica II
+311  01  04  401  Técnicas de intervención psicológica
+311  01  04  402  Psicopatología general
+311  01  04  403  Psicología de la educación
+311  01  04  404  Psicología Escolar: Interv. En Dificult. De Aprend
+311  01  04  405  Psicología de los grupos
+311  01  04  406  Psicología de las organizaciones
+311  01  04  407  Psicología del pensamiento
+311  01  04  408  Psicología del lenguaje
+311  01  04  501  Practicum de psicología clínica
+311  01  04  502  Practicum de psicología social y del trabajo
+311  01  04  503  Practicum de psicología escolar
+311  01  04  504  Practicum De Psicología Teórico-Fundamental
+311  02  03  101  Morfología De Los Órg.Del Leng. Y De La Audición
+311  02  03  102  Fisiología De Los Órg.Del Leng. Y De La Audición
+311  02  03  103  Lingüística general y aplicada
+311  02  03  104  Psic. Del Desarrollo Y Adquisición Del Lenguaje I
+311  02  03  105  Patología de la audición del lenguaje I
+311  02  03  106  Neurofisiología general y del lenguaje
+311  02  03  107  Psic. Del Desarrollo Y Adquisición Del Lenguaje II
+311  02  03  108  Patología de la audición y del lenguaje II
+311  02  03  109  Practicum I
+311  02  03  110  Metodología de investigación en logopedia
+311  02  03  111  Psicología del lenguaje
+311  02  03  201  Evaluación de programas de intervención logopédica
+311  02  03  202  Eval. Y Diagnostico Del Lenguaje,El Habla Y La Voz
+311  02  03  203  Fund.De La Intervencion En Patologia Del Lenguaje
+311  02  03  204  Interv.Logopedica En Deficiencia Mental Y Autismo
+311  02  03  205  Intervencion Logopedica En Transtornos De Voz
+311  02  03  206  Intervencion Logopedica En Transtornos Del Habla
+311  02  03  207  Neurología clínica
+311  02  03  208  Practicum II
+311  02  03  209  Recursos tecnológicos en intervención logopédica
+311  02  03  210  Sistemas alternativos de comunicación
+311  02  03  301  Intervención logopédica en afasias
+311  02  03  302  Intervención logopédica en deficiencia auditiva
+311  02  03  303  Intervención logopédica en disfasias
+311  02  03  304  Interv.logopedica en transt.de adquis.lecto-escrit
+311  02  03  305  Intervención logopédica en trastornos de fluidez
+311  02  03  306  Practicum III
+311  02  03  307  Prevenc.e interv. temprana en patologia del lengua
+311  02  04  101  Anatomía de los órganos de la audición y del lenguaje
+311  02  04  102  Fisiología de los órganos de la audición y del lenguaje
+311  02  04  103  Neurología general y del lenguaje
+311  02  04  104  Lingüística general y aplicada
+311  02  04  105  Psicología del desarrollo y adquisición del lenguaje
+311  02  04  106  Introducción a la psicopatología del lenguaje
+311  02  04  107  Patología de la audición y del lenguaje
+311  02  04  108  Prácticum I
+311  02  04  109  Metodología y análisis de datos en logopedia
+311  02  04  110  Psicología del lenguaje
+311  02  04  201  Trastornos en la adquisición y desarrollo del lenguaje
+311  02  04  202  Intervención logopédica en la defic. mental, autismo y parálisis cerebral
+311  02  04  203  Evaluación y diagnóstico del lenguaje, el habla y la voz
+311  02  04  204  Intervención logopédica en los trastornos del habla
+311  02  04  205  Intervención logopédica en los trastornos de la voz
+311  02  04  206  Sistemas alternativos de comunicación
+311  02  04  207  Recursos tecnológicos en logopedia
+311  02  04  208  Prácticum II
+311  02  04  209  Neurología clínica
+311  02  04  210  Prevención y promoción del desarrollo del lenguaje
+311  02  04  301  Prácticum III
+311  02  04  302  Intervención logopédica en afasias, disfasias y trastornos de la fluidez
+311  02  04  303  Intervención logopédica en trastornos de la lectoescritura
+311  02  04  304  Deficiencia auditiva: Aspectos psicológicos e intervención logopédica
