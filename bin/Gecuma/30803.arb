@@ -1,0 +1,5 @@
+818182
+CALIFICACION <= 119
+|   EDAD_INICIO <= 25: 3anyos (2.0)
+|   EDAD_INICIO > 25: 4anyos (2.0)
+CALIFICACION > 119: 2anyos (7.0/2.0)

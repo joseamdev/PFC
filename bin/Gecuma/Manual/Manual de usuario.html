@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="CONTENT-TYPE" content="text/html; charset=utf-8" />
+<title>Manual de usuario de GecUMA</title>
+<link href="Manual de usuario.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body lang="es-ES" dir="ltr" xml:lang="es-ES">
+<p id="titulo">MANUAL DE USUARIO</p>
+<p id="seccion">GecUMA</p>
+<p>La aplicación GecUMA, a partir de las experiencias clasificadas de los alumnos de la Universidad de Málaga, predice la
+  duración de los estudios de un alumno.</p>
+<p>El proceso consiste en procesar los árboles de decisión de los
+  alumnos de la Universidad de Málaga contenidos en diversos ficheros de texto plano. En cada uno de estos ficheros se almacena la
+  información de cada una de las titulaciones tras analizar todas las experiencias de las que se disponen. Una vez que el alumno
+  introduce sus datos, el programa utiliza los mismos para encontrar dentro del árbol de la titulación cursada, la posible duración de sus estudios.</p>
+<p>La interfaz de usuario es bastante simple y fácil de usar. En una
+  serie de ventanas se pregunta al alumno una serie de cuestiones relativas a los estudios que se encuentra
+  cursando.</p>
+<div id="figura"> <img src="Manual%20de%20usuario_html_m67ca1e86.png" alt="Figura 1" />
+  <p>Figura A.1: Ventana de selección de la titulación</p>
+</div>
+<p>En primer lugar se pregunta por la titulación que cursa
+  (<i>Figura A.1</i>). Todas las carreras aparecen juntas, sin separarse por facultad ni plan de estudios.</p>
+<div id="figura"> <img src="Manual%20de%20usuario_html_m1ca076ff.png" alt="Figura 2" />
+  <p>Figura A.2: Ventana de introducción de datos del alumno</p>
+</div>
+<p>La siguiente ventana (<i>Figura A.2</i>) recoge la información del alumno necesaria para realizar la clasificación y estimación de la duración de los estudios. Se deben rellenar todos los campos antes de pasar al siguiente paso.</p>
+<p>Una vez introducido los datos, la aplicación usará los mismos
+  para navegar por el árbol generado por WEKA hasta encontrar un nodo hoja, donde está anotado la duración estimada de la
+  carrera.</p>
+<div id="figura"> <img src="Manual%20de%20usuario_html_16a49fb7.png" alt="Figura 3"/>
+  <p>Figura A.3: Ventana de resultados de GecUMA</p>
+</div>
+<p>Junto a la duración estimada de la carrera (<i>Figura A.3</i>)
+  aparecerá un porcentaje. Éste indica el número de experiencias que se corresponden con la clase dada como respuesta, es decir,
+  las experiencias que coinciden con la duración estimada de la carrera.</p>
+<p>Una vez mostrado el resultado se puede volver a
+  repetir la ejecución de la aplicación pulsando en el botón “Repetir cálculos”.</p>
+<br />
+<br />
+</p>
+</body>
+</html>

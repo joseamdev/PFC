@@ -1,0 +1,221 @@
+685864
+CODIGO_POSTAL = 11007: 3anyos (1.01/0.01)
+CODIGO_POSTAL = 11110: 9anyos (2.03/1.02)
+CODIGO_POSTAL = 11207: 3anyos (1.01/0.01)
+CODIGO_POSTAL = 11300: 3anyos (1.01/0.01)
+CODIGO_POSTAL = 11339: 7anyos (2.03/1.02)
+CODIGO_POSTAL = 11406: 4anyos (1.01/0.01)
+CODIGO_POSTAL = 11408: 7anyos (1.01/0.01)
+CODIGO_POSTAL = 14006: 3anyos (1.01/0.01)
+CODIGO_POSTAL = 14007: 3anyos (1.01/0.01)
+CODIGO_POSTAL = 14009: 2anyos (1.01/0.01)
+CODIGO_POSTAL = 14012: 3anyos (1.01/0.01)
+CODIGO_POSTAL = 14014: 6anyos (1.01/0.01)
+CODIGO_POSTAL = 14440: 5anyos (1.01/0.01)
+CODIGO_POSTAL = 14450: 5anyos (1.01/0.01)
+CODIGO_POSTAL = 14491: 6anyos (1.01/0.01)
+CODIGO_POSTAL = 14550: 4anyos (1.01/0.01)
+CODIGO_POSTAL = 14710: 10anyos (1.01/0.01)
+CODIGO_POSTAL = 14960: 6anyos (1.01/0.01)
+CODIGO_POSTAL = 18002: 9anyos (1.01/0.01)
+CODIGO_POSTAL = 18004: 9anyos (2.03/1.02)
+CODIGO_POSTAL = 18005: 9anyos (1.01/0.01)
+CODIGO_POSTAL = 18006: 3anyos (1.01/0.01)
+CODIGO_POSTAL = 18008: 6anyos (1.01/0.01)
+CODIGO_POSTAL = 18009: 5anyos (2.03/1.03)
+CODIGO_POSTAL = 18300: 2anyos (1.01/0.01)
+CODIGO_POSTAL = 18690: 6anyos (1.01/0.01)
+CODIGO_POSTAL = 18730: 4anyos (1.01/0.01)
+CODIGO_POSTAL = 21200: 2anyos (1.01/0.01)
+CODIGO_POSTAL = 21800: 2anyos (1.01/0.01)
+CODIGO_POSTAL = 23001: 8anyos (1.01/0.01)
+CODIGO_POSTAL = 23006: 2anyos (2.03/1.03)
+CODIGO_POSTAL = 23007: 3anyos (2.03/1.03)
+CODIGO_POSTAL = 23008: 2anyos (1.01/0.01)
+CODIGO_POSTAL = 23009: 2anyos (1.01/0.01)
+CODIGO_POSTAL = 23400: 2anyos (1.01/0.01)
+CODIGO_POSTAL = 23700: 7anyos (3.04/1.03)
+CODIGO_POSTAL = 29000: 6anyos (1.01/0.01)
+CODIGO_POSTAL = 29001: 9anyos (2.03/1.02)
+CODIGO_POSTAL = 29002
+|   CALIFICACION <= 797
+|   |   EXPEDIENTE <= 1991: 7anyos (5.14/2.14)
+|   |   EXPEDIENTE > 1991
+|   |   |   CALIFICACION <= 753: 7anyos (4.0)
+|   |   |   CALIFICACION > 753: 8anyos (2.05/0.05)
+|   CALIFICACION > 797
+|   |   EXPEDIENTE <= 1993: 5anyos (3.0/1.0)
+|   |   EXPEDIENTE > 1993: 6anyos (3.05/0.05)
+CODIGO_POSTAL = 29003: 7anyos (3.04/1.03)
+CODIGO_POSTAL = 29004
+|   CALIFICACION <= 791
+|   |   CALIFICACION <= 733: 3anyos (2.13/1.13)
+|   |   CALIFICACION > 733
+|   |   |   EXPEDIENTE <= 1990: 4anyos (2.0/1.0)
+|   |   |   EXPEDIENTE > 1990: 7anyos (12.13/4.13)
+|   CALIFICACION > 791
+|   |   CALIFICACION <= 862
+|   |   |   EXPEDIENTE <= 1991: 5anyos (3.0/2.0)
+|   |   |   EXPEDIENTE > 1991
+|   |   |   |   CALIFICACION <= 828: 9anyos (2.0)
+|   |   |   |   CALIFICACION > 828: 6anyos (2.0)
+|   |   CALIFICACION > 862: 8anyos (2.07/0.07)
+CODIGO_POSTAL = 29006
+|   EDAD_INICIO <= 18
+|   |   CALIFICACION <= 740: 7anyos (4.0/2.0)
+|   |   CALIFICACION > 740
+|   |   |   CALIFICACION <= 808
+|   |   |   |   CALIFICACION <= 780: 9anyos (3.1/1.1)
+|   |   |   |   CALIFICACION > 780: 8anyos (5.0/2.0)
+|   |   |   CALIFICACION > 808: 6anyos (5.05/2.05)
+|   EDAD_INICIO > 18: 4anyos (2.1/1.1)
+CODIGO_POSTAL = 29007
+|   EDAD_INICIO <= 22
+|   |   EDAD_INICIO <= 17
+|   |   |   EXPEDIENTE <= 1991: 10anyos (2.0/1.0)
+|   |   |   EXPEDIENTE > 1991: 6anyos (2.07/1.07)
+|   |   EDAD_INICIO > 17
+|   |   |   EXPEDIENTE <= 1991
+|   |   |   |   CALIFICACION <= 786: 5anyos (2.22/1.22)
+|   |   |   |   CALIFICACION > 786: 6anyos (3.0/1.0)
+|   |   |   EXPEDIENTE > 1991
+|   |   |   |   CALIFICACION <= 849
+|   |   |   |   |   CALIFICACION <= 733
+|   |   |   |   |   |   CALIFICACION <= 273: 7anyos (3.0/1.0)
+|   |   |   |   |   |   CALIFICACION > 273: 6anyos (2.0)
+|   |   |   |   |   CALIFICACION > 733: 7anyos (8.0/1.0)
+|   |   |   |   CALIFICACION > 849: 6anyos (3.07/1.07)
+|   EDAD_INICIO > 22: 2anyos (3.0/2.0)
+CODIGO_POSTAL = 29008: 5anyos (1.01/0.01)
+CODIGO_POSTAL = 29009
+|   EXPEDIENTE <= 1995
+|   |   EXPEDIENTE <= 1993: 10anyos (2.07/1.04)
+|   |   EXPEDIENTE > 1993: 8anyos (3.02/1.02)
+|   EXPEDIENTE > 1995: 5anyos (2.0)
+CODIGO_POSTAL = 29010
+|   EXPEDIENTE <= 1994
+|   |   EXPEDIENTE <= 1991: 10anyos (2.08/0.05)
+|   |   EXPEDIENTE > 1991: 7anyos (3.03/1.03)
+|   EXPEDIENTE > 1994: 6anyos (5.03/1.03)
+CODIGO_POSTAL = 29011: 6anyos (6.08/3.08)
+CODIGO_POSTAL = 29012
+|   EXPEDIENTE <= 1993: 9anyos (4.07/2.04)
+|   EXPEDIENTE > 1993: 6anyos (3.02/0.02)
+CODIGO_POSTAL = 29013
+|   EXPEDIENTE <= 1992: 7anyos (11.2/5.2)
+|   EXPEDIENTE > 1992
+|   |   EDAD_INICIO <= 19
+|   |   |   GENERO = H: 6anyos (4.05/1.05)
+|   |   |   GENERO = M: 8anyos (2.0)
+|   |   EDAD_INICIO > 19: 3anyos (2.0/1.0)
+CODIGO_POSTAL = 29014
+|   CALIFICACION <= 780
+|   |   EXPEDIENTE <= 1992: 7anyos (2.14/0.14)
+|   |   EXPEDIENTE > 1992: 6anyos (3.0/1.0)
+|   CALIFICACION > 780: 5anyos (8.03/5.03)
+CODIGO_POSTAL = 29015: 7anyos (1.01/0.01)
+CODIGO_POSTAL = 29016
+|   GENERO = H
+|   |   EDAD_INICIO <= 18
+|   |   |   EXPEDIENTE <= 1991: 5anyos (4.09/2.09)
+|   |   |   EXPEDIENTE > 1991
+|   |   |   |   EXPEDIENTE <= 1992: 7anyos (4.09/2.09)
+|   |   |   |   EXPEDIENTE > 1992
+|   |   |   |   |   EXPEDIENTE <= 1993
+|   |   |   |   |   |   CALIFICACION <= 768: 5anyos (2.0/1.0)
+|   |   |   |   |   |   CALIFICACION > 768: 6anyos (4.0/2.0)
+|   |   |   |   |   EXPEDIENTE > 1993
+|   |   |   |   |   |   CALIFICACION <= 877: 7anyos (8.09/2.0)
+|   |   |   |   |   |   CALIFICACION > 877: 5anyos (2.0/1.0)
+|   |   EDAD_INICIO > 18: 9anyos (2.18/1.0)
+|   GENERO = M
+|   |   CALIFICACION <= 791: 10anyos (3.0/1.0)
+|   |   CALIFICACION > 791: 6anyos (5.0/3.0)
+CODIGO_POSTAL = 29017
+|   EDAD_INICIO <= 19
+|   |   CALIFICACION <= 819
+|   |   |   CALIFICACION <= 748: 8anyos (7.06/2.06)
+|   |   |   CALIFICACION > 748: 9anyos (6.12/3.12)
+|   |   CALIFICACION > 819: 7anyos (5.06/2.0)
+|   EDAD_INICIO > 19: 4anyos (4.06/2.06)
+CODIGO_POSTAL = 29018
+|   EDAD_INICIO <= 21
+|   |   GENERO = H
+|   |   |   EDAD_INICIO <= 19
+|   |   |   |   EDAD_INICIO <= 18
+|   |   |   |   |   CALIFICACION <= 815: 8anyos (5.09/1.09)
+|   |   |   |   |   CALIFICACION > 815: 7anyos (3.05/2.0)
+|   |   |   |   EDAD_INICIO > 18: 6anyos (3.05/1.05)
+|   |   |   EDAD_INICIO > 19: 5anyos (2.05/0.05)
+|   |   GENERO = M: 6anyos (2.0)
+|   EDAD_INICIO > 21: 3anyos (2.0/1.0)
+CODIGO_POSTAL = 29100: 9anyos (2.03/1.02)
+CODIGO_POSTAL = 29120: 6anyos (4.05/2.05)
+CODIGO_POSTAL = 29130: 6anyos (4.05/2.05)
+CODIGO_POSTAL = 29140: 8anyos (2.03/0.03)
+CODIGO_POSTAL = 29190
+|   ACCESO = 2ciclo: 5anyos (3.0/1.0)
+|   ACCESO = adaptacion: 4anyos (0.0)
+|   ACCESO = COU: 4anyos (0.0)
+|   ACCESO = erasmus: 4anyos (0.0)
+|   ACCESO = FP: 4anyos (0.0)
+|   ACCESO = mayor25: 4anyos (0.0)
+|   ACCESO = selectividad
+|   |   CALIFICACION <= 745: 7anyos (3.04/1.04)
+|   |   CALIFICACION > 745: 4anyos (2.06/0.06)
+|   ACCESO = titulado: 4anyos (0.0)
+CODIGO_POSTAL = 29191: 5anyos (1.01/0.01)
+CODIGO_POSTAL = 29200: 9anyos (3.04/2.02)
+CODIGO_POSTAL = 29300: 7anyos (1.01/0.01)
+CODIGO_POSTAL = 29310: 9anyos (1.01/0.01)
+CODIGO_POSTAL = 29313: 6anyos (1.01/0.01)
+CODIGO_POSTAL = 29400
+|   EXPEDIENTE <= 1993: 6anyos (2.04/1.04)
+|   EXPEDIENTE > 1993: 5anyos (2.01/0.01)
+CODIGO_POSTAL = 29420: 5anyos (1.01/0.01)
+CODIGO_POSTAL = 29470: 4anyos (1.01/0.01)
+CODIGO_POSTAL = 29480: 9anyos (1.01/0.01)
+CODIGO_POSTAL = 29500: 8anyos (1.01/0.01)
+CODIGO_POSTAL = 29590: 9anyos (1.01/0.01)
+CODIGO_POSTAL = 29591: 7anyos (1.01/0.01)
+CODIGO_POSTAL = 29600: 10anyos (3.04/2.02)
+CODIGO_POSTAL = 29620
+|   EDAD_INICIO <= 17: 5anyos (3.03/2.03)
+|   EDAD_INICIO > 17: 7anyos (7.11/3.08)
+CODIGO_POSTAL = 29630: 8anyos (4.05/2.05)
+CODIGO_POSTAL = 29639: 8anyos (1.01/0.01)
+CODIGO_POSTAL = 29640: 5anyos (1.01/0.01)
+CODIGO_POSTAL = 29649: 8anyos (1.01/0.01)
+CODIGO_POSTAL = 29650: 9anyos (2.03/1.02)
+CODIGO_POSTAL = 29670: 9anyos (1.01/0.01)
+CODIGO_POSTAL = 29680
+|   GENERO = H: 8anyos (4.09/1.09)
+|   GENERO = M: 7anyos (3.0/1.0)
+CODIGO_POSTAL = 29700
+|   GENERO = H
+|   |   CALIFICACION <= 792: 9anyos (2.06/1.03)
+|   |   CALIFICACION > 792: 7anyos (2.02)
+|   GENERO = M: 8anyos (2.0/1.0)
+CODIGO_POSTAL = 29719: 8anyos (1.01/0.01)
+CODIGO_POSTAL = 29720
+|   CALIFICACION <= 739: 9anyos (2.02/1.0)
+|   CALIFICACION > 739: 6anyos (2.03/0.03)
+CODIGO_POSTAL = 29730: 5anyos (3.04/1.04)
+CODIGO_POSTAL = 29740
+|   CALIFICACION <= 804: 8anyos (2.05/1.05)
+|   CALIFICACION > 804: 6anyos (3.01/0.01)
+CODIGO_POSTAL = 29780: 3anyos (1.01/0.01)
+CODIGO_POSTAL = 29790: 8anyos (1.01/0.01)
+CODIGO_POSTAL = 4003: 6anyos (1.01/0.01)
+CODIGO_POSTAL = 4006: 7anyos (1.01/0.01)
+CODIGO_POSTAL = 4009: 5anyos (1.01/0.01)
+CODIGO_POSTAL = 41003: 6anyos (1.01/0.01)
+CODIGO_POSTAL = 41012: 10anyos (1.01/0.01)
+CODIGO_POSTAL = 4116: 4anyos (1.01/0.01)
+CODIGO_POSTAL = 4740: 3anyos (1.01/0.01)
+CODIGO_POSTAL = 4770: 2anyos (1.01/0.01)
+CODIGO_POSTAL = 4860: 8anyos (1.01/0.01)
+CODIGO_POSTAL = 4880: 5anyos (1.01/0.01)
+CODIGO_POSTAL = 48930: 3anyos (1.01/0.01)
+CODIGO_POSTAL = 52005: 10anyos (1.01/0.01)
+CODIGO_POSTAL = 6010: mas_de_10 (1.01/0.01)

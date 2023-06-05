@@ -1,0 +1,11 @@
+609272
+EXPEDIENTE <= 1994
+|   ACCESO = 2ciclo: 4anyos (0.0)
+|   ACCESO = adaptacion: 4anyos (0.0)
+|   ACCESO = COU: 4anyos (0.0)
+|   ACCESO = erasmus: 4anyos (0.0)
+|   ACCESO = FP: 4anyos (0.0)
+|   ACCESO = mayor25: 4anyos (10.22/4.41)
+|   ACCESO = selectividad: 4anyos (134.12/31.36)
+|   ACCESO = titulado: 2anyos (30.66/19.66)
+EXPEDIENTE > 1994: 3anyos (127.0/68.0)

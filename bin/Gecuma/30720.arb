@@ -1,0 +1,7 @@
+373333
+EDAD_INICIO <= 22: 4anyos (67.0/45.0)
+EDAD_INICIO > 22
+|   EXPEDIENTE <= 1996: 5anyos (2.0/1.0)
+|   EXPEDIENTE > 1996
+|   |   CALIFICACION <= 798: 2anyos (2.0)
+|   |   CALIFICACION > 798: 1anyo (4.0/1.0)

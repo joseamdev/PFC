@@ -1,0 +1,13 @@
+572505
+ACCESO = 2ciclo: 1anyo (21.07/9.03)
+ACCESO = adaptacion: 3anyos (0.0)
+ACCESO = COU: 3anyos (10.54/1.36)
+ACCESO = erasmus: 3anyos (0.0)
+ACCESO = FP: 3anyos (0.0)
+ACCESO = mayor25: 4anyos (18.96/11.5)
+ACCESO = selectividad
+|   EXPEDIENTE <= 1991: 4anyos (60.96/31.48)
+|   EXPEDIENTE > 1991: 3anyos (407.88/169.88)
+ACCESO = titulado
+|   EXPEDIENTE <= 1992: 5anyos (2.57/1.5)
+|   EXPEDIENTE > 1992: 3anyos (9.02/3.02)

@@ -1,0 +1,147 @@
+642857
+CODIGO_POSTAL = 11160: 6anyos (1.0/0.0)
+CODIGO_POSTAL = 11201: 5anyos (1.0/0.0)
+CODIGO_POSTAL = 11202: 5anyos (1.0/0.0)
+CODIGO_POSTAL = 11203: 5anyos (1.0/0.0)
+CODIGO_POSTAL = 11204: 5anyos (2.01/1.01)
+CODIGO_POSTAL = 11205: 3anyos (1.0)
+CODIGO_POSTAL = 11300: 2anyos (2.01/1.01)
+CODIGO_POSTAL = 11403: 6anyos (1.0/0.0)
+CODIGO_POSTAL = 11404: 7anyos (1.0/0.0)
+CODIGO_POSTAL = 11406: 6anyos (1.0/0.0)
+CODIGO_POSTAL = 11427: 5anyos (1.0/0.0)
+CODIGO_POSTAL = 11610: 7anyos (1.0/0.0)
+CODIGO_POSTAL = 14280: 5anyos (1.0/0.0)
+CODIGO_POSTAL = 14620: 4anyos (1.0/0.0)
+CODIGO_POSTAL = 14640: 6anyos (1.0/0.0)
+CODIGO_POSTAL = 14940: 4anyos (1.0/0.0)
+CODIGO_POSTAL = 23485: 6anyos (1.0/0.0)
+CODIGO_POSTAL = 29001: 4anyos (1.0/0.0)
+CODIGO_POSTAL = 29002
+|   EXPEDIENTE <= 1996
+|   |   EDAD_INICIO <= 19: 6anyos (4.0/2.0)
+|   |   EDAD_INICIO > 19: 3anyos (4.05/1.0)
+|   EXPEDIENTE > 1996: 5anyos (3.0)
+CODIGO_POSTAL = 29003
+|   EXPEDIENTE <= 1994: 7anyos (4.03/2.03)
+|   EXPEDIENTE > 1994: 3anyos (2.0/1.0)
+CODIGO_POSTAL = 29004
+|   ACCESO = 2ciclo: 4anyos (0.0)
+|   ACCESO = adaptacion: 6anyos (2.99/0.99)
+|   ACCESO = COU: 4anyos (0.0)
+|   ACCESO = erasmus: 4anyos (0.0)
+|   ACCESO = FP: 7anyos (1.5/0.5)
+|   ACCESO = mayor25: 4anyos (0.0)
+|   ACCESO = selectividad
+|   |   EXPEDIENTE <= 1997
+|   |   |   EDAD_INICIO <= 22: 4anyos (8.08/4.58)
+|   |   |   EDAD_INICIO > 22: 3anyos (2.5/0.75)
+|   |   EXPEDIENTE > 1997: 3anyos (3.0/1.0)
+|   ACCESO = titulado: 4anyos (0.0)
+CODIGO_POSTAL = 29006
+|   ACCESO = 2ciclo: 6anyos (0.0)
+|   ACCESO = adaptacion: 8anyos (1.12/0.12)
+|   ACCESO = COU: 6anyos (0.0)
+|   ACCESO = erasmus: 6anyos (0.0)
+|   ACCESO = FP: 4anyos (3.35/2.18)
+|   ACCESO = mayor25: 6anyos (0.0)
+|   ACCESO = selectividad
+|   |   CALIFICACION <= 557
+|   |   |   EXPEDIENTE <= 1994: 5anyos (5.61/2.61)
+|   |   |   EXPEDIENTE > 1994: 6anyos (4.0/1.0)
+|   |   CALIFICACION > 557
+|   |   |   EDAD_INICIO <= 18: 4anyos (2.0)
+|   |   |   EDAD_INICIO > 18: 5anyos (3.0/1.0)
+|   ACCESO = titulado: 6anyos (0.0)
+CODIGO_POSTAL = 29007
+|   EXPEDIENTE <= 1995: 7anyos (6.04/3.04)
+|   EXPEDIENTE > 1995: 4anyos (4.0/2.0)
+CODIGO_POSTAL = 29009
+|   EDAD_INICIO <= 21: 6anyos (5.03/2.03)
+|   EDAD_INICIO > 21: 2anyos (3.0/1.0)
+CODIGO_POSTAL = 29010
+|   ACCESO = 2ciclo: 4anyos (0.0)
+|   ACCESO = adaptacion: 6anyos (4.8/2.27)
+|   ACCESO = COU: 5anyos (1.2/0.2)
+|   ACCESO = erasmus: 4anyos (0.0)
+|   ACCESO = FP: 3anyos (2.4/1.4)
+|   ACCESO = mayor25: 4anyos (0.0)
+|   ACCESO = selectividad
+|   |   GENERO = H
+|   |   |   EDAD_INICIO <= 21: 4anyos (4.61/1.61)
+|   |   |   EDAD_INICIO > 21: 2anyos (3.07/1.07)
+|   |   GENERO = M: 3anyos (2.0/1.0)
+|   ACCESO = titulado: 4anyos (0.0)
+CODIGO_POSTAL = 29011
+|   EXPEDIENTE <= 1994: 3anyos (4.03/1.0)
+|   EXPEDIENTE > 1994: 5anyos (2.0)
+CODIGO_POSTAL = 29012: 4anyos (4.02/2.02)
+CODIGO_POSTAL = 29013
+|   EDAD_INICIO <= 20
+|   |   EDAD_INICIO <= 18: 4anyos (2.0/1.0)
+|   |   EDAD_INICIO > 18: 7anyos (4.04/2.04)
+|   EDAD_INICIO > 20: 6anyos (4.0/1.0)
+CODIGO_POSTAL = 29014
+|   EDAD_INICIO <= 21: 4anyos (4.03/1.03)
+|   EDAD_INICIO > 21: 3anyos (3.0/2.0)
+CODIGO_POSTAL = 29016: 4anyos (5.02/2.02)
+CODIGO_POSTAL = 29017: 4anyos (7.03/5.03)
+CODIGO_POSTAL = 29018
+|   GENERO = H: 5anyos (3.02/1.02)
+|   GENERO = M: 1anyo (2.0/1.0)
+CODIGO_POSTAL = 29108: 2anyos (1.0/0.0)
+CODIGO_POSTAL = 29120: 1anyo (1.0/0.0)
+CODIGO_POSTAL = 29130: 1anyo (2.01/1.01)
+CODIGO_POSTAL = 29170: 4anyos (1.0/0.0)
+CODIGO_POSTAL = 29180: 2anyos (1.0/0.0)
+CODIGO_POSTAL = 29190
+|   EDAD_INICIO <= 18: 4anyos (2.0/1.0)
+|   EDAD_INICIO > 18: 2anyos (3.02/2.02)
+CODIGO_POSTAL = 29194: 4anyos (1.0/0.0)
+CODIGO_POSTAL = 29200
+|   GENERO = H
+|   |   CALIFICACION <= 0: 8anyos (2.03/1.03)
+|   |   CALIFICACION > 0: 3anyos (3.0/1.0)
+|   GENERO = M: 4anyos (2.0/1.0)
+CODIGO_POSTAL = 29210: 1anyo (1.0/0.0)
+CODIGO_POSTAL = 29310: 7anyos (1.0/0.0)
+CODIGO_POSTAL = 29312: 6anyos (1.0/0.0)
+CODIGO_POSTAL = 29320: 6anyos (4.02/2.02)
+CODIGO_POSTAL = 29327: 3anyos (1.0)
+CODIGO_POSTAL = 29400: 3anyos (3.01/2.0)
+CODIGO_POSTAL = 29490: 3anyos (1.0)
+CODIGO_POSTAL = 29500
+|   GENERO = H: 7anyos (2.02/1.02)
+|   GENERO = M: 6anyos (2.0)
+CODIGO_POSTAL = 29530: 4anyos (1.0/0.0)
+CODIGO_POSTAL = 29532: 4anyos (2.01/1.01)
+CODIGO_POSTAL = 29560: 2anyos (1.0/0.0)
+CODIGO_POSTAL = 29580: 7anyos (1.0/0.0)
+CODIGO_POSTAL = 29600
+|   EDAD_INICIO <= 20
+|   |   EDAD_INICIO <= 19
+|   |   |   CALIFICACION <= 242: 6anyos (2.0/1.0)
+|   |   |   CALIFICACION > 242: 4anyos (2.0)
+|   |   EDAD_INICIO > 19: 1anyo (2.03/1.03)
+|   EDAD_INICIO > 20: 3anyos (2.0/1.0)
+CODIGO_POSTAL = 29620
+|   EDAD_INICIO <= 21
+|   |   EDAD_INICIO <= 19: 3anyos (2.0/1.0)
+|   |   EDAD_INICIO > 19: 2anyos (2.03/0.03)
+|   EDAD_INICIO > 21: 5anyos (2.0/1.0)
+CODIGO_POSTAL = 29640
+|   CALIFICACION <= 242: 5anyos (5.03/1.03)
+|   CALIFICACION > 242: 4anyos (3.0/1.0)
+CODIGO_POSTAL = 29650: 5anyos (1.0/0.0)
+CODIGO_POSTAL = 29670: 2anyos (3.01/2.01)
+CODIGO_POSTAL = 29680
+|   EDAD_INICIO <= 21: 6anyos (2.02/0.02)
+|   EDAD_INICIO > 21: 3anyos (3.0/2.0)
+CODIGO_POSTAL = 29688: 2anyos (1.0/0.0)
+CODIGO_POSTAL = 29700: 4anyos (3.01/2.01)
+CODIGO_POSTAL = 29718: 5anyos (1.0/0.0)
+CODIGO_POSTAL = 29719: 4anyos (1.0/0.0)
+CODIGO_POSTAL = 29730: 4anyos (3.01/1.01)
+CODIGO_POSTAL = 29780: 5anyos (1.0/0.0)
+CODIGO_POSTAL = 29790: 4anyos (1.0/0.0)
+CODIGO_POSTAL = 29792: 7anyos (1.0/0.0)
