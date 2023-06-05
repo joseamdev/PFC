@@ -1,0 +1,23 @@
+program Gecuma;
+
+uses
+  Forms,
+  Main in 'Main.pas' {FormGecUMA},
+  Dialogo1 in 'Dialogo1.pas' {DialogoTitulacion},
+  Dialogo2 in 'Dialogo2.pas' {DialogoDatos},
+  UTablas in 'UTablas.pas',
+  UClaseArbol in 'UClaseArbol.pas',
+  UClaseAtributo in 'UClaseAtributo.pas',
+  UDatos in 'UDatos.pas',
+  ULectura in 'ULectura.pas',
+  UEjecucion in 'UEjecucion.pas';
+
+{$R *.res}
+
+begin
+   Application.Initialize;
+   Application.CreateForm(TDialogoTitulacion, DialogoTitulacion);
+  Application.CreateForm(TDialogoDatos, DialogoDatos);
+  Application.CreateForm(TFormGecUMA, FormGecUMA);
+  Application.Run;
+end.

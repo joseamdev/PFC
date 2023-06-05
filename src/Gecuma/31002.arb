@@ -1,0 +1,61 @@
+645455
+EXPEDIENTE <= 1989
+|   EXPEDIENTE <= 1985
+|   |   EXPEDIENTE <= 1983: mas_de_10 (27.0/3.0)
+|   |   EXPEDIENTE > 1983
+|   |   |   ACCESO = 2ciclo: mas_de_10 (17.4/8.1)
+|   |   |   ACCESO = adaptacion: 8anyos (0.0)
+|   |   |   ACCESO = COU: 8anyos (0.0)
+|   |   |   ACCESO = erasmus: 8anyos (0.0)
+|   |   |   ACCESO = FP: 9anyos (1.16/0.12)
+|   |   |   ACCESO = mayor25: 8anyos (0.0)
+|   |   |   ACCESO = selectividad: 8anyos (3.48/1.24)
+|   |   |   ACCESO = titulado: 8anyos (35.96/12.48)
+|   EXPEDIENTE > 1985
+|   |   EXPEDIENTE <= 1986
+|   |   |   ACCESO = 2ciclo
+|   |   |   |   EDAD_INICIO <= 21
+|   |   |   |   |   EDAD_INICIO <= 19: 8anyos (2.32/0.32)
+|   |   |   |   |   EDAD_INICIO > 19: 10anyos (3.0/1.0)
+|   |   |   |   EDAD_INICIO > 21
+|   |   |   |   |   EDAD_INICIO <= 29: 9anyos (3.0/1.0)
+|   |   |   |   |   EDAD_INICIO > 29: 8anyos (2.32/0.32)
+|   |   |   ACCESO = adaptacion: 6anyos (0.0)
+|   |   |   ACCESO = COU: 6anyos (0.0)
+|   |   |   ACCESO = erasmus: 6anyos (0.0)
+|   |   |   ACCESO = FP: 6anyos (0.0)
+|   |   |   ACCESO = mayor25: 6anyos (0.0)
+|   |   |   ACCESO = selectividad: 6anyos (8.52/4.26)
+|   |   |   ACCESO = titulado: 6anyos (13.84/1.42)
+|   |   EXPEDIENTE > 1986: 5anyos (29.0/9.0)
+EXPEDIENTE > 1989
+|   EDAD_INICIO <= 19
+|   |   EXPEDIENTE <= 1993: 4anyos (51.0/9.0)
+|   |   EXPEDIENTE > 1993: 3anyos (300.0/106.0)
+|   EDAD_INICIO > 19
+|   |   ACCESO = 2ciclo
+|   |   |   EXPEDIENTE <= 1995: 2anyos (218.62/63.96)
+|   |   |   EXPEDIENTE > 1995
+|   |   |   |   EXPEDIENTE <= 1998
+|   |   |   |   |   EXPEDIENTE <= 1996: 1anyo (43.71/18.71)
+|   |   |   |   |   EXPEDIENTE > 1996: 2anyos (65.0/42.0)
+|   |   |   |   EXPEDIENTE > 1998: 1anyo (99.0/25.0)
+|   |   ACCESO = adaptacion: 2anyos (0.0)
+|   |   ACCESO = COU
+|   |   |   CALIFICACION <= 264: 2anyos (3.14/1.07)
+|   |   |   CALIFICACION > 264: 1anyo (2.0/1.0)
+|   |   ACCESO = erasmus: 2anyos (0.0)
+|   |   ACCESO = FP: 3anyos (2.05/1.04)
+|   |   ACCESO = mayor25: 2anyos (2.05/1.03)
+|   |   ACCESO = selectividad
+|   |   |   EDAD_INICIO <= 21
+|   |   |   |   EDAD_INICIO <= 20
+|   |   |   |   |   GENERO = H: 4anyos (14.0/5.0)
+|   |   |   |   |   GENERO = M: 3anyos (54.0/25.0)
+|   |   |   |   EDAD_INICIO > 20: 4anyos (28.44/17.44)
+|   |   |   EDAD_INICIO > 21
+|   |   |   |   EXPEDIENTE <= 1995: 2anyos (25.86/17.54)
+|   |   |   |   EXPEDIENTE > 1995: 4anyos (10.22/5.22)
+|   |   ACCESO = titulado
+|   |   |   EXPEDIENTE <= 1991: 2anyos (21.17/4.11)
+|   |   |   EXPEDIENTE > 1991: 3anyos (12.73/6.56)

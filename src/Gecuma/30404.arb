@@ -1,0 +1,15 @@
+529142
+EXPEDIENTE <= 1987
+|   EXPEDIENTE <= 1985: mas_de_10 (25.0/16.0)
+|   EXPEDIENTE > 1985: 6anyos (53.0/36.0)
+EXPEDIENTE > 1987
+|   EDAD_INICIO <= 19: 4anyos (1165.0/490.0)
+|   EDAD_INICIO > 19
+|   |   ACCESO = 2ciclo: 2anyos (2.2/1.19)
+|   |   ACCESO = adaptacion: 4anyos (0.0)
+|   |   ACCESO = COU: 4anyos (6.6/3.37)
+|   |   ACCESO = erasmus: 4anyos (0.0)
+|   |   ACCESO = FP: 4anyos (0.0)
+|   |   ACCESO = mayor25: 4anyos (20.91/11.18)
+|   |   ACCESO = selectividad: 4anyos (184.93/116.42)
+|   |   ACCESO = titulado: 2anyos (69.35/46.86)

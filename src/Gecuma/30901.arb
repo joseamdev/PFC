@@ -1,0 +1,21 @@
+603093
+EXPEDIENTE <= 1997
+|   ACCESO = 2ciclo
+|   |   EXPEDIENTE <= 1996: 2anyos (5.02)
+|   |   EXPEDIENTE > 1996
+|   |   |   EDAD_INICIO <= 21: 1anyo (2.0/1.0)
+|   |   |   EDAD_INICIO > 21: 4anyos (2.0/1.0)
+|   ACCESO = adaptacion: 4anyos (0.0)
+|   ACCESO = COU: 2anyos (27.07/5.0)
+|   ACCESO = erasmus: 4anyos (0.0)
+|   ACCESO = FP: 4anyos (0.0)
+|   ACCESO = mayor25
+|   |   EDAD_INICIO <= 27: 4anyos (4.01/2.01)
+|   |   EDAD_INICIO > 27: 7anyos (2.0)
+|   ACCESO = selectividad: 4anyos (354.87/180.87)
+|   ACCESO = titulado
+|   |   EXPEDIENTE <= 1993: 5anyos (4.02/2.02)
+|   |   EXPEDIENTE > 1993: 4anyos (5.0/2.0)
+EXPEDIENTE > 1997
+|   EXPEDIENTE <= 1999: 3anyos (164.0/36.0)
+|   EXPEDIENTE > 1999: 1anyo (12.0/1.0)

@@ -1,0 +1,23 @@
+641749
+EXPEDIENTE <= 1997
+|   EXPEDIENTE <= 1993
+|   |   ACCESO = 2ciclo: 2anyos (0.0)
+|   |   ACCESO = adaptacion: 2anyos (0.0)
+|   |   ACCESO = COU: 2anyos (25.93/6.1)
+|   |   ACCESO = erasmus: 2anyos (0.0)
+|   |   ACCESO = FP: 2anyos (0.0)
+|   |   ACCESO = mayor25: 4anyos (2.16/1.11)
+|   |   ACCESO = selectividad
+|   |   |   GENERO = H: 2anyos (20.45/11.07)
+|   |   |   GENERO = M: 4anyos (44.38/30.38)
+|   |   ACCESO = titulado: 2anyos (1.08/0.05)
+|   EXPEDIENTE > 1993: 4anyos (375.0/156.0)
+EXPEDIENTE > 1997
+|   ACCESO = 2ciclo: 2anyos (21.0/10.0)
+|   ACCESO = adaptacion: 2anyos (2.0/1.0)
+|   ACCESO = COU: 1anyo (1.0)
+|   ACCESO = erasmus: 3anyos (0.0)
+|   ACCESO = FP: 3anyos (0.0)
+|   ACCESO = mayor25: 3anyos (1.0)
+|   ACCESO = selectividad: 3anyos (214.0/39.0)
+|   ACCESO = titulado: 2anyos (1.0)

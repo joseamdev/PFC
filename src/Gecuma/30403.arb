@@ -1,0 +1,5 @@
+445078
+EXPEDIENTE <= 1987
+|   EDAD_INICIO <= 22: 5anyos (36.0/23.0)
+|   EDAD_INICIO > 22: mas_de_10 (29.0/17.0)
+EXPEDIENTE > 1987: 4anyos (636.0/349.0)

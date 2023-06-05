@@ -1,0 +1,5 @@
+561798
+EDAD_INICIO <= 25: 1anyo (84.0/37.0)
+EDAD_INICIO > 25
+|   EXPEDIENTE <= 1997: 2anyos (2.0/1.0)
+|   EXPEDIENTE > 1997: 3anyos (3.0/1.0)

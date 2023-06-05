@@ -1,0 +1,19 @@
+436364
+ACCESO = 2ciclo: 3anyos (0.0)
+ACCESO = adaptacion: 3anyos (0.0)
+ACCESO = COU: 1anyo (2.0/1.0)
+ACCESO = erasmus: 3anyos (0.0)
+ACCESO = FP: 2anyos (54.0/32.0)
+ACCESO = mayor25: 2anyos (2.0/1.0)
+ACCESO = selectividad
+|   EDAD_INICIO <= 18
+|   |   EDAD_INICIO <= 17: 3anyos (22.0/8.0)
+|   |   EDAD_INICIO > 17
+|   |   |   EXPEDIENTE <= 1997
+|   |   |   |   EXPEDIENTE <= 1996: 2anyos (29.0/17.0)
+|   |   |   |   EXPEDIENTE > 1996: 3anyos (17.0/7.0)
+|   |   |   EXPEDIENTE > 1997: 2anyos (25.0/15.0)
+|   EDAD_INICIO > 18
+|   |   GENERO = H: 3anyos (28.0/16.0)
+|   |   GENERO = M: 4anyos (38.0/25.0)
+ACCESO = titulado: 2anyos (3.0/2.0)

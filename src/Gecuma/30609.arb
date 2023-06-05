@@ -1,0 +1,11 @@
+484127
+EXPEDIENTE <= 1988
+|   EXPEDIENTE <= 1987: 6anyos (9.0/5.0)
+|   EXPEDIENTE > 1987: 4anyos (137.0/59.0)
+EXPEDIENTE > 1988
+|   EXPEDIENTE <= 1990
+|   |   EDAD_INICIO <= 18: 3anyos (133.0/76.0)
+|   |   EDAD_INICIO > 18: 4anyos (57.0/35.0)
+|   EXPEDIENTE > 1990
+|   |   EXPEDIENTE <= 1991: 3anyos (38.0/19.0)
+|   |   EXPEDIENTE > 1991: 1anyo (4.0/1.0)

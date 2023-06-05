@@ -1,0 +1,15 @@
+625219
+EXPEDIENTE <= 1997: 4anyos (380.0/175.0)
+EXPEDIENTE > 1997
+|   ACCESO = 2ciclo
+|   |   GENERO = H: 1anyo (4.0)
+|   |   GENERO = M
+|   |   |   EDAD_INICIO <= 35: 3anyos (4.0/1.0)
+|   |   |   EDAD_INICIO > 35: 2anyos (2.0)
+|   ACCESO = adaptacion: 2anyos (1.0)
+|   ACCESO = COU: 3anyos (0.0)
+|   ACCESO = erasmus: 3anyos (0.0)
+|   ACCESO = FP: 3anyos (1.0)
+|   ACCESO = mayor25: 4anyos (1.0)
+|   ACCESO = selectividad: 3anyos (174.0/37.0)
+|   ACCESO = titulado: 3anyos (4.0/1.0)
