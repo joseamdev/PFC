@@ -12,5 +12,4 @@ La herramienta empleada para el desarrollo de las aplicaciones ha sido Borland D
 
 ## Ejemplo
 
-https://github.com/joseamdev/gecuma/blob/master/res/ejemplo-de-uso.mp4
-
+https://github.com/joseamdev/gecuma/assets/46655604/f7816027-c547-4e8b-b393-fb7443c3b06b
