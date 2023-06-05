@@ -9,3 +9,8 @@ La herramienta empleada para el desarrollo de las aplicaciones ha sido Borland D
 ![FiltroDM](https://github.com/joseamdev/gecuma/blob/master/res/captura-FiltroDM.png?raw=true)
 
 ![GECUMA](https://github.com/joseamdev/gecuma/blob/master/res/captura-GECUMA.png?raw=true)
+
+## Ejemplo
+
+https://github.com/joseamdev/gecuma/blob/master/res/ejemplo-de-uso.mp4
+
