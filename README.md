@@ -1,4 +1,6 @@
-# gecuma
+# Proyecto Fin de Carrera
+
+## GECUMA
 
 En este trabajo se ha pretendido desarrollar una aplicación (FiltroDM) que filtre los datos de los alumnos de la Universidad de Málaga y generar un conjunto de experiencias. Además, mediante la aplicación Weka y las técnicas de minería de datos, se emplean dichas experiencias para generar árboles de toma de decisión. Estos árboles son la base de la segunda aplicación desarrollada (Gecuma) que permite que el alumno pueda conocer detalles de su futura trayectoria académica.
 
